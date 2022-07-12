@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Child_Fox.title>Miho ordinary child</Miho_Child_Fox.title>
+  <Miho_Child_Fox.titleShort>ordinary child</Miho_Child_Fox.titleShort>
+  <Miho_Child_Fox.baseDescription>{PAWN_nameDef} Was a mundane child in the city of Miho. He left a mediocre school and learned and acquired mediocre knowledge.</Miho_Child_Fox.baseDescription>
+
+  <Miho_Child_Rural.title>Miho countryside child</Miho_Child_Rural.title>
+  <Miho_Child_Rural.titleShort>countryside child</Miho_Child_Rural.titleShort>
+  <Miho_Child_Rural.baseDescription>{PAWN_nameDef} Was a kid who had happy days in the countryside. He took care of animals, grew plants, walked in the forest, and had happy days.</Miho_Child_Rural.baseDescription>
+
+  <Miho_Child_HuntFox.title>Miho hunting fox</Miho_Child_HuntFox.title>
+  <Miho_Child_HuntFox.titleShort>Hunting fox</Miho_Child_HuntFox.titleShort>
+  <Miho_Child_HuntFox.baseDescription>{PAWN_nameDef} was an amazing hunter. No one knows what is amazing.</Miho_Child_HuntFox.baseDescription>
+
+  <Miho_Child_Orphan.title>Miho abandoned fox</Miho_Child_Orphan.title>
+  <Miho_Child_Orphan.titleShort>abandoned fox</Miho_Child_Orphan.titleShort>
+  <Miho_Child_Orphan.baseDescription>{PAWN_nameDef} was a fox who was abandoned by his parents or lost his parents, though he is still alive.</Miho_Child_Orphan.baseDescription>
+
+  <Miho_Child_Gifted.title>Miho genius</Miho_Child_Gifted.title>
+  <Miho_Child_Gifted.titleShort>genius</Miho_Child_Gifted.titleShort>
+  <Miho_Child_Gifted.baseDescription>{PAWN_nameDef}Was a highly intelligent kid. {PAWN_nameDef} was often with adults who could talk to him because he couldn't talk to his friends around the same age.</Miho_Child_Gifted.baseDescription>
+
+  <Miho_Child_Desert.title>Miho Desert Fox</Miho_Child_Desert.title>
+  <Miho_Child_Desert.titleShort>Desert Fox</Miho_Child_Desert.titleShort>
+  <Miho_Child_Desert.baseDescription>{PAWN_nameDef} Was literally a desert fox. It can withstand the heat well.</Miho_Child_Desert.baseDescription>
+
+
+</LanguageData>

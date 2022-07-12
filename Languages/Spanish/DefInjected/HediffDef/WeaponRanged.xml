@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Plasma_Hediff.label>갑옷 융해</Miho_Plasma_Hediff.label>
+  <Miho_Plasma_Hediff.description>갑옷이 열에 의해 부분적으로 액체화 되었습니다.</Miho_Plasma_Hediff.description>
+  <Miho_Plasma_Hediff.stages.0.label>initial</Miho_Plasma_Hediff.stages.0.label>
+  <Miho_Plasma_Hediff.stages.1.label>initial</Miho_Plasma_Hediff.stages.1.label>
+  <Miho_Plasma_Hediff.stages.2.label>minor melted</Miho_Plasma_Hediff.stages.2.label>
+  <Miho_Plasma_Hediff.stages.3.label>moderate melted</Miho_Plasma_Hediff.stages.3.label>
+  <Miho_Plasma_Hediff.stages.4.label>severe melted</Miho_Plasma_Hediff.stages.4.label>
+  <Miho_Plasma_Hediff.stages.5.label>totally melted</Miho_Plasma_Hediff.stages.5.label>
+
+  <Miho_Neddle_Hediff.label>동충하초화</Miho_Neddle_Hediff.label>
+  <Miho_Neddle_Hediff.description>동충하초화 되었습니다. 사망시 태양화를 수확 할 수 있습니다.</Miho_Neddle_Hediff.description>
+  <Miho_Neddle_Hediff.stages.0.label>initial</Miho_Neddle_Hediff.stages.0.label>
+  <Miho_Neddle_Hediff.stages.1.label>initial</Miho_Neddle_Hediff.stages.1.label>
+  <Miho_Neddle_Hediff.stages.2.label>minor</Miho_Neddle_Hediff.stages.2.label>
+  <Miho_Neddle_Hediff.stages.3.label>moderate</Miho_Neddle_Hediff.stages.3.label>
+  <Miho_Neddle_Hediff.stages.4.label>severe</Miho_Neddle_Hediff.stages.4.label>
+
+
+</LanguageData>

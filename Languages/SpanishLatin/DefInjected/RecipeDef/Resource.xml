@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pure stuffs: Basics -->
+
+  <Miho_StoneChunktoPaste.label>Fabricación de masa de cerámica</Miho_StoneChunktoPaste.label>
+  <Miho_StoneChunktoPaste.description>Haz masa de cerámica con bloques de piedra.</Miho_StoneChunktoPaste.description>
+  <Miho_StoneChunktoPaste.jobString>Fabricación de masa de cerámica.</Miho_StoneChunktoPaste.jobString>
+
+  <Miho_PastetoCeramic.label>Fabricación de cerámica Miho</Miho_PastetoCeramic.label>
+  <Miho_PastetoCeramic.description>Produce cerámica Miho.</Miho_PastetoCeramic.description>
+  <Miho_PastetoCeramic.jobString>Fabricación de cerámica Miho.</Miho_PastetoCeramic.jobString>
+
+  <Miho_TeatoTea.label>Elaborar té solar.</Miho_TeatoTea.label>
+  <Miho_TeatoTea.description>Hacer té</Miho_TeatoTea.description>
+  <Miho_TeatoTea.jobString>Elaborar té solar.</Miho_TeatoTea.jobString>
+
+  <Miho_JellytoSilk.label>Fabricación de seda de ébano</Miho_JellytoSilk.label>
+  <Miho_JellytoSilk.description>Hacer seda de ébano.</Miho_JellytoSilk.description>
+  <Miho_JellytoSilk.jobString>Fabricación de seda de ébano</Miho_JellytoSilk.jobString>
+
+
+</LanguageData>

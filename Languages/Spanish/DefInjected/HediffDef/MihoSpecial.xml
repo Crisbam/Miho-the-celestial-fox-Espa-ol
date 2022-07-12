@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Shield_Hediff.label>방패착용</Miho_Shield_Hediff.label>
+  <Miho_Shield_Hediff.description>방패착용.</Miho_Shield_Hediff.description>
+  <Miho_Shield_Hediff.labelNoun>방패착용</Miho_Shield_Hediff.labelNoun>
+
+  <Miho_Magnifier_Hediff.label>매그니파이어착용</Miho_Magnifier_Hediff.label>
+  <Miho_Magnifier_Hediff.description>매그니파이어착용.</Miho_Magnifier_Hediff.description>
+  <Miho_Magnifier_Hediff.labelNoun>매그니파이어착용</Miho_Magnifier_Hediff.labelNoun>
+
+  <Miho_TacticalAssist_Hediff.label>사격보조컴퓨터 착용</Miho_TacticalAssist_Hediff.label>
+  <Miho_TacticalAssist_Hediff.description>사격보조컴퓨터 착용.</Miho_TacticalAssist_Hediff.description>
+  <Miho_TacticalAssist_Hediff.labelNoun>사격보조컴퓨터 착용</Miho_TacticalAssist_Hediff.labelNoun>
+
+  <Miho_Glasses_Hediff.label>안경착용</Miho_Glasses_Hediff.label>
+  <Miho_Glasses_Hediff.description>안경착용.</Miho_Glasses_Hediff.description>
+  <Miho_Glasses_Hediff.labelNoun>안경착용</Miho_Glasses_Hediff.labelNoun>
+
+
+</LanguageData>

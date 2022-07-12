@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_PlayerColonist.label>Colono Miho</Miho_PlayerColonist.label>
+  <Miho_PlayerColonist.labelPlural>Colonos Miho</Miho_PlayerColonist.labelPlural>
+  <Miho_PlayerColonist.labelMale>Colono Hombre Miho</Miho_PlayerColonist.labelMale>
+  <Miho_PlayerColonist.labelMalePlural>Colonos Hombres Miho</Miho_PlayerColonist.labelMalePlural>
+  <Miho_PlayerColonist.labelFemale>Colono Mujer Miho</Miho_PlayerColonist.labelFemale>
+  <Miho_PlayerColonist.labelFemalePlural>Colonos Mujeres Miho</Miho_PlayerColonist.labelFemalePlural>
+
+  <Miho_PlayerColonistFeral.label>Miho salvaje</Miho_PlayerColonistFeral.label>
+  <Miho_PlayerColonistFeral.labelPlural>Mihos salvaje</Miho_PlayerColonistFeral.labelPlural>
+  <Miho_PlayerColonistFeral.labelMale>Macho salvaje Miho</Miho_PlayerColonistFeral.labelMale>
+  <Miho_PlayerColonistFeral.labelMalePlural>Machos salvajes Miho</Miho_PlayerColonistFeral.labelMalePlural>
+  <Miho_PlayerColonistFeral.labelFemale>Hembra salvaje Miho</Miho_PlayerColonistFeral.labelFemale>
+  <Miho_PlayerColonistFeral.labelFemalePlural>Hembras salvajes Miho</Miho_PlayerColonistFeral.labelFemalePlural>
+
+
+</LanguageData>

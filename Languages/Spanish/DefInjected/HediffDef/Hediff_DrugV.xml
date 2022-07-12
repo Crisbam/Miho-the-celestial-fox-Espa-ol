@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_PositiveFlower_Drug_High.label>엘레스에 취함</Miho_PositiveFlower_Drug_High.label>
+  <Miho_PositiveFlower_Drug_High.description>엘레스에 취하였습니다.</Miho_PositiveFlower_Drug_High.description>
+  <Miho_PositiveFlower_Drug_High.labelNoun>엘레스에 취함</Miho_PositiveFlower_Drug_High.labelNoun>
+
+
+  <!-- WakeUp addiction -->
+
+  <Miho_PositiveFlower_Drug_Addiction.label>엘레스 중독</Miho_PositiveFlower_Drug_Addiction.label>
+  <Miho_PositiveFlower_Drug_Addiction.description>엘레스에 중독되면 몸은 양기가 부족하다고 신호를 보냅니다. 실제론 어떻든 말이죠.</Miho_PositiveFlower_Drug_Addiction.description>
+  <Miho_PositiveFlower_Drug_Addiction.stages.1.label>withdrawal</Miho_PositiveFlower_Drug_Addiction.stages.1.label>
+
+  <Miho_PositiveFlower_Drug_Tolerance.label>엘레스 허용치</Miho_PositiveFlower_Drug_Tolerance.label>
+  <Miho_PositiveFlower_Drug_Tolerance.description>엘레스</Miho_PositiveFlower_Drug_Tolerance.description>
+
+
+  <!-- Tea addiction -->
+
+  <Miho_PositiveFlower_Tea_Addiction.label>태양화 경약물 중독</Miho_PositiveFlower_Tea_Addiction.label>
+  <Miho_PositiveFlower_Tea_Addiction.description>아무이상 없음!</Miho_PositiveFlower_Tea_Addiction.description>
+  <Miho_PositiveFlower_Tea_Addiction.stages.1.label>withdrawal</Miho_PositiveFlower_Tea_Addiction.stages.1.label>
+
+  <Miho_PositiveFlower_Tea_Tolerance.label>태양화 경약물 허용치</Miho_PositiveFlower_Tea_Tolerance.label>
+  <Miho_PositiveFlower_Tea_Tolerance.description>태양화 경약물</Miho_PositiveFlower_Tea_Tolerance.description>
+
+
+</LanguageData>

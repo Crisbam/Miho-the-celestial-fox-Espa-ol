@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Apparel_Middle_Militia.label>미호 트루퍼 아머</Miho_Apparel_Middle_Militia.label>
+  <Miho_Apparel_Middle_Militia.description>전술적인 플레이트 캐리어 입니다. 튼튼하기도 하지만, 무엇보다 장전속도를 감소시켜 줍니다.</Miho_Apparel_Middle_Militia.description>
+
+  <Miho_Apparel_Middle_Militia_Tan.label>미호 트루퍼 아머 (tan)</Miho_Apparel_Middle_Militia_Tan.label>
+  <Miho_Apparel_Middle_Militia_Tan.description>전술적인 플레이트 캐리어 입니다. 튼튼하기도 하지만, 무엇보다 장전속도를 감소시켜 줍니다.</Miho_Apparel_Middle_Militia_Tan.description>
+
+  <Miho_Apparel_Middle_MilitiaVest.label>미호 전술조끼</Miho_Apparel_Middle_MilitiaVest.label>
+  <Miho_Apparel_Middle_MilitiaVest.description>전술적인 조끼 입니다. 약간의 방호력을 지니고 있고, 무엇보다 장전속도를 감소시켜 줍니다.</Miho_Apparel_Middle_MilitiaVest.description>
+
+  <Miho_Apparel_Middle_Powered.label>미호 외골격 중갑</Miho_Apparel_Middle_Powered.label>
+  <Miho_Apparel_Middle_Powered.description>외골격입니다. 여러가지 추가 파츠들을 장착시킬 수 있습니다.</Miho_Apparel_Middle_Powered.description>
+
+  <Miho_Apparel_Middle_PoweredWorker.label>미호 안전 외골격</Miho_Apparel_Middle_PoweredWorker.label>
+  <Miho_Apparel_Middle_PoweredWorker.description>외골격입니다. 착용자를 보호해 주진 않지만, 연약한 미호도 무거운 짐을 쉽게 나를 수 있게 만듭니다.</Miho_Apparel_Middle_PoweredWorker.description>
+
+  <Miho_Apparel_Middle_PoweredMarine.label>미호 강습 외골격</Miho_Apparel_Middle_PoweredMarine.label>
+  <Miho_Apparel_Middle_PoweredMarine.description>미호 궤도 방호 해병대에서 사용하는 강습 외골격 입니다. 근접전에 특화되었으며 메카나이트를 연소시켜 단거리를 점프 할 수있습니다.</Miho_Apparel_Middle_PoweredMarine.description>
+  <Miho_Apparel_Middle_PoweredMarine.verbs.0.label>jump</Miho_Apparel_Middle_PoweredMarine.verbs.0.label>
+
+
+</LanguageData>

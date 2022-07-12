@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 1.2와의 비교점
+	
+	- <startingGoodwill>항목이 삭제됨.
+	- 이데올로기dlc 관련하여 allowedCultures,requiredMemes,disallowedMemes,structureMemeWeights 항목이 추가됨.
+	- maxConfigurableAtWorldCreation 옵션이 생김(없으면 팩션 갯수를 조절하는 메뉴에서 나타나지 않음.) -->
+
+  <Miho_Faction_Mechanists.label>미호 기계론자</Miho_Faction_Mechanists.label>
+  <Miho_Faction_Mechanists.description>인간들의 물품과 기술에 빠진 여우 무리입니다.</Miho_Faction_Mechanists.description>
+  <Miho_Faction_Mechanists.pawnsPlural>미호들</Miho_Faction_Mechanists.pawnsPlural>
+  <Miho_Faction_Mechanists.leaderTitle>자본가-다이묘</Miho_Faction_Mechanists.leaderTitle>
+
+
+</LanguageData>

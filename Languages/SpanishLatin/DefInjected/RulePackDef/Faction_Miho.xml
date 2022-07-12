@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 1.2와의 비교점
+	
+	- <startingGoodwill>항목이 삭제됨.
+	- 이데올로기dlc 관련하여 allowedCultures,requiredMemes,disallowedMemes,structureMemeWeights 항목이 추가됨.
+	- maxConfigurableAtWorldCreation 옵션이 생김(없으면 팩션 갯수를 조절하는 메뉴에서 나타나지 않음.) -->
+
+  <NamerFaction_Miho.rulePack.rulesStrings.0>r_name->Casa Zorro Plateado</NamerFaction_Miho.rulePack.rulesStrings.0>
+  <NamerFaction_Miho.rulePack.rulesStrings.1>r_name->Casa Monocola</NamerFaction_Miho.rulePack.rulesStrings.1>
+  <NamerFaction_Miho.rulePack.rulesStrings.2>r_name->Casa Urocyon</NamerFaction_Miho.rulePack.rulesStrings.2>
+  <NamerFaction_Miho.rulePack.rulesStrings.3>r_name->Casa Fennec</NamerFaction_Miho.rulePack.rulesStrings.3>
+  <NamerFaction_Miho.rulePack.rulesStrings.4>r_name->Casa Vulpes</NamerFaction_Miho.rulePack.rulesStrings.4>
+  <NamerFaction_Miho.rulePack.rulesStrings.5>r_name->Casa Inari</NamerFaction_Miho.rulePack.rulesStrings.5>
+  <NamerFaction_Miho.rulePack.rulesStrings.6>r_name->Casa Cola Negra</NamerFaction_Miho.rulePack.rulesStrings.6>
+  <NamerFaction_Miho.rulePack.rulesStrings.7>r_name->Casa Kitsune</NamerFaction_Miho.rulePack.rulesStrings.7>
+  <NamerFaction_Miho.rulePack.rulesStrings.8>r_name->Casa Fox</NamerFaction_Miho.rulePack.rulesStrings.8>
+  <NamerFaction_Miho.rulePack.rulesStrings.9>r_name->Casa Zorro Rojo</NamerFaction_Miho.rulePack.rulesStrings.9>
+  <NamerFaction_Miho.rulePack.rulesStrings.10>r_name->Casa Nord</NamerFaction_Miho.rulePack.rulesStrings.10>
+
+
+</LanguageData>

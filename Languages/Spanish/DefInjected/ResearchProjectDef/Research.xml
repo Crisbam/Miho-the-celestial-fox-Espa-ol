@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 미래연구 -->
+
+  <Miho_BasicFactory.label>미호 기초 공장</Miho_BasicFactory.label>
+  <Miho_BasicFactory.description>세라믹을 생산할 수 있는 기본적인 기술을 배웁니다.</Miho_BasicFactory.description>
+
+  <Miho_HeavyFactory.label>미호 중공업</Miho_HeavyFactory.label>
+  <Miho_HeavyFactory.description>무기, 갑옷, 전투드론, 뭐든지 대량생산 할 수 있습니다.</Miho_HeavyFactory.description>
+
+  <Miho_MechHack.label>메카나이트 해킹</Miho_MechHack.label>
+  <Miho_MechHack.description>눈에 보이지 않을정도로 조그만 메카노이드들을 해킹할 수 있는 기술을 배웁니다. 바이러스 같은것도 생체 메카나이트로 볼 수 있겠죠. 이 기술의 주 목적은 미호들의 초능력 혈청을 변형시키는 것 입니다.</Miho_MechHack.description>
+
+  <Miho_Persona.label>조화객관환원이론</Miho_Persona.label>
+  <Miho_Persona.description>기계에게 양자적 영혼을 심어줄수있는 기술을 배웁니다.</Miho_Persona.description>
+
+  <Miho_Celestial.label>초월질량엮기</Miho_Celestial.label>
+  <Miho_Celestial.description>페르소나 AI에게 도움받는 대형 합금 생산소 입니다. 중성자별의 핵과 이종물질을 합금하여 만드는 "천상비늘"을 제작 할 수 있게 됩니다.</Miho_Celestial.description>
+
+  <Miho_Drone.label>미호 드론</Miho_Drone.label>
+  <Miho_Drone.description>운송이나 청소를 할수있는 소형드론을 개발합니다.</Miho_Drone.description>
+
+  <Miho_GuardDrone.label>거점 수호</Miho_GuardDrone.label>
+  <Miho_GuardDrone.description>단거리를 방호할수 있는 수호드론을 개발합니다.</Miho_GuardDrone.description>
+
+  <Miho_LightWarDrone.label>경장갑 견마 드론</Miho_LightWarDrone.label>
+  <Miho_LightWarDrone.description>중장거리를 도보 여행할 수 있는 다용도 대형 드론을 개발합니다.</Miho_LightWarDrone.description>
+
+  <Miho_CommandDrone.label>지휘 드론</Miho_CommandDrone.label>
+  <Miho_CommandDrone.description>페르소나 AI로 미호들을 현장 지휘 할수있는 지휘 드론을 개발합니다.</Miho_CommandDrone.description>
+
+  <Miho_HeavyWarDrone.label>중장갑 견마 드론</Miho_HeavyWarDrone.label>
+  <Miho_HeavyWarDrone.description>경전차 대용의 중장갑 견마 드론을 개발합니다.</Miho_HeavyWarDrone.description>
+
+  <Miho_Weapon.label>미호 무기</Miho_Weapon.label>
+  <Miho_Weapon.description>간단한 미호들의 무기를 제작 할 수 있습니다.</Miho_Weapon.description>
+
+  <Miho_HeavyWeapon.label>미호 정밀 무기</Miho_HeavyWeapon.label>
+  <Miho_HeavyWeapon.description>정밀한 미호들의 무기를 제작 할 수 있습니다.</Miho_HeavyWeapon.description>
+
+  <Miho_PlasmaWeapon.label>미호 플라즈마 무기</Miho_PlasmaWeapon.label>
+  <Miho_PlasmaWeapon.description>플라즈마상태의 원소를 이용하는 미호들의 무기를 제작 할 수 있습니다.</Miho_PlasmaWeapon.description>
+
+  <Miho_PlasmaCannon.label>미호 플라즈마 포</Miho_PlasmaCannon.label>
+  <Miho_PlasmaCannon.description>플라즈마상태의 원소를 이용하는 미호들의 대형 포를 제작 할 수 있습니다.</Miho_PlasmaCannon.description>
+
+  <Miho_ExperimentalCannon.label>미호 백이포</Miho_ExperimentalCannon.label>
+  <Miho_ExperimentalCannon.description>백이포(White barbarian cannon)는 제국인들의 레일건 함포를 역설계한 무기입니다.</Miho_ExperimentalCannon.description>
+
+  <Miho_ApparelBasic.label>미호 의복</Miho_ApparelBasic.label>
+  <Miho_ApparelBasic.description>간단한 미호들의 의복을 제작 할 수 있습니다.</Miho_ApparelBasic.description>
+
+  <Miho_ApparelAdvanced.label>미호 고급의복</Miho_ApparelAdvanced.label>
+  <Miho_ApparelAdvanced.description>복잡한 미호들의 의복을 제작 할 수 있습니다.</Miho_ApparelAdvanced.description>
+
+  <Miho_Silk.label>화현비단</Miho_Silk.label>
+  <Miho_Silk.description>부드럽고 열기에 강한 비단을 생산할수 있습니다.</Miho_Silk.description>
+
+  <Miho_SynthSilk.label>인조 화현비단</Miho_SynthSilk.label>
+  <Miho_SynthSilk.description>비록 수지타산에 안맞는것 같지만. 어쩔수 없이 만들어야 할 경우도 있을수 있죠!</Miho_SynthSilk.description>
+
+  <Miho_ApparelEltex.label>미호 엘텍스 의복</Miho_ApparelEltex.label>
+  <Miho_ApparelEltex.description>초능력치의 한계를 높혀주는 엘텍스 의복을 제작할 수 있습니다.</Miho_ApparelEltex.description>
+
+  <Miho_ApparelAssassin.label>미호 암살자 의복</Miho_ApparelAssassin.label>
+  <Miho_ApparelAssassin.description>신체 능력을 강화시킬수 있는 암살자 의복을 제작할 수 있습니다.</Miho_ApparelAssassin.description>
+
+  <Miho_ApparelSorcerees.label>미호 마법사 의복</Miho_ApparelSorcerees.label>
+  <Miho_ApparelSorcerees.description>메카나이트-마법 능력을 강화시킬수 있는 마법사 의복을 제작할 수 있습니다.</Miho_ApparelSorcerees.description>
+
+
+</LanguageData>

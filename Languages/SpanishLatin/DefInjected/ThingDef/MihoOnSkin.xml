@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Apparel_OnSkin_OrnatedOne.label>Ropa Eltex</Miho_Apparel_OnSkin_OrnatedOne.label>
+  <Miho_Apparel_OnSkin_OrnatedOne.description>Es un vestido tradicional de alta calidad hecho de oro y seda de ébano.</Miho_Apparel_OnSkin_OrnatedOne.description>
+
+  <Miho_Apparel_OnSkin_OrnatedFighter.label>Traje de combate Eltex</Miho_Apparel_OnSkin_OrnatedFighter.label>
+  <Miho_Apparel_OnSkin_OrnatedFighter.description>Este es un atractivo traje de combate.</Miho_Apparel_OnSkin_OrnatedFighter.description>
+
+  <Miho_Apparel_OnSkin_Hunter.label>Traje de caza</Miho_Apparel_OnSkin_Hunter.label>
+  <Miho_Apparel_OnSkin_Hunter.description>Ropa de caza confeccionada por los cazadores a partir de las pieles de sus presas. Su discreto diseño distintivo asegura que los cazadores no estorben cuando disparan a sus presas.</Miho_Apparel_OnSkin_Hunter.description>
+
+  <Miho_Apparel_OnSkin_Militia.label>Traje de seguridad</Miho_Apparel_OnSkin_Militia.label>
+  <Miho_Apparel_OnSkin_Militia.description>Un traje apoyado por los soldados. No es perfecto, pero proporciona una protección decente.</Miho_Apparel_OnSkin_Militia.description>
+
+  <Miho_Apparel_OnSkin_PMC.label>Traje de soldado</Miho_Apparel_OnSkin_PMC.label>
+  <Miho_Apparel_OnSkin_PMC.description>Traje compatible para soldados PMC. Disipa el impacto hasta cierto punto.</Miho_Apparel_OnSkin_PMC.description>
+
+  <Miho_Apparel_OnSkin_Pariah.label>Traje de batalla Pariah</Miho_Apparel_OnSkin_Pariah.label>
+  <Miho_Apparel_OnSkin_Pariah.description>Un traje de poder antipsíquico alimentado por las mecanitas internas del usuario. Busca aumentar la capacidad de combate cuerpo a cuerpo y la protección perfecta del usuario.</Miho_Apparel_OnSkin_Pariah.description>
+
+  <Miho_Apparel_OnSkin_Simple.label>Ropa común</Miho_Apparel_OnSkin_Simple.label>
+  <Miho_Apparel_OnSkin_Simple.description>Este es el atuendo tradicional de Miho. Se asemeja a la ropa de mujer de un país peninsular en la Tierra antigua.</Miho_Apparel_OnSkin_Simple.description>
+
+  <Miho_Apparel_OnSkin_SimpleShort.label>Ropa común corta</Miho_Apparel_OnSkin_SimpleShort.label>
+  <Miho_Apparel_OnSkin_SimpleShort.description>Este es el atuendo tradicional de Miho. Se parece a la ropa de las mujeres de un país archipiélago en la Tierra antigua.</Miho_Apparel_OnSkin_SimpleShort.description>
+
+  <Miho_Apparel_OnSkin_Regular.label>Traje estándar</Miho_Apparel_OnSkin_Regular.label>
+  <Miho_Apparel_OnSkin_Regular.description>Este es el traje estándar de Miho. Es un vestido que se puede usar cómodamente en cualquier lugar, ya sea en privado o en un ambiente formal.</Miho_Apparel_OnSkin_Regular.description>
+
+  <Miho_Apparel_OnSkin_Sailor.label>Traje de marine espacial</Miho_Apparel_OnSkin_Sailor.label>
+  <Miho_Apparel_OnSkin_Sailor.description>Este es el traje de marine que usan los Mihos espaciales. También sirve como equipo de protección ambiental hostil.</Miho_Apparel_OnSkin_Sailor.description>
+
+
+</LanguageData>

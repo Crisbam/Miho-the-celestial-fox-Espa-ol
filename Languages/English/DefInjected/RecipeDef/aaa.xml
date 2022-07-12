@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Miho_StoneChunktoPaste.label>making ceramic dough</Miho_StoneChunktoPaste.label>
+  <Miho_StoneChunktoPaste.description>Make ceramic dough from stone chunks.</Miho_StoneChunktoPaste.description>
+  <Miho_StoneChunktoPaste.jobString>making ceramic dough.</Miho_StoneChunktoPaste.jobString>
+  <Miho_PastetoCeramic.label>making Miho Ceramic</Miho_PastetoCeramic.label>
+  <Miho_PastetoCeramic.description>making Miho Ceramic.</Miho_PastetoCeramic.description>
+  <Miho_PastetoCeramic.jobString>making Miho Ceramic</Miho_PastetoCeramic.jobString>
+  <Miho_TeatoTea.label>making Solar tea.</Miho_TeatoTea.label>
+  <Miho_TeatoTea.description>making tea.</Miho_TeatoTea.description>
+  <Miho_TeatoTea.jobString>making tea.</Miho_TeatoTea.jobString>
+  <Miho_JellytoSilk.label>making Ebonsilk</Miho_JellytoSilk.label>
+  <Miho_JellytoSilk.description>making Ebonsilk.</Miho_JellytoSilk.description>
+  <Miho_JellytoSilk.jobString>making Ebonsilk.</Miho_JellytoSilk.jobString>
+</LanguageData>

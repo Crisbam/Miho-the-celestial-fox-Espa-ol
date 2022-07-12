@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WandererJoin_Miho.label>joins of wild miho</WandererJoin_Miho.label>
+  <WandererJoin_Miho.letterLabel>joins of wild miho: {PAWN_nameDef}</WandererJoin_Miho.letterLabel>
+  <WandererJoin_Miho.letterText>{PAWN_nameDef}was once a wild fox, but under the influence of a mysterious power, took on a human form. Driven away from the herd of foxes, she wants to join her settlement. You can kill it or sell it if you don't want it. But the settlers won't like this.</WandererJoin_Miho.letterText>
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WakeUp addiction -->
+
+  <Chemical_Miho_PositiveFlower_Drug.label>Eleth</Chemical_Miho_PositiveFlower_Drug.label>
+  <Chemical_Miho_PositiveFlower_Drug.description>Porque soy adicto al Eleth. Eleth debe tomarse regularmente.</Chemical_Miho_PositiveFlower_Drug.description>
+
+
+  <!-- Tea addiction -->
+
+  <Chemical_Miho_PositiveFlower_Tea.label>Droga Helianto de luz</Chemical_Miho_PositiveFlower_Tea.label>
+  <Chemical_Miho_PositiveFlower_Tea.description>Para que Miho no tenga sensaciones animales, es necesario que tome periódicamente una droga hecha de helianto.</Chemical_Miho_PositiveFlower_Tea.description>
+
+
+</LanguageData>

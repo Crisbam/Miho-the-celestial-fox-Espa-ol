@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Miho_PositiveFlower_Drug_High.label>High on Eleth</Miho_PositiveFlower_Drug_High.label>
+  <Miho_PositiveFlower_Drug_High.labelNoun>High on Eleth</Miho_PositiveFlower_Drug_High.labelNoun>
+  <Miho_PositiveFlower_Drug_High.description>High on Eleth.</Miho_PositiveFlower_Drug_High.description>
+  <Miho_PositiveFlower_Drug_Addiction.label>Eleth Addiction</Miho_PositiveFlower_Drug_Addiction.label>
+  <Miho_PositiveFlower_Drug_Addiction.description>When you are addicted to eleth, your body signals a lack of yang. In reality, whatever.</Miho_PositiveFlower_Drug_Addiction.description>
+  <Miho_PositiveFlower_Drug_Addiction.stages.1.label>withdrawal</Miho_PositiveFlower_Drug_Addiction.stages.1.label>
+  <Miho_PositiveFlower_Drug_Tolerance.label>Eleth tolerance</Miho_PositiveFlower_Drug_Tolerance.label>
+  <Miho_PositiveFlower_Drug_Tolerance.description>Eleth</Miho_PositiveFlower_Drug_Tolerance.description>
+  <Miho_PositiveFlower_Tea_Addiction.label>helianto light drug addiction</Miho_PositiveFlower_Tea_Addiction.label>
+  <Miho_PositiveFlower_Tea_Addiction.description>nothing wrong!</Miho_PositiveFlower_Tea_Addiction.description>
+  <Miho_PositiveFlower_Tea_Addiction.stages.1.label>withdrawal</Miho_PositiveFlower_Tea_Addiction.stages.1.label>
+  <Miho_PositiveFlower_Tea_Tolerance.label>helianto light drug tolerance</Miho_PositiveFlower_Tea_Tolerance.label>
+  <Miho_PositiveFlower_Tea_Tolerance.description>helianto light drug</Miho_PositiveFlower_Tea_Tolerance.description>
+  <Miho_ElegansDeploy_Hediff.description>booster</Miho_ElegansDeploy_Hediff.description>
+  <Miho_ElegansDeploy_Hediff.label>booster</Miho_ElegansDeploy_Hediff.label>
+  <Miho_Elegans_Hediff.label>Elegans Organ Potential</Miho_Elegans_Hediff.label>
+  <Miho_Elegans_Hediff.description>The mist flower organ, or the organ of elegans, is an organ that exists only in Miho's body, and it activates water-soluble mecanites and spreads them throughout the body. One of the reasons why it is called the elegans organ is that the tubes spread throughout the body are like the stem of the elegans flower. \n\n In order to maintain the Elegans Organ, you must periodically supply mecanite through helianto.</Miho_Elegans_Hediff.description>
+  <Miho_Elegans_Hediff.stages.0.label>Disabled</Miho_Elegans_Hediff.stages.0.label>
+  <Miho_Elegans_Hediff.stages.1.label>very degraded</Miho_Elegans_Hediff.stages.1.label>
+  <Miho_Elegans_Hediff.stages.2.label>degraded</Miho_Elegans_Hediff.stages.2.label>
+  <Miho_Elegans_Hediff.stages.3.label>normal</Miho_Elegans_Hediff.stages.3.label>
+  <Miho_Elegans_Hediff.stages.4.label>overcharge</Miho_Elegans_Hediff.stages.4.label>
+  <Miho_PositiveFlower_Pipe_High.label>smoked Solar cigarettes</Miho_PositiveFlower_Pipe_High.label>
+  <Miho_PositiveFlower_Pipe_High.labelNoun>smoked Solar cigarettes</Miho_PositiveFlower_Pipe_High.labelNoun>
+  <Miho_PositiveFlower_Pipe_High.description>Solar cigarettes clear the mind. It also has the effect of activating the metabolism.</Miho_PositiveFlower_Pipe_High.description>
+  <Miho_PositiveFlower_Tea_High.label>drinked Solar tea</Miho_PositiveFlower_Tea_High.label>
+  <Miho_PositiveFlower_Tea_High.labelNoun>drinked Solar tea</Miho_PositiveFlower_Tea_High.labelNoun>
+  <Miho_PositiveFlower_Tea_High.description>Solar tea replenishes yang. It is good to drink before going to bed as it increases sleep efficiency.</Miho_PositiveFlower_Tea_High.description>
+  <Miho_PositiveFlower_High.label>태양화 꽃잎을 먹음</Miho_PositiveFlower_High.label>
+  <Miho_PositiveFlower_High.labelNoun>태양화 꽃잎을 먹음</Miho_PositiveFlower_High.labelNoun>
+  <Miho_PositiveFlower_High.description>태양화 꽃잎은 양기를 충전시켜 줍니다.</Miho_PositiveFlower_High.description>
+  <Miho_Tail_Hediff.description>Tail</Miho_Tail_Hediff.description>
+  <Miho_Tail_Hediff.label>Tail</Miho_Tail_Hediff.label>
+  <Miho_Tail_Hediff.stages.0.label>a</Miho_Tail_Hediff.stages.0.label>
+  <Miho_Tail_Hediff.stages.1.label>b</Miho_Tail_Hediff.stages.1.label>
+  <Miho_Tail_Hediff.stages.2.label>c</Miho_Tail_Hediff.stages.2.label>
+  <Miho_Wash_Hediff.description>Wash</Miho_Wash_Hediff.description>
+  <Miho_Wash_Hediff.label>Wash</Miho_Wash_Hediff.label>
+  <Miho_Wash_Hediff.stages.0.label>a</Miho_Wash_Hediff.stages.0.label>
+  <Miho_Hidden_Hediff.description>Hidden</Miho_Hidden_Hediff.description>
+  <Miho_Hidden_Hediff.label>Hidden</Miho_Hidden_Hediff.label>
+  <Miho_Ear_Hediff.description>large ears</Miho_Ear_Hediff.description>
+  <Miho_Ear_Hediff.label>large ears</Miho_Ear_Hediff.label>
+  <Miho_Random.label>Miho_Random</Miho_Random.label>
+  <Miho_Random.description>HATIHATIHATIHO.</Miho_Random.description>
+  <Miho_Loli.description>loli hediff</Miho_Loli.description>
+  <Miho_Loli.label>young hediff</Miho_Loli.label>
+  <Miho_Shota.description>shota hediff</Miho_Shota.description>
+  <Miho_Shota.label>young hediff</Miho_Shota.label>
+  <Miho_OHPG_male.description>male hediff</Miho_OHPG_male.description>
+  <Miho_OHPG_male.label>male hediff</Miho_OHPG_male.label>
+  <Miho_OHPG_female.description>female hediff</Miho_OHPG_female.description>
+  <Miho_OHPG_female.label>female hediff</Miho_OHPG_female.label>
+  <Miho_OneHediffPerGenderAdult.description>apply one hediff per gender</Miho_OneHediffPerGenderAdult.description>
+  <Miho_OneHediffPerGenderAdult.label>OneHediffPerGender</Miho_OneHediffPerGenderAdult.label>
+  <Miho_OneHediffPerGenderLoli.description>apply one hediff per gender</Miho_OneHediffPerGenderLoli.description>
+  <Miho_OneHediffPerGenderLoli.label>OneHediffPerGender</Miho_OneHediffPerGenderLoli.label>
+  <Miho_OneHediffPerLifeStage.description>apply one hediff per lifestage</Miho_OneHediffPerLifeStage.description>
+  <Miho_OneHediffPerLifeStage.label>OneHediffPerLifeStage</Miho_OneHediffPerLifeStage.label>
+  <Miho_OneHediffPerLifeStage.labelNoun>OneHediffPerLifeStage.labelNoun</Miho_OneHediffPerLifeStage.labelNoun>
+  <Miho_Lover_Hediff.label>여우구슬</Miho_Lover_Hediff.label>
+  <Miho_Lover_Hediff.description>여우구슬은 미호의 체내에 존재하는 기관입니다.</Miho_Lover_Hediff.description>
+  <Miho_Waifu_Hediff.label>사랑의 증표</Miho_Waifu_Hediff.label>
+  <Miho_Waifu_Hediff.description>사랑의 증표</Miho_Waifu_Hediff.description>
+  <Miho_HawkInjury_Hediff.label>매</Miho_HawkInjury_Hediff.label>
+  <Miho_HawkInjury_Hediff.labelNoun>매</Miho_HawkInjury_Hediff.labelNoun>
+  <Miho_HawkInjury_Hediff.description>매</Miho_HawkInjury_Hediff.description>
+  <Miho_HawkInjury_Hediff.comps.1.labelTendedWell>bandaged</Miho_HawkInjury_Hediff.comps.1.labelTendedWell>
+  <Miho_HawkInjury_Hediff.comps.1.labelTendedWellInner>tended</Miho_HawkInjury_Hediff.comps.1.labelTendedWellInner>
+  <Miho_HawkInjury_Hediff.comps.1.labelSolidTendedWell>tended</Miho_HawkInjury_Hediff.comps.1.labelSolidTendedWell>
+  <Miho_HawkInjury_Hediff.comps.3.permanentLabel>scar</Miho_HawkInjury_Hediff.comps.3.permanentLabel>
+  <Miho_HawkInjury_Hediff.injuryProps.destroyedLabel>Destroyed</Miho_HawkInjury_Hediff.injuryProps.destroyedLabel>
+  <Miho_HawkInjury_Hediff.injuryProps.destroyedOutLabel>Destroyed</Miho_HawkInjury_Hediff.injuryProps.destroyedOutLabel>
+  <Miho_Thunder_Hediff.label>Electric shock</Miho_Thunder_Hediff.label>
+  <Miho_Thunder_Hediff.description>With a special charge using Mechanites, both Mechanoids and humans are equally electrocuted.</Miho_Thunder_Hediff.description>
+  <Miho_Hawk_Hediff.label>Preyed</Miho_Hawk_Hediff.label>
+  <Miho_Hawk_Hediff.description>Mechanite hawk interrupt enemies.</Miho_Hawk_Hediff.description>
+  <Miho_Heal_Hediff.label>healed</Miho_Heal_Hediff.label>
+  <Miho_Heal_Hediff.description>being healed using psycast.</Miho_Heal_Hediff.description>
+  <Miho_Spiritualize_Hediff.label>Spiritualize</Miho_Spiritualize_Hediff.label>
+  <Miho_Spiritualize_Hediff.description>feel the sixth sense.</Miho_Spiritualize_Hediff.description>
+  <Miho_MyeongIl_Hediff.label>persona command</Miho_MyeongIl_Hediff.label>
+  <Miho_MyeongIl_Hediff.description>By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance.</Miho_MyeongIl_Hediff.description>
+  <Miho_MyeongIlCommand_Hediff.label>Being commanded by Persona AI</Miho_MyeongIlCommand_Hediff.label>
+  <Miho_MyeongIlCommand_Hediff.description>Combat abilities are boosted thanks to being near someone who is using the officer command ability.</Miho_MyeongIlCommand_Hediff.description>
+  <Miho_Formation_Hediff.label>protect totem</Miho_Formation_Hediff.label>
+  <Miho_Formation_Hediff.description>Releases a mental wave around you to relieve tension in battle and reduce damage taken. However, the caster himself becomes vulnerable to damage.</Miho_Formation_Hediff.description>
+  <Miho_FormationCommand_Hediff.label>protect totem</Miho_FormationCommand_Hediff.label>
+  <Miho_FormationCommand_Hediff.description>Releases a mental wave around you to relieve tension in battle and reduce damage taken. However, the caster himself becomes vulnerable to damage.</Miho_FormationCommand_Hediff.description>
+  <Miho_EltexMask_Hediff.label>Masked</Miho_EltexMask_Hediff.label>
+  <Miho_EltexMask_Hediff.labelNoun>Masked</Miho_EltexMask_Hediff.labelNoun>
+  <Miho_EltexMask_Hediff.description>Masked</Miho_EltexMask_Hediff.description>
+  <Miho_SorceressMask_Hediff.label>Masked</Miho_SorceressMask_Hediff.label>
+  <Miho_SorceressMask_Hediff.labelNoun>Masked</Miho_SorceressMask_Hediff.labelNoun>
+  <Miho_SorceressMask_Hediff.description>Masked</Miho_SorceressMask_Hediff.description>
+  <Miho_AssassinMelee_Hediff.label>Mechanite self-healing</Miho_AssassinMelee_Hediff.label>
+  <Miho_AssassinMelee_Hediff.labelNoun>Mechanite self-healing</Miho_AssassinMelee_Hediff.labelNoun>
+  <Miho_AssassinMelee_Hediff.description>Mechanite accelerates the user's metabolism to heal without pain.</Miho_AssassinMelee_Hediff.description>
+  <Miho_Shield_Hediff.label>Shielded</Miho_Shield_Hediff.label>
+  <Miho_Shield_Hediff.labelNoun>Shielded</Miho_Shield_Hediff.labelNoun>
+  <Miho_Shield_Hediff.description>Shielded.</Miho_Shield_Hediff.description>
+  <Miho_Magnifier_Hediff.label> magnifier</Miho_Magnifier_Hediff.label>
+  <Miho_Magnifier_Hediff.labelNoun>magnifier</Miho_Magnifier_Hediff.labelNoun>
+  <Miho_Magnifier_Hediff.description>magnifier.</Miho_Magnifier_Hediff.description>
+  <Miho_TacticalAssist_Hediff.label>fire assistant computer</Miho_TacticalAssist_Hediff.label>
+  <Miho_TacticalAssist_Hediff.labelNoun>fire assistant computer</Miho_TacticalAssist_Hediff.labelNoun>
+  <Miho_TacticalAssist_Hediff.description>fire assistant computer.</Miho_TacticalAssist_Hediff.description>
+  <Miho_Glasses_Hediff.label>glasses</Miho_Glasses_Hediff.label>
+  <Miho_Glasses_Hediff.labelNoun>glasses</Miho_Glasses_Hediff.labelNoun>
+  <Miho_Glasses_Hediff.description>glasses.</Miho_Glasses_Hediff.description>
+  <Miho_Huntress_Start_Hediff.description>Hunter</Miho_Huntress_Start_Hediff.description>
+  <Miho_Huntress_Start_Hediff.label>Hunter (planet acclimatization)</Miho_Huntress_Start_Hediff.label>
+  <Miho_Huntress_I_Hediff.description>Hunter</Miho_Huntress_I_Hediff.description>
+  <Miho_Huntress_I_Hediff.label>Hunter (I)</Miho_Huntress_I_Hediff.label>
+  <Miho_Huntress_II_Hediff.description>Hunter</Miho_Huntress_II_Hediff.description>
+  <Miho_Huntress_II_Hediff.label>Hunter (II)</Miho_Huntress_II_Hediff.label>
+  <Miho_Huntress_III_Hediff.description>Hunter</Miho_Huntress_III_Hediff.description>
+  <Miho_Huntress_III_Hediff.label>Hunter (III)</Miho_Huntress_III_Hediff.label>
+  <Miho_Huntress_IV_Hediff.description>Hunter</Miho_Huntress_IV_Hediff.description>
+  <Miho_Huntress_IV_Hediff.label>Hunter (IV)</Miho_Huntress_IV_Hediff.label>
+  <Miho_Huntress_V_Hediff.description>Hunter</Miho_Huntress_V_Hediff.description>
+  <Miho_Huntress_V_Hediff.label>Hunter (V)</Miho_Huntress_V_Hediff.label>
+  <Miho_Shamaness_Start_Hediff.description>Shaman</Miho_Shamaness_Start_Hediff.description>
+  <Miho_Shamaness_Start_Hediff.label>Shaman (planet acclimatization)</Miho_Shamaness_Start_Hediff.label>
+  <Miho_Shamaness_I_Hediff.description>Shaman</Miho_Shamaness_I_Hediff.description>
+  <Miho_Shamaness_I_Hediff.label>Shaman (I)</Miho_Shamaness_I_Hediff.label>
+  <Miho_Shamaness_II_Hediff.description>Shaman</Miho_Shamaness_II_Hediff.description>
+  <Miho_Shamaness_II_Hediff.label>Shaman (II)</Miho_Shamaness_II_Hediff.label>
+  <Miho_Shamaness_III_Hediff.description>Shaman</Miho_Shamaness_III_Hediff.description>
+  <Miho_Shamaness_III_Hediff.label>Shaman (III)</Miho_Shamaness_III_Hediff.label>
+  <Miho_Shamaness_IV_Hediff.description>Shaman</Miho_Shamaness_IV_Hediff.description>
+  <Miho_Shamaness_IV_Hediff.label>Shaman (IV)</Miho_Shamaness_IV_Hediff.label>
+  <Miho_Shamaness_V_Hediff.description>Shaman</Miho_Shamaness_V_Hediff.description>
+  <Miho_Shamaness_V_Hediff.label>Shaman (V)</Miho_Shamaness_V_Hediff.label>
+  <Miho_Skill_I_Hawk_Hediff.description>사냥매</Miho_Skill_I_Hawk_Hediff.description>
+  <Miho_Skill_I_Hawk_Hediff.label>사냥매</Miho_Skill_I_Hawk_Hediff.label>
+  <Miho_Skill_II_FireballSmall_Hediff.description>여우잔불</Miho_Skill_II_FireballSmall_Hediff.description>
+  <Miho_Skill_II_FireballSmall_Hediff.label>여우잔불</Miho_Skill_II_FireballSmall_Hediff.label>
+  <Miho_Skill_III_Fireball_Hediff.description>여우불</Miho_Skill_III_Fireball_Hediff.description>
+  <Miho_Skill_III_Fireball_Hediff.label>여우불</Miho_Skill_III_Fireball_Hediff.label>
+  <Miho_Skill_IV_FireballAdept_Hediff.description>여우불 화살</Miho_Skill_IV_FireballAdept_Hediff.description>
+  <Miho_Skill_IV_FireballAdept_Hediff.label>여우불 화살</Miho_Skill_IV_FireballAdept_Hediff.label>
+  <Miho_Skill_IV_Thunder_Hediff.description>여우번개</Miho_Skill_IV_Thunder_Hediff.description>
+  <Miho_Skill_IV_Thunder_Hediff.label>여우번개</Miho_Skill_IV_Thunder_Hediff.label>
+  <Miho_Skill_IV_Serenity_Hediff.description>평온의 꼬리침</Miho_Skill_IV_Serenity_Hediff.description>
+  <Miho_Skill_IV_Serenity_Hediff.label>평온의 꼬리침</Miho_Skill_IV_Serenity_Hediff.label>
+  <Miho_Skill_III_Inspiration_Hediff.description>응원의 꼬리침</Miho_Skill_III_Inspiration_Hediff.description>
+  <Miho_Skill_III_Inspiration_Hediff.label>응원의 꼬리침</Miho_Skill_III_Inspiration_Hediff.label>
+  <Miho_Skill_I_Love_Hediff.description>유혹의 꼬리침</Miho_Skill_I_Love_Hediff.description>
+  <Miho_Skill_I_Love_Hediff.label>유혹의 꼬리침</Miho_Skill_I_Love_Hediff.label>
+  <Miho_Skill_III_Defence_Hediff.description>보호의 토템</Miho_Skill_III_Defence_Hediff.description>
+  <Miho_Skill_III_Defence_Hediff.label>보호의 토템</Miho_Skill_III_Defence_Hediff.label>
+  <Miho_Skill_IV_Shield_Hediff.description>여우 보호막</Miho_Skill_IV_Shield_Hediff.description>
+  <Miho_Skill_IV_Shield_Hediff.label>여우 보호막</Miho_Skill_IV_Shield_Hediff.label>
+  <Miho_Skill_IV_Heal_Hediff.description>치유의 손길</Miho_Skill_IV_Heal_Hediff.description>
+  <Miho_Skill_IV_Heal_Hediff.label>치유의 손길</Miho_Skill_IV_Heal_Hediff.label>
+  <Miho_Skill_I_Fox_Hediff.description>운반여우</Miho_Skill_I_Fox_Hediff.description>
+  <Miho_Skill_I_Fox_Hediff.label>운반여우</Miho_Skill_I_Fox_Hediff.label>
+  <Miho_Skill_II_Butterfly_Hediff.description>칼날나비</Miho_Skill_II_Butterfly_Hediff.description>
+  <Miho_Skill_II_Butterfly_Hediff.label>칼날나비</Miho_Skill_II_Butterfly_Hediff.label>
+  <Miho_Skill_III_Skip_Hediff.description>재조립</Miho_Skill_III_Skip_Hediff.description>
+  <Miho_Skill_III_Skip_Hediff.label>재조립</Miho_Skill_III_Skip_Hediff.label>
+  <Miho_Skill_IV_Turret_Hediff.description>여우불 화로</Miho_Skill_IV_Turret_Hediff.description>
+  <Miho_Skill_IV_Turret_Hediff.label>여우불 화로</Miho_Skill_IV_Turret_Hediff.label>
+  <Miho_Summoner_Start_Hediff.description>Summoner</Miho_Summoner_Start_Hediff.description>
+  <Miho_Summoner_Start_Hediff.label>Summoner (planet acclimatization)</Miho_Summoner_Start_Hediff.label>
+  <Miho_Summoner_I_Hediff.description>Summoner</Miho_Summoner_I_Hediff.description>
+  <Miho_Summoner_I_Hediff.label>Summoner (I)</Miho_Summoner_I_Hediff.label>
+  <Miho_Summoner_II_Hediff.description>Summoner</Miho_Summoner_II_Hediff.description>
+  <Miho_Summoner_II_Hediff.label>Summoner (II)</Miho_Summoner_II_Hediff.label>
+  <Miho_Summoner_III_Hediff.description>Summoner</Miho_Summoner_III_Hediff.description>
+  <Miho_Summoner_III_Hediff.label>Summoner (III)</Miho_Summoner_III_Hediff.label>
+  <Miho_Summoner_IV_Hediff.description>Summoner</Miho_Summoner_IV_Hediff.description>
+  <Miho_Summoner_IV_Hediff.label>Summoner (IV)</Miho_Summoner_IV_Hediff.label>
+  <Miho_Summoner_V_Hediff.description>Summoner</Miho_Summoner_V_Hediff.description>
+  <Miho_Summoner_V_Hediff.label>Summoner (V)</Miho_Summoner_V_Hediff.label>
+  <Miho_Summon_SixHour.description>alive</Miho_Summon_SixHour.description>
+  <Miho_Summon_SixHour.label>alive</Miho_Summon_SixHour.label>
+  <Miho_Summon_SevenDay.description>alive</Miho_Summon_SevenDay.description>
+  <Miho_Summon_SevenDay.label>alive</Miho_Summon_SevenDay.label>
+  <Miho_Summon_Dead.description>dead</Miho_Summon_Dead.description>
+  <Miho_Summon_Dead.label>dead</Miho_Summon_Dead.label>
+  <Miho_Temptress_Start_Hediff.description>Fatale</Miho_Temptress_Start_Hediff.description>
+  <Miho_Temptress_Start_Hediff.label>Fatale (planet acclimatization)</Miho_Temptress_Start_Hediff.label>
+  <Miho_Temptress_I_Hediff.description>Fatale</Miho_Temptress_I_Hediff.description>
+  <Miho_Temptress_I_Hediff.label>Fatale (I)</Miho_Temptress_I_Hediff.label>
+  <Miho_Temptress_II_Hediff.description>Fatale</Miho_Temptress_II_Hediff.description>
+  <Miho_Temptress_II_Hediff.label>Fatale (II)</Miho_Temptress_II_Hediff.label>
+  <Miho_Temptress_III_Hediff.description>Fatale</Miho_Temptress_III_Hediff.description>
+  <Miho_Temptress_III_Hediff.label>Fatale (III)</Miho_Temptress_III_Hediff.label>
+  <Miho_Temptress_IV_Hediff.description>Fatale</Miho_Temptress_IV_Hediff.description>
+  <Miho_Temptress_IV_Hediff.label>Fatale (IV)</Miho_Temptress_IV_Hediff.label>
+  <Miho_Temptress_V_Hediff.description>Fatale</Miho_Temptress_V_Hediff.description>
+  <Miho_Temptress_V_Hediff.label>Fatale (V)</Miho_Temptress_V_Hediff.label>
+  <Miho_Plasma_Hediff.label>armor melted</Miho_Plasma_Hediff.label>
+  <Miho_Plasma_Hediff.description>The armor has been partially liquefied by the heat.</Miho_Plasma_Hediff.description>
+  <Miho_Plasma_Hediff.stages.0.label>initial</Miho_Plasma_Hediff.stages.0.label>
+  <Miho_Plasma_Hediff.stages.1.label>initial</Miho_Plasma_Hediff.stages.1.label>
+  <Miho_Plasma_Hediff.stages.2.label>minor melted</Miho_Plasma_Hediff.stages.2.label>
+  <Miho_Plasma_Hediff.stages.3.label>moderate melted</Miho_Plasma_Hediff.stages.3.label>
+  <Miho_Plasma_Hediff.stages.4.label>severe melted</Miho_Plasma_Hediff.stages.4.label>
+  <Miho_Plasma_Hediff.stages.5.label>totally melted</Miho_Plasma_Hediff.stages.5.label>
+</LanguageData>

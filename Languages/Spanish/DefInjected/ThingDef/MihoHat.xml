@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Apparel_Hat_Winter.label>미호 비니</Miho_Apparel_Hat_Winter.label>
+  <Miho_Apparel_Hat_Winter.description>두껍고 따뜻한 모자입니다.</Miho_Apparel_Hat_Winter.description>
+
+  <Miho_Apparel_Mask_Eltex.label>미호 엘텍스 마스크</Miho_Apparel_Mask_Eltex.label>
+  <Miho_Apparel_Mask_Eltex.description>흑단 목재와 옥으로 만들어진 초능력 증진 마스크 입니다.</Miho_Apparel_Mask_Eltex.description>
+
+  <Miho_Apparel_Hat_MilitiaAssault.label>미호 트루퍼 헬멧 (가면)</Miho_Apparel_Hat_MilitiaAssault.label>
+  <Miho_Apparel_Hat_MilitiaAssault.description>병사들에게 지원되는 헬멧입니다.</Miho_Apparel_Hat_MilitiaAssault.description>
+
+  <Miho_Apparel_Hat_Militia.label>미호 트루퍼 헬멧</Miho_Apparel_Hat_Militia.label>
+  <Miho_Apparel_Hat_Militia.description>병사들에게 지급되는 헬멧입니다. 빠른 조준에 중점이 맞춰져 있습니다.</Miho_Apparel_Hat_Militia.description>
+
+  <Miho_Apparel_Hat_Worker.label>미호 안전모</Miho_Apparel_Hat_Worker.label>
+  <Miho_Apparel_Hat_Worker.description>위험한 곳에서 근무할때 필수인 안전모 입니다. 당연하지만, 미호의 목숨값보단 저렴합니다.</Miho_Apparel_Hat_Worker.description>
+
+  <Miho_Apparel_Hat_PMC.label>미호 정예 트루퍼 헬멧</Miho_Apparel_Hat_PMC.label>
+  <Miho_Apparel_Hat_PMC.description>PMC 병사들에게 지급되는 헬멧입니다. 방호에 중점이 맞춰져 있습니다.</Miho_Apparel_Hat_PMC.description>
+
+  <Miho_Apparel_Hat_Assassin.label>미호 슈프림 소서리스 헤드기어</Miho_Apparel_Hat_Assassin.label>
+  <Miho_Apparel_Hat_Assassin.description>슈프림 소서리스 헤드기어는 사용자의 초능력 임계치를 최대한으로 이끌어낼 수 있는 장비입니다.</Miho_Apparel_Hat_Assassin.description>
+
+  <Miho_Apparel_Hat_AssassinMelee.label>아수라 시넵스 활성기</Miho_Apparel_Hat_AssassinMelee.label>
+  <Miho_Apparel_Hat_AssassinMelee.description>아수라 시넵스 활성기는 아수라 암살복을 착용시 사용자와 연결 할 수 있는 치료 애드온 입니다. \n\n전투시. 회복력, 전투력을 크게 늘려주고 고통을 반감시켜 줍니다.</Miho_Apparel_Hat_AssassinMelee.description>
+
+  <Miho_Apparel_Hat_Pariah.label>미호 퍼라이어 배틀 헬멧</Miho_Apparel_Hat_Pariah.label>
+  <Miho_Apparel_Hat_Pariah.description>사용자의 체내 메카나이트로 작동되는 안티-싸이킥 헬멧입니다. 원거리 전투능력 상승과 완벽한 사용자 보호를 추구합니다.</Miho_Apparel_Hat_Pariah.description>
+
+  <Miho_Apparel_Hat_Marine.label>미호 강습 헬멧</Miho_Apparel_Hat_Marine.label>
+  <Miho_Apparel_Hat_Marine.description>미호 궤도 방호 해병대에서 사용하는 강습 헬멧 입니다. 사용자의 근접 전투 본능을 촉진시키며, 뛰어난 방호력을 제공해 줍니다.</Miho_Apparel_Hat_Marine.description>
+
+
+</LanguageData>

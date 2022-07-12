@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Weapon_RifleCQBGap.label>미호 단총 (甲형)</Miho_Weapon_RifleCQBGap.label>
+  <Miho_Weapon_RifleCQBGap.description>8mm구경의 소이 권총탄을 사용하는 다용도 기관단총입니다. 인체공학적이지 않고 뭔가 나사빠진 성능을 자랑하지만. 근접교전시 이만한 무기가 없다는게 미호들의 중론입니다. 갑형으로 개조되어 완벽급의 성능에 더욱 긴 탄창을 달아 탄약을 더 낭비할 수 있습니다. 기뻐하십시오!</Miho_Weapon_RifleCQBGap.description>
+  <Miho_Weapon_RifleCQBGap.tools.0.label>stock</Miho_Weapon_RifleCQBGap.tools.0.label>
+  <Miho_Weapon_RifleCQBGap.tools.1.label>barrel</Miho_Weapon_RifleCQBGap.tools.1.label>
+
+  <Miho_Weapon_RifleDefenceGap.label>미호 보총 (甲형)</Miho_Weapon_RifleDefenceGap.label>
+  <Miho_Weapon_RifleDefenceGap.description>6.5mm구경의 소이 소총탄을 사용하는 보병용 자동소총입니다. 소규모의 저개발 공장에서도 쉽게 생산 가능한 이점이 있습니다. 갑형으로 개조되어 철갑소이탄을 장비했습니다. 완벽급의 성능에 추가 관통능력과 대인공격력을 지닙니다.</Miho_Weapon_RifleDefenceGap.description>
+  <Miho_Weapon_RifleDefenceGap.tools.0.label>stock</Miho_Weapon_RifleDefenceGap.tools.0.label>
+  <Miho_Weapon_RifleDefenceGap.tools.1.label>barrel</Miho_Weapon_RifleDefenceGap.tools.1.label>
+
+  <Miho_Weapon_RifleDefenceGap_Proj.label>assault rifle bullet</Miho_Weapon_RifleDefenceGap_Proj.label>
+
+  <Miho_Weapon_RifleMarksmanGap.label>미호 중형총 (甲형)</Miho_Weapon_RifleMarksmanGap.label>
+  <Miho_Weapon_RifleMarksmanGap.description>13.2mm구경의 소이 중기관총 탄환을 쓰는 일종의 대전차 소총 입니다. 가공할만한 화력을 자랑하며, 중무장한 단일 상대에게 매우 효과적 입니다. 갑형으로 개조되어 정밀조준장치를 장비했습니다. 완벽급의 성능에 사거리가 비약적으로 늘어납니다. 다만 조준기간이 조금 늘어납니다.</Miho_Weapon_RifleMarksmanGap.description>
+  <Miho_Weapon_RifleMarksmanGap.tools.0.label>stock</Miho_Weapon_RifleMarksmanGap.tools.0.label>
+  <Miho_Weapon_RifleMarksmanGap.tools.1.label>barrel</Miho_Weapon_RifleMarksmanGap.tools.1.label>
+
+  <Miho_Weapon_RiflePrecisionGap.label>미호 정밀 보총 (甲형)</Miho_Weapon_RiflePrecisionGap.label>
+  <Miho_Weapon_RiflePrecisionGap.description>7.7mm구경의 소이 소총탄을 사용하는 보병용 소총입니다. 괜찮은 집탄률를 지녀 주로 지정사수 소총으로 사용됩니다. 갑형으로 개조되어 확장탄창과 자동사격장치를 장비했습니다. 명중률이 하락했지만 훨씬 빠른 사격을 합니다.</Miho_Weapon_RiflePrecisionGap.description>
+  <Miho_Weapon_RiflePrecisionGap.tools.0.label>stock</Miho_Weapon_RiflePrecisionGap.tools.0.label>
+  <Miho_Weapon_RiflePrecisionGap.tools.1.label>barrel</Miho_Weapon_RiflePrecisionGap.tools.1.label>
+
+
+</LanguageData>

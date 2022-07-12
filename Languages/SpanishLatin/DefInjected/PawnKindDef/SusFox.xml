@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fox red -->
+
+  <Miho_Fox_Red.label>Zorro rojo</Miho_Fox_Red.label>
+  <Miho_Fox_Red.labelPlural>Zorros rojos</Miho_Fox_Red.labelPlural>
+  <Miho_Fox_Red.lifeStages.0.label>Zorro rojo cachorro</Miho_Fox_Red.lifeStages.0.label>
+  <Miho_Fox_Red.lifeStages.0.labelPlural>Zorros rojos cachorros</Miho_Fox_Red.lifeStages.0.labelPlural>
+  <Miho_Fox_Red.lifeStages.0.labelMale>Zorro rojo cachorro macho</Miho_Fox_Red.lifeStages.0.labelMale>
+  <Miho_Fox_Red.lifeStages.0.labelMalePlural>Zorros rojos cachorros machos</Miho_Fox_Red.lifeStages.0.labelMalePlural>
+  <Miho_Fox_Red.lifeStages.0.labelFemale>Zorro rojo cachorro hembra</Miho_Fox_Red.lifeStages.0.labelFemale>
+  <Miho_Fox_Red.lifeStages.0.labelFemalePlural>Zorros rojos cachorros hembras</Miho_Fox_Red.lifeStages.0.labelFemalePlural>
+  <Miho_Fox_Red.lifeStages.1.label>Zorro rojo</Miho_Fox_Red.lifeStages.1.label>
+  <Miho_Fox_Red.lifeStages.1.labelPlural>Zorros rojos</Miho_Fox_Red.lifeStages.1.labelPlural>
+  <Miho_Fox_Red.lifeStages.1.labelMale>Zorro rojo macho</Miho_Fox_Red.lifeStages.1.labelMale>
+  <Miho_Fox_Red.lifeStages.1.labelMalePlural>Zorros rojos machos</Miho_Fox_Red.lifeStages.1.labelMalePlural>
+  <Miho_Fox_Red.lifeStages.1.labelFemale>Zorro rojo hembra</Miho_Fox_Red.lifeStages.1.labelFemale>
+  <Miho_Fox_Red.lifeStages.1.labelFemalePlural>Zorros rojos hembras</Miho_Fox_Red.lifeStages.1.labelFemalePlural>
+  <Miho_Fox_Red.lifeStages.2.label>Zorro rojo</Miho_Fox_Red.lifeStages.2.label>
+  <Miho_Fox_Red.lifeStages.2.labelPlural>Zorros rojos</Miho_Fox_Red.lifeStages.2.labelPlural>
+  <Miho_Fox_Red.lifeStages.2.labelMale>Zorro rojo macho</Miho_Fox_Red.lifeStages.2.labelMale>
+  <Miho_Fox_Red.lifeStages.2.labelMalePlural>Zorros rojos machos</Miho_Fox_Red.lifeStages.2.labelMalePlural>
+  <Miho_Fox_Red.lifeStages.2.labelFemale>Zorro rojo hembra</Miho_Fox_Red.lifeStages.2.labelFemale>
+  <Miho_Fox_Red.lifeStages.2.labelFemalePlural>Zorros rojos hembras</Miho_Fox_Red.lifeStages.2.labelFemalePlural>
+  <Miho_Fox_Red.labelMale>Zorro rojo macho</Miho_Fox_Red.labelMale>
+  <Miho_Fox_Red.labelMalePlural>Zorros rojos machos</Miho_Fox_Red.labelMalePlural>
+  <Miho_Fox_Red.labelFemale>Zorro rojo hembra</Miho_Fox_Red.labelFemale>
+  <Miho_Fox_Red.labelFemalePlural>Zorros rojos hembras</Miho_Fox_Red.labelFemalePlural>
+
+
+</LanguageData>

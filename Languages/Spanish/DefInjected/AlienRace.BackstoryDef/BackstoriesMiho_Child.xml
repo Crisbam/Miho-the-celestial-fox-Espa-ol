@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Child_Fox.title>그냥 여우</Miho_Child_Fox.title>
+  <Miho_Child_Fox.titleShort>여우</Miho_Child_Fox.titleShort>
+  <Miho_Child_Fox.baseDescription>[PAWN_nameDef]는 그냥 여우였습니다. 여우는 어떻게 우는지 아무도 모릅니다.</Miho_Child_Fox.baseDescription>
+
+  <Miho_Child_Rural.title>시골여우</Miho_Child_Rural.title>
+  <Miho_Child_Rural.titleShort>시골여우</Miho_Child_Rural.titleShort>
+  <Miho_Child_Rural.baseDescription>[PAWN_nameDef]은 시골의 여우였습니다. 보통 다람쥐나 고양이를 잡아먹었죠.</Miho_Child_Rural.baseDescription>
+
+  <Miho_Child_HuntFox.title>사냥여우</Miho_Child_HuntFox.title>
+  <Miho_Child_HuntFox.titleShort>사냥여우</Miho_Child_HuntFox.titleShort>
+  <Miho_Child_HuntFox.baseDescription>[PAWN_nameDef]는 놀라운 사냥꾼 이었습니다. 무엇이 놀라운진 아무도 모릅니다.</Miho_Child_HuntFox.baseDescription>
+
+  <Miho_Child_Orphan.title>버려진 여우</Miho_Child_Orphan.title>
+  <Miho_Child_Orphan.titleShort>버려진 여우</Miho_Child_Orphan.titleShort>
+  <Miho_Child_Orphan.baseDescription>[PAWN_nameDef]는 부모에게서 버려졌거나. 부모를 잃어버린 여우였습니다. 그래도 잘 살아 있네요.</Miho_Child_Orphan.baseDescription>
+
+  <Miho_Child_Gifted.title>영재</Miho_Child_Gifted.title>
+  <Miho_Child_Gifted.titleShort>영재</Miho_Child_Gifted.titleShort>
+  <Miho_Child_Gifted.baseDescription>[PAWN_nameDef]은 높은 지적 능력을 지닌 여우였습니다. 근데 여우가 똑똑하면 뭐합니까.</Miho_Child_Gifted.baseDescription>
+
+  <Miho_Child_Desert.title>사막여우</Miho_Child_Desert.title>
+  <Miho_Child_Desert.titleShort>사막여우</Miho_Child_Desert.titleShort>
+  <Miho_Child_Desert.baseDescription>말 그대로 사막여우였습니다. 더위를 잘 버팁니다.</Miho_Child_Desert.baseDescription>
+
+
+</LanguageData>

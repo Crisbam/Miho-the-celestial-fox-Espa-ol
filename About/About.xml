@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Miho, the celestial fox Español</name>
+	<author>Eioko</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>eiokonone.mihoththehcelestialhfoxhspanishhpatch</packageId>
+	<description>
+Miho, the celestial fox parche español
+	</description>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>miho.fortifiedoutremer</li>
+	</loadAfter>
+</ModMetaData>

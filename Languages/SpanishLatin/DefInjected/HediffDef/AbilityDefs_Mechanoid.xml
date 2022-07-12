@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 전투 지휘 모듈 -->
+
+  <Miho_MyeongIl_Hediff.label>persona command</Miho_MyeongIl_Hediff.label>
+  <Miho_MyeongIl_Hediff.description>Al alentar y dar órdenes a los aliados cercanos, esta persona puede mejorar su enfoque en el combate y, por lo tanto, su desempeño en la batalla.</Miho_MyeongIl_Hediff.description>
+
+  <Miho_MyeongIlCommand_Hediff.label>Ser comandada por Persona AI</Miho_MyeongIlCommand_Hediff.label>
+  <Miho_MyeongIlCommand_Hediff.description>Las habilidades de combate aumentan gracias a estar cerca de alguien que está usando la habilidad de mando del oficial.</Miho_MyeongIlCommand_Hediff.description>
+
+  <Miho_Formation_Hediff.label>tótem de protección</Miho_Formation_Hediff.label>
+  <Miho_Formation_Hediff.description>Libera una ola mental a tu alrededor para aliviar la tensión en la batalla y reducir el daño recibido. Sin embargo, el propio lanzador se vuelve vulnerable al daño.</Miho_Formation_Hediff.description>
+
+  <Miho_FormationCommand_Hediff.label>tótem de protección</Miho_FormationCommand_Hediff.label>
+  <Miho_FormationCommand_Hediff.description>Libera una ola mental a tu alrededor para aliviar la tensión en la batalla y reducir el daño recibido. Sin embargo, el propio lanzador se vuelve vulnerable al daño.</Miho_FormationCommand_Hediff.description>
+
+
+</LanguageData>

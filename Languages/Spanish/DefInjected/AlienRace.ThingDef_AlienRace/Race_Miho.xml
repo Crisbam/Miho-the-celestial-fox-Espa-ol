@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <apparel>
+            <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+            <wornGraphicPath>Mincho_Apparel/Mincho_KnightlyTiara/Texture</wornGraphicPath>
+            <useWornGraphicMask>true</useWornGraphicMask>
+            <tags>
+                <li>Mincho_Knight</li>
+                <li>PrestigeCombatGear</li>
+            </tags>
+        </apparel> -->
+
+  <Alien_Miho.label>미호</Alien_Miho.label>
+  <Alien_Miho.description>여우가 초월계의 신비한 힘을 받아들여 인간의 모습을 갖춘 종족입니다. 그들의 몸에는 체내 메카나이트와 연동되는 일조량에 따라 초능력의 강도가 정해지는 안개꽃 기관이 있습니다. 이 기관덕에 여우들은 태양과 에너지를 숭상합니다.</Alien_Miho.description>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>mask</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.2.name>hair</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.2.name>
+  <Alien_Miho.tools.0.label>Left Punch</Alien_Miho.tools.0.label>
+  <Alien_Miho.tools.1.label>Right Punch</Alien_Miho.tools.1.label>
+  <Alien_Miho.tools.2.label>Teeth</Alien_Miho.tools.2.label>
+
+
+</LanguageData>

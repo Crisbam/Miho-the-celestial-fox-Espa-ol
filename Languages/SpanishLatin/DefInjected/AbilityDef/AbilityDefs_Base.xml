@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Ability_Hawk.label>Halcón de caza</Miho_Ability_Hawk.label>
+  <Miho_Ability_Hawk.description>Lanza un halcón de caza. Los halcones cazadores continúan obstaculizando a los enemigos, reduciendo constantemente sus habilidades de combate.</Miho_Ability_Hawk.description>
+
+  <Miho_Ability_Fireball_Small.label>Zorro de fuego pequeño</Miho_Ability_Fireball_Small.label>
+  <Miho_Ability_Fireball_Small.description>Invoca un pequeño zorro de fuego con suficiente poder destructivo para matar personas. Sería más preciso recolectar algo en lugar de convocar.</Miho_Ability_Fireball_Small.description>
+
+  <Miho_Ability_Fireball.label>Zorro de fuego</Miho_Ability_Fireball.label>
+  <Miho_Ability_Fireball.description>Invoca un zorro de fuego con un poderoso poder destructivo. Es más preciso recolectar algo que invocar.</Miho_Ability_Fireball.description>
+
+  <Miho_Ability_Fireball_Adept.label>Flechas de zorro de fuego</Miho_Ability_Fireball_Adept.label>
+  <Miho_Ability_Fireball_Adept.description>Dispara dos flechas de zorro de fuego con un excelente poder de penetración a largas distancias.</Miho_Ability_Fireball_Adept.description>
+
+  <Miho_Ability_Thunder.label>relámpago de zorro</Miho_Ability_Thunder.label>
+  <Miho_Ability_Thunder.description>Choca pequeñas mecanitas a gran velocidad, generando una poderosa carga eléctrica. Suficiente para romper el circuito de los mecanoides.</Miho_Ability_Thunder.description>
+
+  <Miho_Ability_FanofKnives.label>Abanicó de cuchillas</Miho_Ability_FanofKnives.label>
+  <Miho_Ability_FanofKnives.description>Inflige la muerte al oponente al colocar las moléculas de mecanita cercanas con una cuchilla que está cerca de una sola molécula.</Miho_Ability_FanofKnives.description>
+
+  <Miho_Ability_Love.label>Cola de Amor</Miho_Ability_Love.label>
+  <Miho_Ability_Love.description>¡En realidad! hace de cupido y conecta dos.</Miho_Ability_Love.description>
+
+  <Miho_Ability_Serenity.label>Cola de Serenidad</Miho_Ability_Serenity.label>
+  <Miho_Ability_Serenity.description>¡Detiene la locura! Ver un zorro lascivo funciona bien.</Miho_Ability_Serenity.description>
+
+  <Miho_Ability_Inspiration.label>Cola de Felicidad</Miho_Ability_Inspiration.label>
+  <Miho_Ability_Inspiration.description>Trae felicidad. No me digas cómo presentarlo.</Miho_Ability_Inspiration.description>
+
+  <Miho_Ability_Defence.label>Tótem de Protección</Miho_Ability_Defence.label>
+  <Miho_Ability_Defence.description>Libera una ola mental a tu alrededor para aliviar la tensión en la batalla y reducir el daño recibido. Sin embargo, el propio lanzador se vuelve vulnerable al daño.</Miho_Ability_Defence.description>
+
+  <Miho_Ability_Shield.label>Escudo de zorro</Miho_Ability_Shield.label>
+  <Miho_Ability_Shield.description>Un tipo de protección tipo interceptor que dispara Mecanitas para interceptar proyectiles de bajo impulso.</Miho_Ability_Shield.description>
+
+  <Miho_Ability_BerserkPulse.label>Pulso de la Muerte</Miho_Ability_BerserkPulse.label>
+  <Miho_Ability_BerserkPulse.description>Genera una abrumadora oleada de ira no dirigida en todos los que se encuentran cerca del punto objetivo.</Miho_Ability_BerserkPulse.description>
+
+
+</LanguageData>

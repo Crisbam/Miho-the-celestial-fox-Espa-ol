@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Ability_Heal.label>Toque Sanador</Miho_Ability_Heal.label>
+  <Miho_Ability_Heal.description>Irradia un toque sanador que cura a los enfermos y cura las heridas.</Miho_Ability_Heal.description>
+
+  <Miho_Ability_Spiritualize.label>Espiritualizar</Miho_Ability_Spiritualize.label>
+  <Miho_Ability_Spiritualize.description>Al secuestrar la información del mundo trascendental en el propio cerebro del lanzador, se puede sentir el sexto sentido.</Miho_Ability_Spiritualize.description>
+
+  <Miho_Ability_Spawn_Fox.label>Invocar Zorro Ayudante</Miho_Ability_Spawn_Fox.label>
+  <Miho_Ability_Spawn_Fox.description>Convoca a un pequeño ayudante para llevar el equipaje del asentamiento.</Miho_Ability_Spawn_Fox.description>
+
+  <Miho_Ability_Spawn_Butterfly.label>Invocar huésped Bladefly</Miho_Ability_Spawn_Butterfly.label>
+  <Miho_Ability_Spawn_Butterfly.description>Invoca una mariposa con alas muy afiladas.</Miho_Ability_Spawn_Butterfly.description>
+
+  <Miho_Ability_Spawn_Turret.label>Invocar brasero de fuego de zorro</Miho_Ability_Spawn_Turret.label>
+  <Miho_Ability_Spawn_Turret.description>Invoca un brasero que dispara fuego de zorro.</Miho_Ability_Spawn_Turret.description>
+
+  <Miho_Ability_Skip.label>Salto de Zorro</Miho_Ability_Skip.label>
+  <Miho_Ability_Skip.description>Esta es una habilidad que te permite teletransportarte a una ubicación específica.</Miho_Ability_Skip.description>
+
+  <Miho_Ability_Spawn_Thrumbo.label>Invocar Thrumbo Arcano</Miho_Ability_Spawn_Thrumbo.label>
+  <Miho_Ability_Spawn_Thrumbo.description>Invoca a la criatura definitiva, Thrumbo arcano.</Miho_Ability_Spawn_Thrumbo.description>
+
+
+</LanguageData>

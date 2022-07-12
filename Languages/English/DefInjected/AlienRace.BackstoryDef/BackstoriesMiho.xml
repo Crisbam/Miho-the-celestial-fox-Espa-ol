@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Adult_LiaisonOfficer.title>Miho Liaison Officer</Miho_Adult_LiaisonOfficer.title>
+  <Miho_Adult_LiaisonOfficer.titleShort>>Liaison Officer</Miho_Adult_LiaisonOfficer.titleShort>
+  <Miho_Adult_LiaisonOfficer.baseDescription>{PAWN_nameDef} is in charge of external liaison. {PAWN_pronoun} provided Miho with various supplies and information from the outside.</Miho_Adult_LiaisonOfficer.baseDescription>
+
+<Miho_Adult_PMCInfantry.title>Miho PMC Soldier</Miho_Adult_PMCInfantry.title>
+   <Miho_Adult_PMCInfantry.titleShort>PMC Soldier</Miho_Adult_PMCInfantry.titleShort>
+   <Miho_Adult_PMCInfantry.baseDescription>{PAWN_nameDef} is a PMC terminal soldier. Dispatched to perform missions at Rimworld.</Miho_Adult_PMCInfantry.baseDescription>
+   
+   
+  <Miho_Adult_PMCSapper.title>Miho PMC Engineer</Miho_Adult_PMCSapper.title>
+  <Miho_Adult_PMCSapper.titleShort>PMC Engineer</Miho_Adult_PMCSapper.titleShort>
+  <Miho_Adult_PMCSapper.baseDescription>{PAWN_nameDef} is a PMC engineer. was in charge of position laying and explosives management with supernatural powers. It's dangerous.</Miho_Adult_PMCSapper.baseDescription>
+
+  <Miho_Adult_PMCSharpshooter.title>Miho PMC SharpShooter</Miho_Adult_PMCSharpshooter.title>
+  <Miho_Adult_PMCSharpshooter.titleShort>PMC SharpShooter</Miho_Adult_PMCSharpshooter.titleShort>
+  <Miho_Adult_PMCSharpshooter.baseDescription>Is {PAWN_nameDef} due to the high luck peculiar to Miho? Is it good eyesight for Miho?</Miho_Adult_PMCSharpshooter.baseDescription>
+
+  <Miho_Adult_HamburgerCook.title>Miho Burger Cook</Miho_Adult_HamburgerCook.title>
+  <Miho_Adult_HamburgerCook.titleShort>Burger Cook</Miho_Adult_HamburgerCook.titleShort>
+  <Miho_Adult_HamburgerCook.baseDescription>[PAWN_nameDef] was the burger cook. Until the delivery of human flesh patties.</Miho_Adult_HamburgerCook.baseDescription>
+
+  <Miho_Adult_SushiCook.title>Miho sushi chef</Miho_Adult_SushiCook.title>
+  <Miho_Adult_SushiCook.titleShort>Sushi chef</Miho_Adult_SushiCook.titleShort>
+  <Miho_Adult_SushiCook.baseDescription>{PAWN_nameDef} was a craftsman who held sushi at a conveyor belt sushi restaurant.
+Following the teacher's teaching, "Touch the rice until you know the number of rice grains in your hand," {PAWN_nameDef}, who was holding sushi without a break, finally reached the point where he could hold the weight of sushi with an error of 0.1g. As a result, celebrities from various planets are lining up every day to eat {PAWN_nameDef} sushi.
+One day .. A large-scale food poisoning incident occurred at the store where {PAWN_nameDef} was working.
+The store went bankrupt after being sued by a customer who had fallen due to food poisoning, and {PAWN_nameDef}, who had the ultimate hand, was wandering around, and suddenly participated in the Rimworld development plan.</Miho_Adult_SushiCook.baseDescription>
+
+  <Miho_Adult_VirtualIdol.title>Miho virtual idol</Miho_Adult_VirtualIdol.title>
+  <Miho_Adult_VirtualIdol.titleShort>Virtual idol</Miho_Adult_VirtualIdol.titleShort>
+  <Miho_Adult_VirtualIdol.baseDescription>{PAWN_nameDef} was a virtual idol before being brought to Rimworld. Using a nerdy avatar with glasses, {PAWN_nameDef} has a unique voice that doesn't suit that avatar.
+She was loved a lot. The day before the game festival, {PAWN_nameDef} informed fans that an NFT fan signing event would be held.
+
+That day, she floated out of her house and her {PAWN_nameDef} could never return to her house.
+A malicious fan who imagined the image of the usual {PAWN_nameDef} avatar suddenly changed like a beast when he saw the appearance of {PAWN_nameDef}.
+{PAWN_nameDef} was abducted by them for no apparent reason and fell faint.</Miho_Adult_VirtualIdol.baseDescription>
+
+  <Miho_Adult_LowAssassin.title>Miho Assassin</Miho_Adult_LowAssassin.title>
+  <Miho_Adult_LowAssassin.titleShort>Assassin</Miho_Adult_LowAssassin.titleShort>
+  <Miho_Adult_LowAssassin.baseDescription>{PAWN_nameDef} was a low-ranking assassin who used his beauty to kill the assassin with a color scheme. I was shot down in Rimworld and decided to live in Rimworld.</Miho_Adult_LowAssassin.baseDescription>
+
+  <Miho_Adult_MilitaryCooker.title>Miho Military lunch</Miho_Adult_MilitaryCooker.title>
+  <Miho_Adult_MilitaryCooker.titleShort>Military lunch</Miho_Adult_MilitaryCooker.titleShort>
+  <Miho_Adult_MilitaryCooker.baseDescription>{PAWN_nameDef}Was a military lunch worker who was cooking unsavory rice in the military.</Miho_Adult_MilitaryCooker.baseDescription>
+
+  <Miho_Adult_Surgeon.title>Miho Surgeon</Miho_Adult_Surgeon.title>
+  <Miho_Adult_Surgeon.titleShort>Surgeon</Miho_Adult_Surgeon.titleShort>
+  <Miho_Adult_Surgeon.baseDescription>{PAWN_nameDef} had so many medical accidents that he was abducted by a grudged medical accident victim and left behind in Rimworld.</Miho_Adult_Surgeon.baseDescription>
+
+  <Miho_Adult_SurrogateSurgeon.title>Miho Acting doctor</Miho_Adult_SurrogateSurgeon.title>
+  <Miho_Adult_SurrogateSurgeon.titleShort>Acting doctor</Miho_Adult_SurrogateSurgeon.titleShort>
+  <Miho_Adult_SurrogateSurgeon.baseDescription>{PAWN_nameDef} was just a salesman, but realized that the surrogate surgery he had undertaken was his vocation, and has succeeded in 1382 surgeries so far.</Miho_Adult_SurrogateSurgeon.baseDescription>
+
+  <Miho_Adult_Nurse.title>Miho Nurse</Miho_Adult_Nurse.title>
+  <Miho_Adult_Nurse.titleShort>Nurse</Miho_Adult_Nurse.titleShort>
+  <Miho_Adult_Nurse.baseDescription>{PAWN_nameDef} is a nurse. Thanks to the special occupation of nurse, I learned how to walk a tightrope.</Miho_Adult_Nurse.baseDescription>
+
+  <Miho_Adult_Massager.title>Miho masseuse</Miho_Adult_Massager.title>
+  <Miho_Adult_Massager.titleShort>Masseuse</Miho_Adult_Massager.titleShort>
+  <Miho_Adult_Massager.baseDescription>"This is not lewd, go down one if you are looking for lewd ones."</Miho_Adult_Massager.baseDescription>
+
+  <Miho_Adult_SpecialMassager.title>"Miho "special" masseuse</Miho_Adult_SpecialMassager.title>
+  <Miho_Adult_SpecialMassager.titleShort>Masseuse</Miho_Adult_SpecialMassager.titleShort>
+  <Miho_Adult_SpecialMassager.baseDescription>{PAWN_nameDef} was a worker who worked for an illegal massage company.
+Apparently a horse massager, it was really a sex business, but {PAWN_nameDef} was sloppy.
+One day when I was massaging the whole body of the customer with the cash inserted in the cleavage, the police clicked on the contractor.
+{PAWN_nameDef} calmly escaped from the scene through the fox hole and picked up a bag of white powder spilled from the pocket of your baggy trousers in the hole.
+{PAWN_nameDef}, who unknowingly stole it, hid it in his body, and thought he could go home safely,
+A drug detection dog accompanying the police was arrested following the smell of the drug hidden in his body.
+And {PAWN_nameDef} was arrested on suspicion of drug smuggling that he had never committed, but he was actually smuggled by a drug smuggler.</Miho_Adult_SpecialMassager.baseDescription>
+
+  <Miho_Adult_Academician.title>Miho Graduate Student</Miho_Adult_Academician.title>
+  <Miho_Adult_Academician.titleShort>graduate student</Miho_Adult_Academician.titleShort>
+  <Miho_Adult_Academician.baseDescription>{PAWN_nameDef} devoted decades of life to Rimworld's study of humanity for a degree.</Miho_Adult_Academician.baseDescription>
+
+  <Miho_Adult_Forge.title>Miho Founder</Miho_Adult_Forge.title>
+  <Miho_Adult_Forge.titleShort>Miho Founder</Miho_Adult_Forge.titleShort>
+  <Miho_Adult_Forge.baseDescription>[PAWN_nameDef] was the manager in charge of the formulation of the blast furnace. After watering the formulation for money, the blast furnace exploded, and she is now unemployed.</Miho_Adult_Forge.baseDescription>
+
+  <Miho_Adult_Gunsmith.title>Miho Gunsmith</Miho_Adult_Gunsmith.title>
+  <Miho_Adult_Gunsmith.titleShort>Gunsmith</Miho_Adult_Gunsmith.titleShort>
+  <Miho_Adult_Gunsmith.baseDescription>[PAWN_nameDef] was a gun fanatic. They opened a gun store, but found that 95 percent of their customers had lost the news. Then headed to the rimworld of the real gunfights.</Miho_Adult_Gunsmith.baseDescription>
+
+  <Miho_Adult_Calligrapher.title>Miho calligrapher</Miho_Adult_Calligrapher.title>
+  <Miho_Adult_Calligrapher.titleShort>Calligrapher</Miho_Adult_Calligrapher.titleShort>
+  <Miho_Adult_Calligrapher.baseDescription>[PAWN_nameDef] was just such a calligrapher. So must have come to the rimworld!</Miho_Adult_Calligrapher.baseDescription>
+
+  <Miho_Adult_Miner.title>Miho Miner</Miho_Adult_Miner.title>
+  <Miho_Adult_Miner.titleShort>Miho Miner</Miho_Adult_Miner.titleShort>
+  <Miho_Adult_Miner.baseDescription>[PAWN_nameDef] likes to dig, so he became a mining manager. No, really. also enjoy having dinner with the workers.</Miho_Adult_Miner.baseDescription>
+
+  <Miho_Adult_Plantation.title>Miho flower shop owner</Miho_Adult_Plantation.title>
+  <Miho_Adult_Plantation.titleShort>flower shop owner</Miho_Adult_Plantation.titleShort>
+  <Miho_Adult_Plantation.baseDescription>[PAWN_nameDef] was raised and sold flowers, but was ejected to the rimworld due to a rebellion of flowers with ego.</Miho_Adult_Plantation.baseDescription>
+
+  <Miho_Adult_Privateer.title>Miho privateer</Miho_Adult_Privateer.title>
+  <Miho_Adult_Privateer.titleShort>privateer</Miho_Adult_Privateer.titleShort>
+  <Miho_Adult_Privateer.baseDescription>[PAWN_nameDef] was a member of a jolly pirate corps primarily engaged in human trafficking. It's not very fun.</Miho_Adult_Privateer.baseDescription>
+
+  <Miho_Adult_BrutalPsyker.title>Miho Killer Psyker</Miho_Adult_BrutalPsyker.title>
+  <Miho_Adult_BrutalPsyker.titleShort>Killer Psyker</Miho_Adult_BrutalPsyker.titleShort>
+  <Miho_Adult_BrutalPsyker.baseDescription>[PAWN_nameDef] was a famous magic-killer. He was worshiped as a god by the people of the tribe, but he came here to live because he was caught by a famous beast hunter.</Miho_Adult_BrutalPsyker.baseDescription>
+
+  <Miho_Adult_Engi.title>Miho Engi</Miho_Adult_Engi.title>
+  <Miho_Adult_Engi.titleShort>Engi</Miho_Adult_Engi.titleShort>
+  <Miho_Adult_Engi.baseDescription>[PAWN_nameDef] like machines. As much as I liked the machine, it lacked aesthetics.</Miho_Adult_Engi.baseDescription>
+
+
+</LanguageData>

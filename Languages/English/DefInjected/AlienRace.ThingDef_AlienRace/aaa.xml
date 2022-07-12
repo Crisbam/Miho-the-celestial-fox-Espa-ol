@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Alien_Miho.tools.0.label>Left Punch</Alien_Miho.tools.0.label>
+  <Alien_Miho.tools.1.label>Right Punch</Alien_Miho.tools.1.label>
+  <Alien_Miho.tools.2.label>Teeth</Alien_Miho.tools.2.label>
+  <Alien_Miho.label>Miho</Alien_Miho.label>
+  <Alien_Miho.description>It is a race where foxes took on the mystical powers of the transcendent world and took on human form. Their body has an elegans organ in which the strength of their superpowers is determined by the amount of sunlight interlocked with the mechanite in their body. Thanks to this organ, foxes revere the sun and energy.</Alien_Miho.description>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>mask</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.2.name>hair</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.2.name>
+</LanguageData>

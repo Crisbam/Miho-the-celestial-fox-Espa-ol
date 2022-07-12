@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plant_PosFlower.label>Helianto</Plant_PosFlower.label>
+  <Plant_PosFlower.description>Plantas modificadas genéticamente. Sirve principalmente como una señal para recolectar sustancias que mejoran el poder psíquico de los Mihos.</Plant_PosFlower.description>
+
+  <RawPosFlower.label>Pétalo de Helianto</RawPosFlower.label>
+  <RawPosFlower.description>Los pétalos son sustancias aglomeradas que ayudan a que el poder psíquico de los Mihos se exprese.</RawPosFlower.description>
+
+
+</LanguageData>

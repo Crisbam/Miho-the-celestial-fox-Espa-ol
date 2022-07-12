@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WakeUp addiction -->
+
+  <Chemical_Miho_PositiveFlower_Drug.label>엘레스</Chemical_Miho_PositiveFlower_Drug.label>
+  <Chemical_Miho_PositiveFlower_Drug.description>엘레스에 중독되었으므로. 엘레스를 주기적으로 복용해야 합니다.</Chemical_Miho_PositiveFlower_Drug.description>
+
+
+  <!-- Tea addiction -->
+
+  <Chemical_Miho_PositiveFlower_Tea.label>태양화 경약물</Chemical_Miho_PositiveFlower_Tea.label>
+  <Chemical_Miho_PositiveFlower_Tea.description>미호가 동물적 감각을 지니지 않기 위해 태양화로 만든 약물을 주기적으로 복용해야 합니다.</Chemical_Miho_PositiveFlower_Tea.description>
+
+
+</LanguageData>

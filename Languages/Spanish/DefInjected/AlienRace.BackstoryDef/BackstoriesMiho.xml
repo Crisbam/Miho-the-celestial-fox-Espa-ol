@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Adult_LiaisonOfficer.title>Oficial de enlace Miho</Miho_Adult_LiaisonOfficer.title>
+  <Miho_Adult_LiaisonOfficer.titleShort>Oficial de enlace</Miho_Adult_LiaisonOfficer.titleShort>
+  <Miho_Adult_LiaisonOfficer.baseDescription>[PAWN_nameDef] está a cargo del enlace externo. {PAWN_pronoun} proporcionó a Miho varios suministros e información desde el exterior.</Miho_Adult_LiaisonOfficer.baseDescription>
+
+  <Miho_Adult_PMCInfantry.title>Miho Soldado PMC</Miho_Adult_PMCInfantry.title>
+  <Miho_Adult_PMCInfantry.titleShort>Soldado PMC</Miho_Adult_PMCInfantry.titleShort>
+  <Miho_Adult_PMCInfantry.baseDescription>[PAWN_nameDef] es un soldado terminal de PMC. Enviado para realizar misiones en Rimworld.</Miho_Adult_PMCInfantry.baseDescription>
+
+  <Miho_Adult_PMCSapper.title>Miho Ingeniero PMC</Miho_Adult_PMCSapper.title>
+  <Miho_Adult_PMCSapper.titleShort>Ingeniero PMC</Miho_Adult_PMCSapper.titleShort>
+  <Miho_Adult_PMCSapper.baseDescription>[PAWN_nameDef] es un ingeniero de PMC. estaba a cargo de la colocación de posiciones y manejo de explosivos con poderes sobrenaturales. Es peligroso.</Miho_Adult_PMCSapper.baseDescription>
+
+  <Miho_Adult_PMCSharpshooter.title>Miho Tirador de primera PMC</Miho_Adult_PMCSharpshooter.title>
+  <Miho_Adult_PMCSharpshooter.titleShort>Tirador de primera PMC</Miho_Adult_PMCSharpshooter.titleShort>
+  <Miho_Adult_PMCSharpshooter.baseDescription>es [PAWN_nameDef] debido a la gran suerte peculiar de Miho? ¿Es buena vista para Miho?</Miho_Adult_PMCSharpshooter.baseDescription>
+
+  <Miho_Adult_HamburgerCook.title>Miho Cocinero de hamburguesas</Miho_Adult_HamburgerCook.title>
+  <Miho_Adult_HamburgerCook.titleShort>Cocinero de hamburguesas</Miho_Adult_HamburgerCook.titleShort>
+  <Miho_Adult_HamburgerCook.baseDescription>[PAWN_nameDef] era el cocinero de hamburguesas. Hasta la entrega de empanadas de carne humana.</Miho_Adult_HamburgerCook.baseDescription>
+
+  <Miho_Adult_SushiCook.title>Miho Chef de Sushi</Miho_Adult_SushiCook.title>
+  <Miho_Adult_SushiCook.titleShort>Chef de Sushi</Miho_Adult_SushiCook.titleShort>
+  <Miho_Adult_SushiCook.baseDescription>{PAWN_nameDef} era un artesano que preparaba sushi en un restaurante de sushi con cinta transportadora.
+Siguiendo la enseñanza del maestro, "Toca el arroz hasta que sepas el número de granos de arroz que tienes en la mano" {PAWN_nameDef}, que sostenía sushi sin descanso, finalmente llegó al punto en el que podía sostener el peso del sushi con un error de 0,1 g. Como resultado, las celebridades de varios planetas hacen fila todos los días para comer el sushi de {PAWN_nameDef}.
+Un día... Ocurrió un incidente de intoxicación alimentaria a gran escala en la tienda donde {PAWN_nameDef} trabajaba.
+La tienda quebró tras ser demandada por un cliente que se había caído por intoxicación alimentaria, y {PAWN_nameDef}, quien tenía la última mano, deambulaba y de repente participó en el plan de desarrollo de Rimworld.</Miho_Adult_SushiCook.baseDescription>
+
+  <Miho_Adult_VirtualIdol.title>Miho Idol virtual</Miho_Adult_VirtualIdol.title>
+  <Miho_Adult_VirtualIdol.titleShort>Idol virtual</Miho_Adult_VirtualIdol.titleShort>
+  <Miho_Adult_VirtualIdol.baseDescription>{PAWN_nameDef} era una idol virtual antes de ser llevado a Rimworld. Usando un avatar nerd con gafas, {PAWN_nameDef} tiene una voz única que no se adapta a ese avatar.
+ella fue muy querida. El día antes del festival del juego, {PAWN_nameDef} informó a los fanáticos que se llevaría a cabo un evento de firma de autógrafos de NFT.
+
+Ese día, ella salió flotando de su casa y su {PAWN_nameDef} nunca pudo regresar a su casa.
+Un fan malicioso que imaginó la imagen del avatar habitual de {PAWN_nameDef} cambió repentinamente como una bestia cuando vio la aparición de {PAWN_nameDef}.
+{PAWN_nameDef} fue secuestrado por ellos sin razón aparente y se desmayó.</Miho_Adult_VirtualIdol.baseDescription>
+
+  <Miho_Adult_LowAssassin.title>Miho Asesina</Miho_Adult_LowAssassin.title>
+  <Miho_Adult_LowAssassin.titleShort>Asesina</Miho_Adult_LowAssassin.titleShort>
+  <Miho_Adult_LowAssassin.baseDescription>[PAWN_nameDef]era una asesino de bajo rango que usó su belleza para matar al asesino con un esquema de color. Fue derribada y decidío vivir en Rimworld.</Miho_Adult_LowAssassin.baseDescription>
+
+  <Miho_Adult_MilitaryCooker.title>Miho Almuerzo Militar</Miho_Adult_MilitaryCooker.title>
+  <Miho_Adult_MilitaryCooker.titleShort>Almuerzo Militar</Miho_Adult_MilitaryCooker.titleShort>
+  <Miho_Adult_MilitaryCooker.baseDescription>[PAWN_nameDef] era un trabajador del almuerzo militar que estaba cocinando arroz desagradable en el ejército.</Miho_Adult_MilitaryCooker.baseDescription>
+
+  <Miho_Adult_Surgeon.title>Miho Cirujana</Miho_Adult_Surgeon.title>
+  <Miho_Adult_Surgeon.titleShort>Cirujana</Miho_Adult_Surgeon.titleShort>
+  <Miho_Adult_Surgeon.baseDescription>[PAWN_nameDef]tuvo tantos accidentes médicos que fue secuestrado por una víctima de un accidente médico resentido y la dejó en Rimworld.</Miho_Adult_Surgeon.baseDescription>
+
+  <Miho_Adult_SurrogateSurgeon.title>Miho Doctora Interina</Miho_Adult_SurrogateSurgeon.title>
+  <Miho_Adult_SurrogateSurgeon.titleShort>Doctora Interina</Miho_Adult_SurrogateSurgeon.titleShort>
+  <Miho_Adult_SurrogateSurgeon.baseDescription>[PAWN_nameDef]era solo una vendedor, pero se dio cuenta de que la cirugía subrogada que había emprendido era su vocación, y hasta ahora ha tenido éxito en 1382 cirugías.</Miho_Adult_SurrogateSurgeon.baseDescription>
+
+  <Miho_Adult_Nurse.title>Miho Enfermera</Miho_Adult_Nurse.title>
+  <Miho_Adult_Nurse.titleShort>Enfermera</Miho_Adult_Nurse.titleShort>
+  <Miho_Adult_Nurse.baseDescription>[PAWN_nameDef]Es una enfermera. Gracias a la ocupación especial de enfermera, aprendío a caminar sobre la cuerda floja.</Miho_Adult_Nurse.baseDescription>
+
+  <Miho_Adult_Massager.title>Miho Masajista</Miho_Adult_Massager.title>
+  <Miho_Adult_Massager.titleShort>Masajista</Miho_Adult_Massager.titleShort>
+  <Miho_Adult_Massager.baseDescription>"Esto no es lascivo, baja si estás buscando uno lascivo".</Miho_Adult_Massager.baseDescription>
+
+  <Miho_Adult_SpecialMassager.title>Miho "특별" 마사지사</Miho_Adult_SpecialMassager.title>
+  <Miho_Adult_SpecialMassager.titleShort>마사지사</Miho_Adult_SpecialMassager.titleShort>
+  <Miho_Adult_SpecialMassager.baseDescription>[PAWN_nameDef]는 불법 마사지 업체에서 일하던 종사자였습니다.
+말이 마사지 업체였지 사실은 윤락가나 다름없었으나 [PAWN_nameDef]는 여의치않았습니다.
+어김없이 자신의 가슴에 꽂힌 현금에 취해 손님의 전신을 어루만져주던 어느날, 경찰이 업체를 덮쳤고,
+침착하게 여우굴을 통해서 현장에서 빠져나가던 [PAWN_nameDef]는 굴 속에서 손님의 헐렁한 바지 주머니에서 흐른 하얀색 가루 봉투를 주웠습니다.
+[PAWN_nameDef]는 무의식적으로 그것을 훔쳐 자신의 몸속에 숨겼고, 무사히 집으로 빠져나가는줄 알았으나
+경찰과 함께 따라온 마약 탐지견이 그녀의 몸 속에 숨겨진 약의 향기를 쫓는 바람에 검거되었습니다.
+그렇게 [PAWN_nameDef]는 검거되었습니다. 자신이 저지른적도 없는 마약 밀수 사업의 모든 덤터기를 뒤집어 쓴체로.</Miho_Adult_SpecialMassager.baseDescription>
+
+  <Miho_Adult_Academician.title>Miho 대학원생</Miho_Adult_Academician.title>
+  <Miho_Adult_Academician.titleShort>대학원생</Miho_Adult_Academician.titleShort>
+  <Miho_Adult_Academician.baseDescription>[PAWN_nameDef]는 학위를 따기 위해 변방계 인류 연구에 수십년째 호생을 바쳤습니다.</Miho_Adult_Academician.baseDescription>
+
+  <Miho_Adult_Forge.title>Miho 용광로 배합자</Miho_Adult_Forge.title>
+  <Miho_Adult_Forge.titleShort>용광로 배합자</Miho_Adult_Forge.titleShort>
+  <Miho_Adult_Forge.baseDescription>[PAWN_nameDef]는 고로의 배합물을 책임지는 관리자 였습니다. 돈을 위해 배합물에 물을 탄 후 고로가 폭발해버려 지금은 실업자 신세입니다.</Miho_Adult_Forge.baseDescription>
+
+  <Miho_Adult_Gunsmith.title>Miho 총기작업자</Miho_Adult_Gunsmith.title>
+  <Miho_Adult_Gunsmith.titleShort>총기작업자</Miho_Adult_Gunsmith.titleShort>
+  <Miho_Adult_Gunsmith.baseDescription>[PAWN_nameDef]는 총기 덕후 였습니다. 총기전문점을 개장 했지만, 오는 손님들의 95퍼센트가 소식이 끊김을 깨달았습니다. 그 후 진정한 총기광들이 있는 변방계로 향했습니다.</Miho_Adult_Gunsmith.baseDescription>
+
+  <Miho_Adult_Calligrapher.title>Miho 서예 작가</Miho_Adult_Calligrapher.title>
+  <Miho_Adult_Calligrapher.titleShort>서예 작가</Miho_Adult_Calligrapher.titleShort>
+  <Miho_Adult_Calligrapher.baseDescription>[PAWN_nameDef]는 그저 그런 서예 작가였습니다. 그러니까 변방계에 왔겠죠!</Miho_Adult_Calligrapher.baseDescription>
+
+  <Miho_Adult_Miner.title>Miho 광업 관리자</Miho_Adult_Miner.title>
+  <Miho_Adult_Miner.titleShort>광업 관리자</Miho_Adult_Miner.titleShort>
+  <Miho_Adult_Miner.baseDescription>[PAWN_nameDef]는 땅파는걸 좋아해서 광업관리자가 되었습니다. 아니, 진짜로요. 또한 인부들과 회식하는걸 즐깁니다.</Miho_Adult_Miner.baseDescription>
+
+  <Miho_Adult_Plantation.title>Miho 꽃집 주인</Miho_Adult_Plantation.title>
+  <Miho_Adult_Plantation.titleShort>꽃집 주인</Miho_Adult_Plantation.titleShort>
+  <Miho_Adult_Plantation.baseDescription>[PAWN_nameDef]는 꽃을 기르고 판매하다 자아를 가진 꽃들의 반란으로 인해 변방계로 사출되었습니다.</Miho_Adult_Plantation.baseDescription>
+
+  <Miho_Adult_Privateer.title>Miho 사략선원</Miho_Adult_Privateer.title>
+  <Miho_Adult_Privateer.titleShort>사략선원</Miho_Adult_Privateer.titleShort>
+  <Miho_Adult_Privateer.baseDescription>[PAWN_nameDef]는 주로 인신매매를 담당하는 유쾌한 해적단의 선원이었습니다. 별로 유쾌하진 않네요.</Miho_Adult_Privateer.baseDescription>
+
+  <Miho_Adult_BrutalPsyker.title>Miho 살인광 사이커</Miho_Adult_BrutalPsyker.title>
+  <Miho_Adult_BrutalPsyker.titleShort>사이커</Miho_Adult_BrutalPsyker.titleShort>
+  <Miho_Adult_BrutalPsyker.baseDescription>[PAWN_nameDef]는 유명한 마법-살인마 였습니다. 부족민들에게서 신으로 모셔지다가, 명성있는 해수구제 사냥꾼에게 걸려 살기 위해 이곳까지 왔습니다.</Miho_Adult_BrutalPsyker.baseDescription>
+
+  <Miho_Adult_Engi.title>Miho 공돌이</Miho_Adult_Engi.title>
+  <Miho_Adult_Engi.titleShort>공돌이</Miho_Adult_Engi.titleShort>
+  <Miho_Adult_Engi.baseDescription>기계를 좋아합니다. 기계를 좋아하는 만큼 미적 감각이 결여되었습니다.</Miho_Adult_Engi.baseDescription>
+
+
+</LanguageData>

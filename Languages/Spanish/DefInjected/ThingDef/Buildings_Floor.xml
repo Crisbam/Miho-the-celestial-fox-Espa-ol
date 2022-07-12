@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Tatami.label>미호 다다미</Miho_Tatami.label>
+  <Miho_Tatami.description>다다미 입니다.</Miho_Tatami.description>
+  <Miho_Tatami_Blueprint.label>미호 다다미 (blueprint)</Miho_Tatami_Blueprint.label>
+  <Miho_Tatami_Blueprint_Install.label>미호 다다미 (blueprint)</Miho_Tatami_Blueprint_Install.label>
+  <Miho_Tatami_Frame.label>미호 다다미 (building)</Miho_Tatami_Frame.label>
+  <Miho_Tatami_Frame.description>다다미 입니다.</Miho_Tatami_Frame.description>
+
+  <Miho_TableMachining.label>미호 종합작업대</Miho_TableMachining.label>
+  <Miho_TableMachining.description>인간들의 3D 프린터를 따라한 종합작업대 입니다.</Miho_TableMachining.description>
+
+
+</LanguageData>

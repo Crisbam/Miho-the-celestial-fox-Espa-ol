@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Apparel_OnSkin_OrnatedOne.label>미호 엘텍스 의복</Miho_Apparel_OnSkin_OrnatedOne.label>
+  <Miho_Apparel_OnSkin_OrnatedOne.description>금사와 화현 비단으로 만들어진 고급 전통복 입니다.</Miho_Apparel_OnSkin_OrnatedOne.description>
+
+  <Miho_Apparel_OnSkin_OrnatedFighter.label>미호 엘텍스 격투 슈트</Miho_Apparel_OnSkin_OrnatedFighter.label>
+  <Miho_Apparel_OnSkin_OrnatedFighter.description>매력있는 격투용 슈트 입니다.</Miho_Apparel_OnSkin_OrnatedFighter.description>
+
+  <Miho_Apparel_OnSkin_Hunter.label>미호 사냥복</Miho_Apparel_OnSkin_Hunter.label>
+  <Miho_Apparel_OnSkin_Hunter.description>사냥꾼이 사냥감의 가죽으로 만든 사냥복 입니다. 특유의 절제된 디자인은 사냥꾼이 사냥감을 사격할 시 걸리적거리지 않도록 만들어줍니다.</Miho_Apparel_OnSkin_Hunter.description>
+
+  <Miho_Apparel_OnSkin_Militia.label>미호 시큐리티 슈트</Miho_Apparel_OnSkin_Militia.label>
+  <Miho_Apparel_OnSkin_Militia.description>병사들에게 지원되는 슈트입니다. 완벽하진 않지만, 괜찮은 방호력을 제공합니다.</Miho_Apparel_OnSkin_Militia.description>
+
+  <Miho_Apparel_OnSkin_PMC.label>미호 트루퍼 슈트</Miho_Apparel_OnSkin_PMC.label>
+  <Miho_Apparel_OnSkin_PMC.description>PMC 병사들에게 지원되는 슈트입니다. 어느정도 충격을 분산 시켜줍니다.</Miho_Apparel_OnSkin_PMC.description>
+
+  <Miho_Apparel_OnSkin_Pariah.label>미호 퍼라이어 배틀 슈트</Miho_Apparel_OnSkin_Pariah.label>
+  <Miho_Apparel_OnSkin_Pariah.description>사용자의 체내 메카나이트로 작동되는 안티-싸이킥 파워 슈트입니다. 근접 전투능력 상승과 완벽한 사용자 보호를 추구합니다.</Miho_Apparel_OnSkin_Pariah.description>
+
+  <Miho_Apparel_OnSkin_Simple.label>미호 평상복</Miho_Apparel_OnSkin_Simple.label>
+  <Miho_Apparel_OnSkin_Simple.description>미호들의 전통 복장 입니다. 고대 지구의 어느 반도국가의 여성복과 닮았습니다.</Miho_Apparel_OnSkin_Simple.description>
+
+  <Miho_Apparel_OnSkin_SimpleShort.label>미호 짧은 평상복</Miho_Apparel_OnSkin_SimpleShort.label>
+  <Miho_Apparel_OnSkin_SimpleShort.description>미호들의 짧은 전통 복장 입니다. 고대 지구의 어느 열도국가의 여성복과 닮았습니다.</Miho_Apparel_OnSkin_SimpleShort.description>
+
+  <Miho_Apparel_OnSkin_Regular.label>미호 표준 정장</Miho_Apparel_OnSkin_Regular.label>
+  <Miho_Apparel_OnSkin_Regular.description>미호들의 표준 정장 입니다. 사석에서나 공식적인 석상에서나, 어디서든 편하게 입을 수 있는 옷 입니다.</Miho_Apparel_OnSkin_Regular.description>
+
+  <Miho_Apparel_OnSkin_Sailor.label>미호 우주 승조원복</Miho_Apparel_OnSkin_Sailor.label>
+  <Miho_Apparel_OnSkin_Sailor.description>우주 미호들이 입는 세일러복 입니다. 적대적 환경 보호복 역할도 합니다.</Miho_Apparel_OnSkin_Sailor.description>
+
+
+</LanguageData>

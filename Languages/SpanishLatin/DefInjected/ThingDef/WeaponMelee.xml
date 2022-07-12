@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Weapon_PowerClaw.label>Garra de poder EK</Miho_Weapon_PowerClaw.label>
+  <Miho_Weapon_PowerClaw.description>Es una garra de poder con 3 cuchillas y 1 punzón.</Miho_Weapon_PowerClaw.description>
+  <Miho_Weapon_PowerClaw.tools.0.label>hoja</Miho_Weapon_PowerClaw.tools.0.label>
+  <Miho_Weapon_PowerClaw.tools.1.label>punta</Miho_Weapon_PowerClaw.tools.1.label>
+
+  <Miho_Weapon_RingedBlade.label>Hwando EK</Miho_Weapon_Ringedhoja.label>
+  <Miho_Weapon_RingedBlade.description>Es un gran machete que es bueno para aplastar enemigos.</Miho_Weapon_Ringedhoja.description>
+  <Miho_Weapon_RingedBlade.tools.0.label>empuñadura</Miho_Weapon_Ringedhoja.tools.0.label>
+  <Miho_Weapon_RingedBlade.tools.1.label>hoja</Miho_Weapon_Ringedhoja.tools.1.label>
+  <Miho_Weapon_RingedBlade.tools.2.label>punta</Miho_Weapon_Ringedhoja.tools.2.label>
+
+  <Miho_Weapon_Tachi.label>Nodachi EK</Miho_Weapon_Tachi.label>
+  <Miho_Weapon_Tachi.description>Es una enorme espada de un solo filo. Se dice que fue utilizado por los guerreros de la tierra antigua.</Miho_Weapon_Tachi.description>
+  <Miho_Weapon_Tachi.tools.0.label>empuñadura</Miho_Weapon_Tachi.tools.0.label>
+  <Miho_Weapon_Tachi.tools.1.label>hoja</Miho_Weapon_Tachi.tools.1.label>
+  <Miho_Weapon_Tachi.tools.2.label>punta</Miho_Weapon_Tachi.tools.2.label>
+
+  <Miho_Weapon_Sappertool.label>Martillo de zapador EK</Miho_Weapon_Sappertool.label>
+  <Miho_Weapon_Sappertool.description>Una hoja y una cabeza de herramienta combinadas unidas a un mango resistente. Si bien es un poco menos efectiva que otras armas contra enemigos humanos, sobresale para derribar paredes, puertas y otras estructuras gracias a su cabeza de herramienta integrada.</Miho_Weapon_Sappertool.description>
+  <Miho_Weapon_Sappertool.tools.0.label>empuñadura</Miho_Weapon_Sappertool.tools.0.label>
+  <Miho_Weapon_Sappertool.tools.1.label>cabeza</Miho_Weapon_Sappertool.tools.1.label>
+
+  <Miho_Weapon_PlasmaTachi.label>Nodachi de Plasma EK</Miho_Weapon_PlasmaTachi.label>
+  <Miho_Weapon_PlasmaTachi.description>Una enorme espada mejorada de un solo filo que emite plasma. El poder de corte de la hoja es comparable al de los guerreros jetstream de la Tierra Antigua.</Miho_Weapon_PlasmaTachi.description>
+  <Miho_Weapon_PlasmaTachi.tools.0.label>empuñadura</Miho_Weapon_PlasmaTachi.tools.0.label>
+  <Miho_Weapon_PlasmaTachi.tools.1.label>hoja</Miho_Weapon_PlasmaTachi.tools.1.label>
+  <Miho_Weapon_PlasmaTachi.tools.2.label>punta</Miho_Weapon_PlasmaTachi.tools.2.label>
+
+  <Miho_Weapon_Flag.label>Nobori EK</Miho_Weapon_Flag.label>
+  <Miho_Weapon_Flag.description>Es una bandera de asalto.</Miho_Weapon_Flag.description>
+  <Miho_Weapon_Flag.tools.0.label>empuñadura</Miho_Weapon_Flag.tools.0.label>
+
+  <Miho_Weapon_Flag_Shogitai.label>Nobori(Shogitai) EK</Miho_Weapon_Flag_Shogitai.label>
+  <Miho_Weapon_Flag_Shogitai.description>La bandera creativa.</Miho_Weapon_Flag_Shogitai.description>
+  <Miho_Weapon_Flag_Shogitai.tools.0.label>empuñadura</Miho_Weapon_Flag_Shogitai.tools.0.label>
+
+
+</LanguageData>

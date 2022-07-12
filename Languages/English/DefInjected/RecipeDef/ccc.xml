@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Miho_FlowertoHive.label>Make Mechanite Reflect Hive x4</Miho_FlowertoHive.label>
+  <Miho_FlowertoHive.description>Make Mechanite Reflect Hive.</Miho_FlowertoHive.description>
+  <Miho_FlowertoHive.jobString>Make Mechanite Reflect Hive.</Miho_FlowertoHive.jobString>
+  <Miho_FlowertoHiveTwo.label>Make Mechanite Reflect Hive</Miho_FlowertoHiveTwo.label>
+  <Miho_FlowertoHiveTwo.description>Make Mechanite Reflect Hive.</Miho_FlowertoHiveTwo.description>
+  <Miho_FlowertoHiveTwo.jobString>Make Mechanite Reflect Hive.</Miho_FlowertoHiveTwo.jobString>
+  <Miho_DroneLeg.label>Make Drone Leg</Miho_DroneLeg.label>
+  <Miho_DroneLeg.description>Make Drone Leg.</Miho_DroneLeg.description>
+  <Miho_DroneLeg.jobString>Make Drone Leg.</Miho_DroneLeg.jobString>
+  <Miho_DroneChassis.label>Make Drone Chassis</Miho_DroneChassis.label>
+  <Miho_DroneChassis.description>Make Drone Chassis.</Miho_DroneChassis.description>
+  <Miho_DroneChassis.jobString>Make Drone Chassis.</Miho_DroneChassis.jobString>
+  <Miho_DroneArmor.label>Make Drone Armor</Miho_DroneArmor.label>
+  <Miho_DroneArmor.description>Make Drone Armor.</Miho_DroneArmor.description>
+  <Miho_DroneArmor.jobString>Make Drone Armor.</Miho_DroneArmor.jobString>
+  <Miho_CeramictoDrill.label>Make Ceramic Drill</Miho_CeramictoDrill.label>
+  <Miho_CeramictoDrill.description>Make Ceramic Drill.</Miho_CeramictoDrill.description>
+  <Miho_CeramictoDrill.jobString>Make Ceramic Drill.</Miho_CeramictoDrill.jobString>
+  <Miho_HivetoCleaner.label>Make Cleaner Drone</Miho_HivetoCleaner.label>
+  <Miho_HivetoCleaner.description>Make Cleaner Drone.</Miho_HivetoCleaner.description>
+  <Miho_HivetoCleaner.jobString>Make Cleaner Drone.</Miho_HivetoCleaner.jobString>
+  <Miho_HivetoLogi.label>Make Logi Drone</Miho_HivetoLogi.label>
+  <Miho_HivetoLogi.description>Make Logi Drone.</Miho_HivetoLogi.description>
+  <Miho_HivetoLogi.jobString>Make Logi Drone.</Miho_HivetoLogi.jobString>
+  <Miho_HivetoSecurity.label>Make Guard Drone</Miho_HivetoSecurity.label>
+  <Miho_HivetoSecurity.description>Make Guard Drone.</Miho_HivetoSecurity.description>
+  <Miho_HivetoSecurity.jobString>Make Guard Drone.</Miho_HivetoSecurity.jobString>
+  <Miho_HivetoLight.label>Make Light Battle Drone</Miho_HivetoLight.label>
+  <Miho_HivetoLight.description>Make Light Battle Drone.</Miho_HivetoLight.description>
+  <Miho_HivetoLight.jobString>Make Light Battle Drone.</Miho_HivetoLight.jobString>
+  <Miho_HivetoHeavy.label>Make Heavy Battle Drone</Miho_HivetoHeavy.label>
+  <Miho_HivetoHeavy.description>Make Heavy Battle Drone.</Miho_HivetoHeavy.description>
+  <Miho_HivetoHeavy.jobString>Make Heavy Battle Drone.</Miho_HivetoHeavy.jobString>
+</LanguageData>

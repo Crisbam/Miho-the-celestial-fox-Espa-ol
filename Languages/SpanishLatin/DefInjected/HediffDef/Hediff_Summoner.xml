@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Summoner_Start_Hediff.label>Invocador (aclimatización del planeta)</Miho_Summoner_Start_Hediff.label>
+  <Miho_Summoner_Start_Hediff.description>Invocador</Miho_Summoner_Start_Hediff.description>
+
+  <Miho_Summoner_I_Hediff.label>Invocador (I)</Miho_Summoner_I_Hediff.label>
+  <Miho_Summoner_I_Hediff.description>Invocador</Miho_Summoner_I_Hediff.description>
+  <Miho_Summoner_I_Hediff.stages.0.label>a</Miho_Summoner_I_Hediff.stages.0.label>
+  <Miho_Summoner_I_Hediff.stages.1.label>b</Miho_Summoner_I_Hediff.stages.1.label>
+  <Miho_Summoner_I_Hediff.stages.2.label>c</Miho_Summoner_I_Hediff.stages.2.label>
+  <Miho_Summoner_I_Hediff.stages.3.label>d</Miho_Summoner_I_Hediff.stages.3.label>
+
+  <Miho_Summoner_II_Hediff.label>Invocador (II)</Miho_Summoner_II_Hediff.label>
+  <Miho_Summoner_II_Hediff.description>Invocador</Miho_Summoner_II_Hediff.description>
+  <Miho_Summoner_II_Hediff.stages.0.label>a</Miho_Summoner_II_Hediff.stages.0.label>
+  <Miho_Summoner_II_Hediff.stages.1.label>b</Miho_Summoner_II_Hediff.stages.1.label>
+  <Miho_Summoner_II_Hediff.stages.2.label>c</Miho_Summoner_II_Hediff.stages.2.label>
+  <Miho_Summoner_II_Hediff.stages.3.label>d</Miho_Summoner_II_Hediff.stages.3.label>
+
+  <Miho_Summoner_III_Hediff.label>Invocador (III)</Miho_Summoner_III_Hediff.label>
+  <Miho_Summoner_III_Hediff.description>Invocador</Miho_Summoner_III_Hediff.description>
+  <Miho_Summoner_III_Hediff.stages.0.label>a</Miho_Summoner_III_Hediff.stages.0.label>
+  <Miho_Summoner_III_Hediff.stages.1.label>b</Miho_Summoner_III_Hediff.stages.1.label>
+  <Miho_Summoner_III_Hediff.stages.2.label>c</Miho_Summoner_III_Hediff.stages.2.label>
+  <Miho_Summoner_III_Hediff.stages.3.label>d</Miho_Summoner_III_Hediff.stages.3.label>
+
+  <Miho_Summoner_IV_Hediff.label>Invocador (IV)</Miho_Summoner_IV_Hediff.label>
+  <Miho_Summoner_IV_Hediff.description>Invocador</Miho_Summoner_IV_Hediff.description>
+  <Miho_Summoner_IV_Hediff.stages.0.label>a</Miho_Summoner_IV_Hediff.stages.0.label>
+  <Miho_Summoner_IV_Hediff.stages.1.label>b</Miho_Summoner_IV_Hediff.stages.1.label>
+  <Miho_Summoner_IV_Hediff.stages.2.label>c</Miho_Summoner_IV_Hediff.stages.2.label>
+  <Miho_Summoner_IV_Hediff.stages.3.label>d</Miho_Summoner_IV_Hediff.stages.3.label>
+
+  <Miho_Summoner_V_Hediff.label>Invocador (V)</Miho_Summoner_V_Hediff.label>
+  <Miho_Summoner_V_Hediff.description>Invocador</Miho_Summoner_V_Hediff.description>
+  <Miho_Summoner_V_Hediff.stages.0.label>a</Miho_Summoner_V_Hediff.stages.0.label>
+
+  <Miho_Summon_SixHour.label>vivo</Miho_Summon_SixHour.label>
+  <Miho_Summon_SixHour.description>vivo</Miho_Summon_SixHour.description>
+
+  <Miho_Summon_SevenDay.label>vivo</Miho_Summon_SevenDay.label>
+  <Miho_Summon_SevenDay.description>vivo</Miho_Summon_SevenDay.description>
+
+  <Miho_Summon_Dead.label>muerto</Miho_Summon_Dead.label>
+  <Miho_Summon_Dead.description>muerto</Miho_Summon_Dead.description>
+
+
+</LanguageData>

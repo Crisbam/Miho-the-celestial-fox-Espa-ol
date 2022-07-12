@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Apparel_Special_MissileLauncher.label>Lanzador de misiles de energía</Miho_Apparel_Special_MissileLauncher.label>
+  <Miho_Apparel_Special_MissileLauncher.description>Es un lanzador de misiles que puede lanzar misiles guiados por energía.</Miho_Apparel_Special_MissileLauncher.description>
+  <Miho_Apparel_Special_MissileLauncher.verbs.0.label>misil</Miho_Apparel_Special_MissileLauncher.verbs.0.label>
+
+  <Miho_Apparel_Special_MissileLauncher_Proj.label>cohete</Miho_Apparel_Special_MissileLauncher_Proj.label>
+
+  <Miho_Apparel_Special_Shield.label>Escudo balístico</Miho_Apparel_Special_Shield.label>
+  <Miho_Apparel_Special_Shield.description>Es un escudo a prueba de balas que puede bloquear balas con alta energía cinética. Equipado con un lanzador de humo triple, es ideal para retroceder o avanzar.</Miho_Apparel_Special_Shield.description>
+  <Miho_Apparel_Special_Shield.verbs.0.label>misil</Miho_Apparel_Special_Shield.verbs.0.label>
+
+  <Miho_Apparel_Special_Magnifier.label>Lupa</Miho_Apparel_Special_Magnifier.label>
+  <Miho_Apparel_Special_Magnifier.description>Un dispositivo que te permite apuntar con mayor precisión a mayor distancia. Bueno para Mihos con mala vista.</Miho_Apparel_Special_Magnifier.description>
+
+  <Miho_Apparel_Special_TacticalAssist.label>Computadora de asistencia de tiro</Miho_Apparel_Special_TacticalAssist.label>
+  <Miho_Apparel_Special_TacticalAssist.description>Es un dispositivo de asistencia de tiro equipado con funciones de cálculo de trayectoria, identificación de enemigos y ampliación.</Miho_Apparel_Special_TacticalAssist.description>
+
+  <Miho_Apparel_Special_Glasses.label>Gafas</Miho_Apparel_Special_Glasses.label>
+  <Miho_Apparel_Special_Glasses.description>Gafas!</Miho_Apparel_Special_Glasses.description>
+
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_PositiveFlower_Drug_High.label>Alto en Eleth</Miho_PositiveFlower_Drug_High.label>
+  <Miho_PositiveFlower_Drug_High.description>Alto en Eleth.</Miho_PositiveFlower_Drug_High.description>
+  <Miho_PositiveFlower_Drug_High.labelNoun>Alto en Eleth</Miho_PositiveFlower_Drug_High.labelNoun>
+
+
+  <!-- WakeUp addiction -->
+
+  <Miho_PositiveFlower_Drug_Addiction.label>Adicción al Eleth</Miho_PositiveFlower_Drug_Addiction.label>
+  <Miho_PositiveFlower_Drug_Addiction.description>Cuando eres adicto al Eleth, tu cuerpo indica una falta de yang. En realidad, lo que sea.</Miho_PositiveFlower_Drug_Addiction.description>
+  <Miho_PositiveFlower_Drug_Addiction.stages.1.label>retirada</Miho_PositiveFlower_Drug_Addiction.stages.1.label>
+
+  <Miho_PositiveFlower_Drug_Tolerance.label>Tolerancia al Eleth</Miho_PositiveFlower_Drug_Tolerance.label>
+  <Miho_PositiveFlower_Drug_Tolerance.description>Eleth</Miho_PositiveFlower_Drug_Tolerance.description>
+
+
+  <!-- Tea addiction -->
+
+  <Miho_PositiveFlower_Tea_Addiction.label>Adicción a droga Helianto de luz</Miho_PositiveFlower_Tea_Addiction.label>
+  <Miho_PositiveFlower_Tea_Addiction.description>¡nada mal!</Miho_PositiveFlower_Tea_Addiction.description>
+  <Miho_PositiveFlower_Tea_Addiction.stages.1.label>retirada</Miho_PositiveFlower_Tea_Addiction.stages.1.label>
+
+  <Miho_PositiveFlower_Tea_Tolerance.label>Tolerancia a droga Helianto de luz</Miho_PositiveFlower_Tea_Tolerance.label>
+  <Miho_PositiveFlower_Tea_Tolerance.description>droga Helianto de luz.</Miho_PositiveFlower_Tea_Tolerance.description>
+
+
+</LanguageData>

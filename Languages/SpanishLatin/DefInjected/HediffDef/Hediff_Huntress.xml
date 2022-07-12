@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Huntress_Start_Hediff.label>Cazador (aclimatización del planeta)</Miho_Huntress_Start_Hediff.label>
+  <Miho_Huntress_Start_Hediff.description>Cazador</Miho_Huntress_Start_Hediff.description>
+
+  <Miho_Huntress_I_Hediff.label>Cazador (I)</Miho_Huntress_I_Hediff.label>
+  <Miho_Huntress_I_Hediff.description>Cazador</Miho_Huntress_I_Hediff.description>
+  <Miho_Huntress_I_Hediff.stages.0.label>a</Miho_Huntress_I_Hediff.stages.0.label>
+  <Miho_Huntress_I_Hediff.stages.1.label>b</Miho_Huntress_I_Hediff.stages.1.label>
+  <Miho_Huntress_I_Hediff.stages.2.label>c</Miho_Huntress_I_Hediff.stages.2.label>
+  <Miho_Huntress_I_Hediff.stages.3.label>d</Miho_Huntress_I_Hediff.stages.3.label>
+
+  <Miho_Huntress_II_Hediff.label>Cazador (II)</Miho_Huntress_II_Hediff.label>
+  <Miho_Huntress_II_Hediff.description>Cazador</Miho_Huntress_II_Hediff.description>
+  <Miho_Huntress_II_Hediff.stages.0.label>a</Miho_Huntress_II_Hediff.stages.0.label>
+  <Miho_Huntress_II_Hediff.stages.1.label>b</Miho_Huntress_II_Hediff.stages.1.label>
+  <Miho_Huntress_II_Hediff.stages.2.label>c</Miho_Huntress_II_Hediff.stages.2.label>
+  <Miho_Huntress_II_Hediff.stages.3.label>d</Miho_Huntress_II_Hediff.stages.3.label>
+
+  <Miho_Huntress_III_Hediff.label>Cazador (III)</Miho_Huntress_III_Hediff.label>
+  <Miho_Huntress_III_Hediff.description>Cazador</Miho_Huntress_III_Hediff.description>
+  <Miho_Huntress_III_Hediff.stages.0.label>a</Miho_Huntress_III_Hediff.stages.0.label>
+  <Miho_Huntress_III_Hediff.stages.1.label>b</Miho_Huntress_III_Hediff.stages.1.label>
+  <Miho_Huntress_III_Hediff.stages.2.label>c</Miho_Huntress_III_Hediff.stages.2.label>
+  <Miho_Huntress_III_Hediff.stages.3.label>d</Miho_Huntress_III_Hediff.stages.3.label>
+
+  <Miho_Huntress_IV_Hediff.label>Cazador (IV)</Miho_Huntress_IV_Hediff.label>
+  <Miho_Huntress_IV_Hediff.description>Cazador</Miho_Huntress_IV_Hediff.description>
+  <Miho_Huntress_IV_Hediff.stages.0.label>a</Miho_Huntress_IV_Hediff.stages.0.label>
+  <Miho_Huntress_IV_Hediff.stages.1.label>b</Miho_Huntress_IV_Hediff.stages.1.label>
+  <Miho_Huntress_IV_Hediff.stages.2.label>c</Miho_Huntress_IV_Hediff.stages.2.label>
+  <Miho_Huntress_IV_Hediff.stages.3.label>d</Miho_Huntress_IV_Hediff.stages.3.label>
+
+  <Miho_Huntress_V_Hediff.label>Cazador (V)</Miho_Huntress_V_Hediff.label>
+  <Miho_Huntress_V_Hediff.description>Cazador</Miho_Huntress_V_Hediff.description>
+  <Miho_Huntress_V_Hediff.stages.0.label>a</Miho_Huntress_V_Hediff.stages.0.label>
+
+
+</LanguageData>

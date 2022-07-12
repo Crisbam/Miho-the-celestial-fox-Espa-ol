@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_PositiveFlower_Pipe.label>태양화 담배</Miho_PositiveFlower_Pipe.label>
+  <Miho_PositiveFlower_Pipe.description>태양화를 말려 만든 담배입니다. 흡연시 빠르게 양기를 보충해주며 기분이 좋아집니다.</Miho_PositiveFlower_Pipe.description>
+  <Miho_PositiveFlower_Pipe.ingestible.ingestCommandString>Smoke {0}</Miho_PositiveFlower_Pipe.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_Pipe.ingestible.ingestReportString>Smoking {0}.</Miho_PositiveFlower_Pipe.ingestible.ingestReportString>
+
+  <Miho_PositiveFlower_Tea.label>태양화 차</Miho_PositiveFlower_Tea.label>
+  <Miho_PositiveFlower_Tea.description>태양화의 꽃잎을 우린 차 입니다. 향이 좋고 따뜻해 마시면 다소 노곤해 질 수 있습니다.</Miho_PositiveFlower_Tea.description>
+  <Miho_PositiveFlower_Tea.ingestible.ingestCommandString>Drink {0}</Miho_PositiveFlower_Tea.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_Tea.ingestible.ingestReportString>Drinking {0}.</Miho_PositiveFlower_Tea.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Shield_Hediff.label>Blindado</Miho_Shield_Hediff.label>
+  <Miho_Shield_Hediff.description>Blindado.</Miho_Shield_Hediff.description>
+  <Miho_Shield_Hediff.labelNoun>Blindado</Miho_Shield_Hediff.labelNoun>
+
+  <Miho_Magnifier_Hediff.label>lupa</Miho_lupa_Hediff.label>
+  <Miho_Magnifier_Hediff.description>lupa.</Miho_lupa_Hediff.description>
+  <Miho_Magnifier_Hediff.labelNoun>lupa</Miho_lupa_Hediff.labelNoun>
+
+  <Miho_TacticalAssist_Hediff.label>computadora asistente de disparo</Miho_TacticalAssist_Hediff.label>
+  <Miho_TacticalAssist_Hediff.description>computadora asistente de disparo.</Miho_TacticalAssist_Hediff.description>
+  <Miho_TacticalAssist_Hediff.labelNoun>computadora asistente de disparo</Miho_TacticalAssist_Hediff.labelNoun>
+
+  <Miho_Glasses_Hediff.label>lentes</Miho_Glasses_Hediff.label>
+  <Miho_Glasses_Hediff.description>lentes.</Miho_Glasses_Hediff.description>
+  <Miho_Glasses_Hediff.labelNoun>lentes</Miho_Glasses_Hediff.labelNoun>
+
+
+</LanguageData>

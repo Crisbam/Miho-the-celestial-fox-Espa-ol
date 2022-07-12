@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pure stuffs: Basics -->
+
+  <Miho_StoneChunktoPaste.label>세라믹 반죽 제작</Miho_StoneChunktoPaste.label>
+  <Miho_StoneChunktoPaste.description>돌덩어리로 세라믹 반죽을 제작합니다.</Miho_StoneChunktoPaste.description>
+  <Miho_StoneChunktoPaste.jobString>세라믹 반죽 제작.</Miho_StoneChunktoPaste.jobString>
+
+  <Miho_PastetoCeramic.label>미호 세라믹 제작</Miho_PastetoCeramic.label>
+  <Miho_PastetoCeramic.description>세라믹을 제작합니다.</Miho_PastetoCeramic.description>
+  <Miho_PastetoCeramic.jobString>세라믹을 제작중.</Miho_PastetoCeramic.jobString>
+
+  <Miho_TeatoTea.label>태양화 차 제작.</Miho_TeatoTea.label>
+  <Miho_TeatoTea.description>차를 제작합니다.</Miho_TeatoTea.description>
+  <Miho_TeatoTea.jobString>차를 제작중.</Miho_TeatoTea.jobString>
+
+  <Miho_JellytoSilk.label>화현비단 제작</Miho_JellytoSilk.label>
+  <Miho_JellytoSilk.description>화현비단을 제작합니다.</Miho_JellytoSilk.description>
+  <Miho_JellytoSilk.jobString>화현비단을 제작중.</Miho_JellytoSilk.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Miho_BasicFactory.label>Miho Basic Factory</Miho_BasicFactory.label>
+  <Miho_BasicFactory.description>Learn the basic skills to produce ceramics.</Miho_BasicFactory.description>
+  <Miho_HeavyFactory.label>Miho Heavy Industry</Miho_HeavyFactory.label>
+  <Miho_HeavyFactory.description>Weapons, armor, combat drones, anything can be mass-produced.</Miho_HeavyFactory.description>
+  <Miho_MechHack.label>Mechanite Hacking</Miho_MechHack.label>
+  <Miho_MechHack.description>Learn the technique to hack small mechanoids that are invisible to the naked eye. Viruses can also be viewed as biomechanites. The main purpose of this technology is to transform Miho's psychic serum.</Miho_MechHack.description>
+  <Miho_Persona.label>Orch-OR theory</Miho_Persona.label>
+  <Miho_Persona.description>Teaches you the ability to implant a quantum soul into a machine.</Miho_Persona.description>
+  <Miho_Celestial.label>Archo Mass Weave</Miho_Celestial.label>
+  <Miho_Celestial.description>It is a large alloy production center that is helped by Persona AI. You will be able to create "Celetial scales" made by alloying the nucleus of a neutron star with a exotic matter.</Miho_Celestial.description>
+  <Miho_Drone.label>Miho Drone</Miho_Drone.label>
+  <Miho_Drone.description>We develop small drones that can transport and clean.</Miho_Drone.description>
+  <Miho_GuardDrone.label>Base Protection</Miho_GuardDrone.label>
+  <Miho_GuardDrone.description>developing a guard drone that can protect short distances.</Miho_GuardDrone.description>
+  <Miho_LightWarDrone.label>Light Battle Drone</Miho_LightWarDrone.label>
+  <Miho_LightWarDrone.description>developing a multi-purpose large drone that can travel on foot over long distances.</Miho_LightWarDrone.description>
+  <Miho_CommandDrone.label>Command Drone</Miho_CommandDrone.label>
+  <Miho_CommandDrone.description>developing a command drone that can command Miho in the field with Persona AI.</Miho_CommandDrone.description>
+  <Miho_HeavyWarDrone.label>Heavy Battle Drone</Miho_HeavyWarDrone.label>
+  <Miho_HeavyWarDrone.description>developing a heavy armored battle drone for light tanks.</Miho_HeavyWarDrone.description>
+  <Miho_Weapon.label>Miho Weapon</Miho_Weapon.label>
+  <Miho_Weapon.description>can make simple Miho's weapons.</Miho_Weapon.description>
+  <Miho_HeavyWeapon.label>Miho Advanced Weapon</Miho_HeavyWeapon.label>
+  <Miho_HeavyWeapon.description>can make precise Miho's weapons.</Miho_HeavyWeapon.description>
+  <Miho_PlasmaWeapon.label>Miho Plasma Weapon</Miho_PlasmaWeapon.label>
+  <Miho_PlasmaWeapon.description>can craft Miho's weapons using elements in plasma state.</Miho_PlasmaWeapon.description>
+  <Miho_PlasmaCannon.label>Miho Plasma Catapult</Miho_PlasmaCannon.label>
+  <Miho_PlasmaCannon.description>can craft Miho's catapults using elements in plasma state.</Miho_PlasmaCannon.description>
+  <Miho_ApparelBasic.label>Miho Apparel</Miho_ApparelBasic.label>
+  <Miho_ApparelBasic.description>can weave simple Miho clothes.</Miho_ApparelBasic.description>
+  <Miho_ApparelAdvanced.label>Miho Advanced Apparel</Miho_ApparelAdvanced.label>
+  <Miho_ApparelAdvanced.description>can weave simple Miho complex clothes.</Miho_ApparelAdvanced.description>
+  <Miho_Silk.label>Ebonsilk</Miho_Silk.label>
+  <Miho_Silk.description>can produce silk that is soft and resistant to heat.</Miho_Silk.description>
+  <Miho_SynthSilk.label>Synth Ebonsilk</Miho_SynthSilk.label>
+  <Miho_SynthSilk.description>Even though it doesn't seem to fit the bill. There may be times when you have to do it!</Miho_SynthSilk.description>
+  <Miho_ApparelEltex.label>Miho Eltex Apparel</Miho_ApparelEltex.label>
+  <Miho_ApparelEltex.description>can craft Eltex clothes that increase the limits of psychic.</Miho_ApparelEltex.description>
+  <Miho_ApparelAssassin.label>Miho Assassin Armor</Miho_ApparelAssassin.label>
+  <Miho_ApparelAssassin.description>craft assassin armor that can enhance physical abilities.</Miho_ApparelAssassin.description>
+  <Miho_ApparelSorcerees.label>Miho Sorcerer Armor</Miho_ApparelSorcerees.label>
+  <Miho_ApparelSorcerees.description>can craft sorcerer clothes that can enhance psychic abilities.</Miho_ApparelSorcerees.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fox red -->
+
+  <Miho_Fox_Red.label>Zorro sospechoso</Miho_Fox_Red.label>
+  <Miho_Fox_Red.description>Un zorro demasiado inteligente y desconfiado. Existe el rumor de que si alimentas a este sospechoso zorro con albóndigas hechas de hígado humano, se convertirá en un Miho.</Miho_Fox_Red.description>
+
+  <Miho_LiverDango.label>Albóndigas de hígado</Miho_LiverDango.label>
+  <Miho_LiverDango.description>Albóndigas horribles hechas de hígado humano. Cuenta la leyenda que si le das de comer a un zorro sospechoso, se convertirá en un Miho.</Miho_LiverDango.description>
+  <Miho_LiverDango.ingestible.ingestCommandString>Comer {0}</Miho_LiverDango.ingestible.ingestCommandString>
+  <Miho_LiverDango.ingestible.ingestReportString>Comiendo {0}.</Miho_LiverDango.ingestible.ingestReportString>
+
+  <Miho_MihoEgg.label>Subproducto trascendental</Miho_MihoEgg.label>
+  <Miho_MihoEgg.description>Es un subproducto de algo trascendente. Me duele saber más.</Miho_MihoEgg.description>
+
+
+</LanguageData>

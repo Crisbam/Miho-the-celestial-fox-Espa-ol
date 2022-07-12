@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Weapon_RifleCQBGap.label>Subfusil EK (甲)</Miho_Weapon_RifleCQBGap.label>
+  <Miho_Weapon_RifleCQBGap.description>Esta es una ametralladora multipropósito que utiliza rondas de pistola incendiarias de calibre 8 mm. No es ergonómico, y cuenta con un rendimiento chiflado. La opinión de Miho es que no existe tal arma en el combate cuerpo a cuerpo. Ha sido remodelado para tener un cargador más largo para un rendimiento perfecto, lo que le permite desperdiciar más munición. ¡Alegrarse!</Miho_Weapon_RifleCQBGap.description>
+  <Miho_Weapon_RifleCQBGap.tools.0.label>culata</Miho_Weapon_RifleCQBGap.tools.0.label>
+  <Miho_Weapon_RifleCQBGap.tools.1.label>cañón</Miho_Weapon_RifleCQBGap.tools.1.label>
+
+  <Miho_Weapon_RifleDefenceGap.label>Fusil de infantería EK (甲)</Miho_Weapon_RifleDefenceGap.label>
+  <Miho_Weapon_RifleDefenceGap.description>Es un fusil automático para infantería que utiliza balas incendiarias de fusil con un calibre de 6,5 mm. Tiene la ventaja de que se puede producir fácilmente incluso en fábricas pequeñas y subdesarrolladas. Fue remodelado en un tipo blindado y equipado con proyectiles incendiarios perforantes. Tiene un rendimiento perfecto, capacidad de penetración adicional y poder de ataque antipersonal.</Miho_Weapon_RifleDefenceGap.description>
+  <Miho_Weapon_RifleDefenceGap.tools.0.label>culata</Miho_Weapon_RifleDefenceGap.tools.0.label>
+  <Miho_Weapon_RifleDefenceGap.tools.1.label>cañón</Miho_Weapon_RifleDefenceGap.tools.1.label>
+
+  <Miho_Weapon_RifleDefenceGap_Proj.label>bala fusil de asalto</Miho_Weapon_RifleDefenceGap_Proj.label>
+
+  <Miho_Weapon_RifleMarksmanGap.label>Fusil pesado EK (甲)</Miho_Weapon_RifleMarksmanGap.label>
+  <Miho_Weapon_RifleMarksmanGap.description>Es un tipo de rifle antitanque que utiliza balas incendiarias de ametralladora pesada calibre 13,2 mm. Cuenta con una potencia de fuego formidable y es muy eficaz contra oponentes individuales fuertemente armados. Se convirtió en un caparazón y se equipó con un dispositivo de observación de precisión. El rango se incrementa dramáticamente con un rendimiento perfecto. Sin embargo, el período de apuntado aumenta ligeramente.</Miho_Weapon_RifleMarksmanGap.description>
+  <Miho_Weapon_RifleMarksmanGap.tools.0.label>culata</Miho_Weapon_RifleMarksmanGap.tools.0.label>
+  <Miho_Weapon_RifleMarksmanGap.tools.1.label>cañón</Miho_Weapon_RifleMarksmanGap.tools.1.label>
+
+  <Miho_Weapon_RiflePrecisionGap.label>Rifle de precisión EK (甲)</Miho_Weapon_RiflePrecisionGap.label>
+  <Miho_Weapon_RiflePrecisionGap.description>Es un rifle de infantería que utiliza balas de fusil incendiarias con un calibre de 7,7 mm. Tiene una tasa de recolección de munición decente y se usa principalmente como rifle de tirador designado. Se convirtió en un caparazón y estaba equipado con un cargador extendido y un sistema de fuego automático. La precisión se reduce, pero dispara mucho más rápido.</Miho_Weapon_RiflePrecisionGap.description>
+  <Miho_Weapon_RiflePrecisionGap.tools.0.label>culata</Miho_Weapon_RiflePrecisionGap.tools.0.label>
+  <Miho_Weapon_RiflePrecisionGap.tools.1.label>cañón</Miho_Weapon_RiflePrecisionGap.tools.1.label>
+
+
+</LanguageData>

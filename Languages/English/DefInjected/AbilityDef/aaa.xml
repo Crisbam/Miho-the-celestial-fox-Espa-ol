@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Miho_Ability_Hawk.label>Huning Hawk</Miho_Ability_Hawk.label>
+  <Miho_Ability_Hawk.description>Throws a hunting hawk. Hunting hawks continue to hinder enemies, constantly lowering their combat abilities.</Miho_Ability_Hawk.description>
+  <Miho_Ability_Fireball_Small.label>Zorro de fuego pequeño</Miho_Ability_Fireball_Small.label>
+  <Miho_Ability_Fireball_Small.description>Summons a small foxfire with enough destructive power to kill people. It would be more accurate to collect something rather than summon.</Miho_Ability_Fireball_Small.description>
+  <Miho_Ability_Fireball.label>Foxfire</Miho_Ability_Fireball.label>
+  <Miho_Ability_Fireball.description>Summons a foxfire with powerful destructive power. It's more accurate to collect something than to summon.</Miho_Ability_Fireball.description>
+  <Miho_Ability_Fireball_Adept.label>Foxfire Arrows</Miho_Ability_Fireball_Adept.label>
+  <Miho_Ability_Fireball_Adept.description>Fires two foxfire arrows with excellent penetrating power over long distances.</Miho_Ability_Fireball_Adept.description>
+  <Miho_Ability_Thunder.label>Foxstorm</Miho_Ability_Thunder.label>
+  <Miho_Ability_Thunder.description>It collides small mecanites with great speed, generating a powerful electric charge. Enough to break the circuit of the mechanoids.</Miho_Ability_Thunder.description>
+  <Miho_Ability_FanofKnives.label>Fan of Knives</Miho_Ability_FanofKnives.label>
+  <Miho_Ability_FanofKnives.description>It inflicts death on the opponent by arranging the nearby mechanite molecules with a blade that is close to a single molecule.</Miho_Ability_FanofKnives.description>
+  <Miho_Ability_Love.label>Tail of Love</Miho_Ability_Love.label>
+  <Miho_Ability_Love.description>connects the two. Really!</Miho_Ability_Love.description>
+  <Miho_Ability_Serenity.label>Tail of Serenity</Miho_Ability_Serenity.label>
+  <Miho_Ability_Serenity.description>Stops insanity! Seeing a Lewd fox works well.</Miho_Ability_Serenity.description>
+  <Miho_Ability_Inspiration.label>Tail of Happy</Miho_Ability_Inspiration.label>
+  <Miho_Ability_Inspiration.description>It brings happiness. Don't tell me how to present it.</Miho_Ability_Inspiration.description>
+  <Miho_Ability_Defence.label>Totem of Protect</Miho_Ability_Defence.label>
+  <Miho_Ability_Defence.description>Releases a mental wave around you to relieve tension in battle and reduce damage taken. However, the caster himself becomes vulnerable to damage.</Miho_Ability_Defence.description>
+  <Miho_Ability_Shield.label>Fox Shield</Miho_Ability_Shield.label>
+  <Miho_Ability_Shield.description>A type of interceptor type of protection that fires Mecanite to intercept low-momentum projectiles.</Miho_Ability_Shield.description>
+  <Miho_Ability_BerserkPulse.label>Pulse of Doom</Miho_Ability_BerserkPulse.label>
+  <Miho_Ability_BerserkPulse.description>Generate an overwhelming rush of undirected rage in everyone near the target point.</Miho_Ability_BerserkPulse.description>
+  <Miho_Ability_Heal.label>Healing Touch</Miho_Ability_Heal.label>
+  <Miho_Ability_Heal.description>It radiates a healing touch that heals the sick and heals wounds.</Miho_Ability_Heal.description>
+  <Miho_Ability_Spiritualize.label>Spiritualize</Miho_Ability_Spiritualize.label>
+  <Miho_Ability_Spiritualize.description>By hijacking the information of the transcendental world in the caster's own brain, the sixth sense can be felt.</Miho_Ability_Spiritualize.description>
+  <Miho_Ability_Spawn_Fox.label>Summon Helper Fox</Miho_Ability_Spawn_Fox.label>
+  <Miho_Ability_Spawn_Fox.description>Summons a little helper to carry the settlement's luggage.</Miho_Ability_Spawn_Fox.description>
+  <Miho_Ability_Spawn_Butterfly.label>Summon Bladefly Host</Miho_Ability_Spawn_Butterfly.label>
+  <Miho_Ability_Spawn_Butterfly.description>Summons a butterfly with very sharp wings.</Miho_Ability_Spawn_Butterfly.description>
+  <Miho_Ability_Spawn_Turret.label>Summon Foxfire Brazier</Miho_Ability_Spawn_Turret.label>
+  <Miho_Ability_Spawn_Turret.description>Summons a brazier that fires foxfire.</Miho_Ability_Spawn_Turret.description>
+  <Miho_Ability_Skip.label>Foxskip</Miho_Ability_Skip.label>
+  <Miho_Ability_Skip.description>This is a skill that allows you to teleport to a specific location.</Miho_Ability_Skip.description>
+  <Miho_Ability_Spawn_Thrumbo.label>Summon Arcane Thrumbo</Miho_Ability_Spawn_Thrumbo.label>
+  <Miho_Ability_Spawn_Thrumbo.description>Summons the ultimate creature, Arcane Thrumbo.</Miho_Ability_Spawn_Thrumbo.description>
+</LanguageData>

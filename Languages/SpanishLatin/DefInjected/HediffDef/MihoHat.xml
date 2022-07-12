@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_EltexMask_Hediff.label>Enmascarado</Miho_EltexMask_Hediff.label>
+  <Miho_EltexMask_Hediff.description>Enmascarado</Miho_EltexMask_Hediff.description>
+  <Miho_EltexMask_Hediff.labelNoun>Enmascarado</Miho_EltexMask_Hediff.labelNoun>
+
+  <Miho_SorceressMask_Hediff.label>Enmascarado</Miho_SorceressMask_Hediff.label>
+  <Miho_SorceressMask_Hediff.description>Enmascarado</Miho_SorceressMask_Hediff.description>
+  <Miho_SorceressMask_Hediff.labelNoun>Enmascarado</Miho_SorceressMask_Hediff.labelNoun>
+
+  <Miho_AssassinMelee_Hediff.label>Autocuración de mecanita</Miho_AssassinMelee_Hediff.label>
+  <Miho_AssassinMelee_Hediff.description>Las mecanitas aceleran el metabolismo del usuario para sanar sin dolor.</Miho_AssassinMelee_Hediff.description>
+  <Miho_AssassinMelee_Hediff.labelNoun>Autocuración de mecanita</Miho_AssassinMelee_Hediff.labelNoun>
+
+
+</LanguageData>

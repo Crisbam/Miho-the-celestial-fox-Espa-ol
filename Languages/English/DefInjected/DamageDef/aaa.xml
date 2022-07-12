@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Miho_MagicBombHawk.label>mechanite-arcane</Miho_MagicBombHawk.label>
+  <Miho_MagicBombHawk.deathMessage>{0} has died in an explosion.</Miho_MagicBombHawk.deathMessage>
+  <Miho_MagicBomb.label>mechanite-arcane</Miho_MagicBomb.label>
+  <Miho_MagicBomb.deathMessage>{0} has died in an explosion.</Miho_MagicBomb.deathMessage>
+  <Miho_MagicBombEMP.label>mechanite-arcane</Miho_MagicBombEMP.label>
+  <Miho_MagicBombEMP.deathMessage>{0} has died in an explosion.</Miho_MagicBombEMP.deathMessage>
+  <Miho_Laser.label>energy</Miho_Laser.label>
+  <Miho_Laser.deathMessage>{0} has been shot to death.</Miho_Laser.deathMessage>
+  <MihoPlasma.label>plasma</MihoPlasma.label>
+  <MihoPlasma.deathMessage>{0} has been melted.</MihoPlasma.deathMessage>
+  <MihoGunshot.label>gunshot</MihoGunshot.label>
+  <MihoGunshot.deathMessage>{0} has been melted.</MihoGunshot.deathMessage>
+</LanguageData>

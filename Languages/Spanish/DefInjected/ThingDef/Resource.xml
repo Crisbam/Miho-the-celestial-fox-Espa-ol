@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pure stuffs: Basics -->
+
+  <Miho_CeramicsPaste.label>미호 세라믹 반죽</Miho_CeramicsPaste.label>
+  <Miho_CeramicsPaste.description>여러가지 원소들로 잘 반죽된 세라믹의 원재료 입니다.</Miho_CeramicsPaste.description>
+
+  <Miho_Ceramics.label>미호 세라믹</Miho_Ceramics.label>
+  <Miho_Ceramics.description>튼튼한 도기 입니다.</Miho_Ceramics.description>
+
+  <Miho_MilitaryGradeBalisticCeramics.label>미호 군용 방탄 세라믹</Miho_MilitaryGradeBalisticCeramics.label>
+  <Miho_MilitaryGradeBalisticCeramics.description>강철과 세라믹을 합친 강화 소재 입니다.</Miho_MilitaryGradeBalisticCeramics.description>
+
+  <Miho_HeatCeramics.label>미호 전자 세라믹</Miho_HeatCeramics.label>
+  <Miho_HeatCeramics.description>전자기적 특성을 지닌 세라믹 입니다. 열에 굉장히 강합니다.</Miho_HeatCeramics.description>
+
+  <Miho_CelestialScale.label>천상비늘</Miho_CelestialScale.label>
+  <Miho_CelestialScale.description>중성자 별의 핵에 비견될 정도로 극단적으로 압축된 플라스틸과 음의 질량을 지닌 이종물질로 이루어진 인류 역사를 통틀어 가장 강력한 합금입니다... 라고 미호들은 설명합니다.</Miho_CelestialScale.description>
+
+  <Miho_ExoticMatter.label>이종물질</Miho_ExoticMatter.label>
+  <Miho_ExoticMatter.description>음의 질량을 가지고 있는, 변방계에서는 거의 찾아볼수 없는 희귀한 물질 입니다.</Miho_ExoticMatter.description>
+
+  <Miho_PlasmaSample.label>항성 플라즈마 샘플</Miho_PlasmaSample.label>
+  <Miho_PlasmaSample.description>먼 옛날, 고대인들이 항성을 채취한 흔적입니다.</Miho_PlasmaSample.description>
+
+
+</LanguageData>

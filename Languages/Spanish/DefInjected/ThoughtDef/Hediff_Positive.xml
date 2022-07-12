@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Plus_Thought.stages.0.label>양기 결핍</Miho_Plus_Thought.stages.0.label>
+  <Miho_Plus_Thought.stages.0.description>캬오!</Miho_Plus_Thought.stages.0.description>
+  <Miho_Plus_Thought.stages.1.label>양기 부족</Miho_Plus_Thought.stages.1.label>
+  <Miho_Plus_Thought.stages.1.description>양기가 부족해! 온갖 원초적인 감정들이 날 괴롭히고 있어.</Miho_Plus_Thought.stages.1.description>
+  <Miho_Plus_Thought.stages.4.label>양기가 넘침</Miho_Plus_Thought.stages.4.label>
+  <Miho_Plus_Thought.stages.4.description>양기가 넘쳐. 진정으로 사람이 된 것 같아.</Miho_Plus_Thought.stages.4.description>
+
+  <Miho_PositiveFlower_Pipe_High_Thought.stages.0.label>태양화 담배를 핌</Miho_PositiveFlower_Pipe_High_Thought.stages.0.label>
+  <Miho_PositiveFlower_Pipe_High_Thought.stages.0.description>정신이 맑아진 느낌이야.</Miho_PositiveFlower_Pipe_High_Thought.stages.0.description>
+
+  <Miho_PositiveFlower_Tea_High_Thought.stages.0.label>태양화 차를 마심</Miho_PositiveFlower_Tea_High_Thought.stages.0.label>
+  <Miho_PositiveFlower_Tea_High_Thought.stages.0.description>맛있는 차야.</Miho_PositiveFlower_Tea_High_Thought.stages.0.description>
+
+  <Miho_PositiveFlower_Thought.stages.0.label>생화를 먹음</Miho_PositiveFlower_Thought.stages.0.label>
+  <Miho_PositiveFlower_Thought.stages.0.description>달달하고 꽃향이 나. 생으로 먹는건 좋진 않지만...</Miho_PositiveFlower_Thought.stages.0.description>
+
+
+</LanguageData>

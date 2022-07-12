@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Loli.label>young hediff</Miho_Loli.label>
+  <Miho_Loli.description>loli hediff</Miho_Loli.description>
+
+  <Miho_Shota.label>young hediff</Miho_Shota.label>
+  <Miho_Shota.description>shota hediff</Miho_Shota.description>
+
+
+  <!-- male -->
+
+  <Miho_OHPG_male.label>male hediff</Miho_OHPG_male.label>
+  <Miho_OHPG_male.description>male hediff</Miho_OHPG_male.description>
+
+
+  <!-- female -->
+
+  <Miho_OHPG_female.label>female hediff</Miho_OHPG_female.label>
+  <Miho_OHPG_female.description>female hediff</Miho_OHPG_female.description>
+
+  <Miho_OneHediffPerGenderAdult.label>OneHediffPerGender</Miho_OneHediffPerGenderAdult.label>
+  <Miho_OneHediffPerGenderAdult.description>apply one hediff per gender</Miho_OneHediffPerGenderAdult.description>
+
+  <Miho_OneHediffPerGenderLoli.label>OneHediffPerGender</Miho_OneHediffPerGenderLoli.label>
+  <Miho_OneHediffPerGenderLoli.description>apply one hediff per gender</Miho_OneHediffPerGenderLoli.description>
+
+  <Miho_OneHediffPerLifeStage.label>OneHediffPerLifeStage</Miho_OneHediffPerLifeStage.label>
+  <Miho_OneHediffPerLifeStage.description>apply one hediff per lifestage</Miho_OneHediffPerLifeStage.description>
+  <Miho_OneHediffPerLifeStage.labelNoun>OneHediffPerLifeStage.labelNoun</Miho_OneHediffPerLifeStage.labelNoun>
+
+
+</LanguageData>

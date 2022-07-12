@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <apparel>
+            <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+            <wornGraphicPath>Mincho_Apparel/Mincho_KnightlyTiara/Texture</wornGraphicPath>
+            <useWornGraphicMask>true</useWornGraphicMask>
+            <tags>
+                <li>Mincho_Knight</li>
+                <li>PrestigeCombatGear</li>
+            </tags>
+        </apparel> -->
+
+  <Miho_Tail_Hediff.label>Cola</Miho_Tail_Hediff.label>
+  <Miho_Tail_Hediff.description>Cola</Miho_Tail_Hediff.description>
+  <Miho_Tail_Hediff.stages.0.label>a</Miho_Tail_Hediff.stages.0.label>
+  <Miho_Tail_Hediff.stages.1.label>b</Miho_Tail_Hediff.stages.1.label>
+  <Miho_Tail_Hediff.stages.2.label>c</Miho_Tail_Hediff.stages.2.label>
+
+  <Miho_Wash_Hediff.label>Wash</Miho_Wash_Hediff.label>
+  <Miho_Wash_Hediff.description>Wash</Miho_Wash_Hediff.description>
+  <Miho_Wash_Hediff.stages.0.label>a</Miho_Wash_Hediff.stages.0.label>
+
+  <Miho_Hidden_Hediff.label>Oculto</Miho_Hidden_Hediff.label>
+  <Miho_Hidden_Hediff.description>Oculto</Miho_Hidden_Hediff.description>
+
+  <Miho_Ear_Hediff.label>orejas grandes</Miho_Ear_Hediff.label>
+  <Miho_Ear_Hediff.description>orejas grandes</Miho_Ear_Hediff.description>
+
+  <Miho_Random.label>Miho_Random</Miho_Random.label>
+  <Miho_Random.description>HATIHATIHATIHO.</Miho_Random.description>
+
+  <DroneLike.label>dron Miho</DroneLike.label>
+  <DroneLike.description>Es un dron que opera con mecanita.</DroneLike.description>
+
+  <DroneOilLoss.label>Pérdida de aceite de dron</DroneOilLoss.label>
+  <DroneOilLoss.description>Pérdida de aceite de dron</DroneOilLoss.description>
+
+
+</LanguageData>

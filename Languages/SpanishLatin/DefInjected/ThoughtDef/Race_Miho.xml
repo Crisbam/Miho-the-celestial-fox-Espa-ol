@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <apparel>
+            <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+            <wornGraphicPath>Mincho_Apparel/Mincho_KnightlyTiara/Texture</wornGraphicPath>
+            <useWornGraphicMask>true</useWornGraphicMask>
+            <tags>
+                <li>Mincho_Knight</li>
+                <li>PrestigeCombatGear</li>
+            </tags>
+        </apparel> -->
+
+  <Miho_Tail_Thought.stages.2.label>Emocionado, meneando la cola</Miho_Tail_Thought.stages.2.label>
+  <Miho_Tail_Thought.stages.2.description>¡Lleno de pensamientos emocionantes! Creo que encontré mi aptitud. (menea la cola)</Miho_Tail_Thought.stages.2.description>
+
+
+</LanguageData>

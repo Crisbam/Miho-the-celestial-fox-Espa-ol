@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Apparel_Middle_Militia.label>Armadura de soldado</Miho_Apparel_Middle_Militia.label>
+  <Miho_Apparel_Middle_Militia.description>Es un portaplacas táctico. Es resistente, pero sobre todo reduce la velocidad de recarga.</Miho_Apparel_Middle_Militia.description>
+
+  <Miho_Apparel_Middle_Militia_Tan.label>Armadura de soldado (tan)</Miho_Apparel_Middle_Militia_Tan.label>
+  <Miho_Apparel_Middle_Militia_Tan.description>Es un portaplacas táctico. Es resistente, pero sobre todo reduce la velocidad de recarga.</Miho_Apparel_Middle_Militia_Tan.description>
+
+  <Miho_Apparel_Middle_MilitiaVest.label>Chaleco táctico</Miho_Apparel_Middle_MilitiaVest.label>
+  <Miho_Apparel_Middle_MilitiaVest.description>Es un chaleco táctico. Tiene algo de protección, y sobre todo reduce la velocidad de recarga.</Miho_Apparel_Middle_MilitiaVest.description>
+
+  <Miho_Apparel_Middle_Powered.label>Armadura pesada de exoesqueleto</Miho_Apparel_Middle_Powered.label>
+  <Miho_Apparel_Middle_Powered.description>Exoesqueleto. Se pueden instalar varias piezas adicionales.</Miho_Apparel_Middle_Powered.description>
+
+  <Miho_Apparel_Middle_PoweredWorker.label>EK esqueleto</Miho_Apparel_Middle_PoweredWorker.label>
+  <Miho_Apparel_Middle_PoweredWorker.description>Exoesqueleto. No protege al usuario, pero incluso para el frágil Miho facilita el transporte de cargas pesadas.</Miho_Apparel_Middle_PoweredWorker.description>
+
+  <Miho_Apparel_Middle_PoweredMarine.label>EK esqueleto tormenta</Miho_Apparel_Middle_PoweredMarine.label>
+  <Miho_Apparel_Middle_PoweredMarine.description>Exoesqueleto de asalto de protección orbital Miho utilizado por los marines. Está especializado en el combate cuerpo a cuerpo y puede saltar distancias cortas quemando mecanitas.</Miho_Apparel_Middle_PoweredMarine.description>
+  <Miho_Apparel_Middle_PoweredMarine.verbs.0.label>salto</Miho_Apparel_Middle_PoweredMarine.verbs.0.label>
+
+
+</LanguageData>

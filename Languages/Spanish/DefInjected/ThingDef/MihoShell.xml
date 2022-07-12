@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Apparel_Shell_Winter.label>미호 겨울 판초</Miho_Apparel_Shell_Winter.label>
+  <Miho_Apparel_Shell_Winter.description>미호들의 전통 복장 입니다. 반문의 여지없이 따뜻한 디자인 입니다.</Miho_Apparel_Shell_Winter.description>
+
+  <Miho_Apparel_Shell_Padding.label>미호 패딩</Miho_Apparel_Shell_Padding.label>
+  <Miho_Apparel_Shell_Padding.description>수천년전 지구에서 유행했던 패딩입니다. 무척 따뜻합니다.</Miho_Apparel_Shell_Padding.description>
+
+  <Miho_Apparel_Shell_PMC.label>미호 보병 파카</Miho_Apparel_Shell_PMC.label>
+  <Miho_Apparel_Shell_PMC.description>두꺼운 파카입니다. 그냥 질기고 두껍습니다.</Miho_Apparel_Shell_PMC.description>
+
+  <Miho_Apparel_Shell_OrnatedOne.label>미호 엘텍스 코트</Miho_Apparel_Shell_OrnatedOne.label>
+  <Miho_Apparel_Shell_OrnatedOne.description>앵간한 인간보다 비싸보이는 모피코트 입니다.</Miho_Apparel_Shell_OrnatedOne.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Plasma_Hediff.label>armadura derretida</Miho_Plasma_Hediff.label>
+  <Miho_Plasma_Hediff.description>La armadura se ha licuado parcialmente por el calor.</Miho_Plasma_Hediff.description>
+  <Miho_Plasma_Hediff.stages.0.label>inicial</Miho_Plasma_Hediff.stages.0.label>
+  <Miho_Plasma_Hediff.stages.1.label>inicial</Miho_Plasma_Hediff.stages.1.label>
+  <Miho_Plasma_Hediff.stages.2.label>derretimiento menor</Miho_Plasma_Hediff.stages.2.label>
+  <Miho_Plasma_Hediff.stages.3.label>derretimiento moderado</Miho_Plasma_Hediff.stages.3.label>
+  <Miho_Plasma_Hediff.stages.4.label>derretimiento severo</Miho_Plasma_Hediff.stages.4.label>
+  <Miho_Plasma_Hediff.stages.5.label>totalmente derretido</Miho_Plasma_Hediff.stages.5.label>
+
+  <Miho_Neddle_Hediff.label>flor de cordyceps</Miho_Neddle_Hediff.label>
+  <Miho_Neddle_Hediff.description>Se ha convertido en una planta cordyceps. Los girasoles se pueden cosechar después de la muerte.</Miho_Neddle_Hediff.description>
+  <Miho_Neddle_Hediff.stages.0.label>inicial</Miho_Neddle_Hediff.stages.0.label>
+  <Miho_Neddle_Hediff.stages.1.label>inicial</Miho_Neddle_Hediff.stages.1.label>
+  <Miho_Neddle_Hediff.stages.2.label>menor</Miho_Neddle_Hediff.stages.2.label>
+  <Miho_Neddle_Hediff.stages.3.label>moderado</Miho_Neddle_Hediff.stages.3.label>
+  <Miho_Neddle_Hediff.stages.4.label>severo</Miho_Neddle_Hediff.stages.4.label>
+
+
+</LanguageData>

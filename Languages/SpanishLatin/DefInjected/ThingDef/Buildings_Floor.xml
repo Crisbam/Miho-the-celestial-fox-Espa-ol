@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Tatami.label>Miho Tatami</Miho_Tatami.label>
+  <Miho_Tatami.description>Tatamidesu.</Miho_Tatami.description>
+  <Miho_Tatami_Blueprint.label>Miho Tatami (plano)</Miho_Tatami_Blueprint.label>
+  <Miho_Tatami_Blueprint_Install.label>Miho Tatami (plano)</Miho_Tatami_Blueprint_Install.label>
+  <Miho_Tatami_Frame.label>Miho Tatami (edificio)</Miho_Tatami_Frame.label>
+  <Miho_Tatami_Frame.description>Es tatami</Miho_Tatami_Frame.description>
+
+  <Miho_TableMachining.label>Banco de trabajo general Miho</Miho_TableMachining.label>
+  <Miho_TableMachining.description>Es un banco de trabajo integral que imita las impresoras 3D humanas.</Miho_TableMachining.description>
+
+
+</LanguageData>

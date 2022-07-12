@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 전투 지휘 모듈 -->
+
+  <Miho_MyeongIl_Hediff.label>페르소나 지휘</Miho_MyeongIl_Hediff.label>
+  <Miho_MyeongIl_Hediff.description>By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance.</Miho_MyeongIl_Hediff.description>
+
+  <Miho_MyeongIlCommand_Hediff.label>페르소나AI에게 지휘받는중</Miho_MyeongIlCommand_Hediff.label>
+  <Miho_MyeongIlCommand_Hediff.description>Combat abilities are boosted thanks to being near someone who is using the officer command ability.</Miho_MyeongIlCommand_Hediff.description>
+
+  <Miho_Formation_Hediff.label>보호 토템</Miho_Formation_Hediff.label>
+  <Miho_Formation_Hediff.description>주변에 정신파동을 발산해 전투의 긴장을 풀어주고, 받는 피해량을 감소시켜줍니다. 다만 시전자 본인은 피해에 취약해집니다.</Miho_Formation_Hediff.description>
+
+  <Miho_FormationCommand_Hediff.label>보호 토템</Miho_FormationCommand_Hediff.label>
+  <Miho_FormationCommand_Hediff.description>주변에 정신파동을 발산해 전투의 긴장을 풀어주고, 전투력을 향상시킵니다. 다만 시전자 본인은 피해에 취약해집니다.</Miho_FormationCommand_Hediff.description>
+
+
+</LanguageData>

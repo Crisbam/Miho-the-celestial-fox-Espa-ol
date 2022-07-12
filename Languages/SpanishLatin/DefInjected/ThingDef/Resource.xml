@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pure stuffs: Basics -->
+
+  <Miho_CeramicsPaste.label>Masa de cerámica Miho</Miho_CeramicsPaste.label>
+  <Miho_CeramicsPaste.description>Es una materia prima de cerámica que se amasa bien con varios elementos.</Miho_CeramicsPaste.description>
+
+  <Miho_Ceramics.label>Cerámica</Miho_Ceramics.label>
+  <Miho_Ceramics.description>Es una cerámica resistente.</Miho_Ceramics.description>
+
+  <Miho_MilitaryGradeBalisticCeramics.label>Cerámica de grado militar</Miho_MilitaryGradeBalisticCeramics.label>
+  <Miho_MilitaryGradeBalisticCeramics.description>Es un material reforzado que combina acero y cerámica.</Miho_MilitaryGradeBalisticCeramics.description>
+
+  <Miho_HeatCeramics.label>Cerámica de calor</Miho_HeatCeramics.label>
+  <Miho_HeatCeramics.description>Cerámica con propiedades electromagnéticas. Es muy resistente al calor.</Miho_HeatCeramics.description>
+
+  <Miho_CelestialScale.label>Escama celestial</Miho_CelestialScale.label>
+  <Miho_CelestialScale.description>Es la aleación más poderosa en la historia Miho, compuesta de plastiacero extremadamente comprimido y materia exótica de masa negativa comparable al núcleo de una estrella de neutrones..." explica Mihodul.</Miho_CelestialScale.description>
+
+  <Miho_ExoticMatter.label>Materia exótica</Miho_ExoticMatter.label>
+  <Miho_ExoticMatter.description>Es una sustancia rara que tiene una masa negativa y rara vez se encuentra en el mundo marginal.</Miho_ExoticMatter.description>
+
+  <Miho_PlasmaSample.label>Muestra de plasma estelar</Miho_PlasmaSample.label>
+  <Miho_PlasmaSample.description>Hace mucho tiempo, rastros de personas antiguas minando estrellas.</Miho_PlasmaSample.description>
+
+
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_DummyWeapon_DO_NOT_SPAWN.label>psychic abilities</Miho_DummyWeapon_DO_NOT_SPAWN.label>
+  <Miho_DummyWeapon_DO_NOT_SPAWN.description>Only here so that the battle log doesn't break when someone is hit by a psychic ability.</Miho_DummyWeapon_DO_NOT_SPAWN.description>
+
+  <Miho_Hawk_Proj.label>Hawk</Miho_Hawk_Proj.label>
+  <Miho_Fireball_Small_Proj.label>fireball</Miho_Fireball_Small_Proj.label>
+  <Miho_Fireball_Proj.label>fireball</Miho_Fireball_Proj.label>
+  <Miho_Fireball_Adept_Proj.label>fire arrow</Miho_Fireball_Adept_Proj.label>
+  <Miho_Thunder_Proj.label>thunder</Miho_Thunder_Proj.label>
+  <Miho_FanofKnives_Proj.label>knife</Miho_FanofKnives_Proj.label>
+
+  <Miho_Butterfly_Portal_Dummy.label>칼날나비 포탈 더미</Miho_Butterfly_Portal_Dummy.label>
+  <Miho_Butterfly_Portal_Dummy.description>칼날나비 포탈 더미.</Miho_Butterfly_Portal_Dummy.description>
+
+  <Miho_Butterfly_Portal.label>칼날나비 포탈</Miho_Butterfly_Portal.label>
+  <Miho_Butterfly_Portal.description>칼날나비 포탈.</Miho_Butterfly_Portal.description>
+
+  <Miho_Fox_Portal.label>운반여우 포탈</Miho_Fox_Portal.label>
+  <Miho_Fox_Portal.description>운반여우 포탈.</Miho_Fox_Portal.description>
+
+  <Miho_Thrumbo_Portal.label>구름트럼보 포탈</Miho_Thrumbo_Portal.label>
+  <Miho_Thrumbo_Portal.description>구름트럼보 포탈.</Miho_Thrumbo_Portal.description>
+
+  <Miho_Turret_Flame.label>여우불 화로</Miho_Turret_Flame.label>
+  <Miho_Turret_Flame.description>화로처럼 생긴 자동포탑입니다.</Miho_Turret_Flame.description>
+
+  <Miho_TurretGun_Flame_Proj.label>fireball</Miho_TurretGun_Flame_Proj.label>
+
+  <Miho_TurretGun_Flame.label>turret gun</Miho_TurretGun_Flame.label>
+  <Miho_TurretGun_Flame.description>.</Miho_TurretGun_Flame.description>
+
+  <Miho_Butterfly.label>칼날나비</Miho_Butterfly.label>
+  <Miho_Butterfly.description>날카로운 날개의 메카나이트 생명체 입니다.</Miho_Butterfly.description>
+  <Miho_Butterfly.tools.0.label>blades</Miho_Butterfly.tools.0.label>
+
+  <Miho_Fox.label>미호 운반여우</Miho_Fox.label>
+  <Miho_Fox.description>운반을 잘하는 메카나이트 생명체 입니다.</Miho_Fox.description>
+  <Miho_Fox.tools.0.label>left claw</Miho_Fox.tools.0.label>
+  <Miho_Fox.tools.1.label>right claw</Miho_Fox.tools.1.label>
+  <Miho_Fox.tools.3.label>head</Miho_Fox.tools.3.label>
+
+  <Miho_Thrumbo.label>구름트럼보</Miho_Thrumbo.label>
+  <Miho_Thrumbo.description>궁극의 메카나이트 생명체 입니다.</Miho_Thrumbo.description>
+  <Miho_Thrumbo.tools.0.label>horn</Miho_Thrumbo.tools.0.label>
+  <Miho_Thrumbo.tools.2.label>left foot</Miho_Thrumbo.tools.2.label>
+  <Miho_Thrumbo.tools.3.label>right foot</Miho_Thrumbo.tools.3.label>
+  <Miho_Thrumbo.tools.4.label>head</Miho_Thrumbo.tools.4.label>
+
+
+</LanguageData>

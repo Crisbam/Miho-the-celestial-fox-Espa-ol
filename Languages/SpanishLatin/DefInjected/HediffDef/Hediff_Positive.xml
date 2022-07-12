@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_ElegansDeploy_Hediff.label>booster</Miho_ElegansDeploy_Hediff.label>
+  <Miho_ElegansDeploy_Hediff.description>booster</Miho_ElegansDeploy_Hediff.description>
+
+  <Miho_Elegans_Hediff.label>Potencial de Órganos Elegans</Miho_Elegans_Hediff.label>
+  <Miho_Elegans_Hediff.description>El órgano de la flor de niebla, o el órgano elegans, es un órgano que existe solo en el cuerpo de Miho, activa las mecanitas solubles en agua y las esparce por todo el cuerpo. Una de las razones por las que se le llama órgano elegans es que los conductos que se extienden por todo el cuerpo son como el tallo de la flor elegans. \n\n Para mantener el órgano elegans, debes suministrar periódicamente mecanitas a través de helianto.</Miho_Elegans_Hediff.description>
+  <Miho_Elegans_Hediff.stages.0.label>Desactivado</Miho_Elegans_Hediff.stages.0.label>
+  <Miho_Elegans_Hediff.stages.1.label>muy degradado</Miho_Elegans_Hediff.stages.1.label>
+  <Miho_Elegans_Hediff.stages.2.label>degradado</Miho_Elegans_Hediff.stages.2.label>
+  <Miho_Elegans_Hediff.stages.3.label>normal</Miho_Elegans_Hediff.stages.3.label>
+  <Miho_Elegans_Hediff.stages.4.label>sobrecargado</Miho_Elegans_Hediff.stages.4.label>
+
+  <Miho_PositiveFlower_Pipe_High.label>cigarrillos solares fumados</Miho_PositiveFlower_Pipe_High.label>
+  <Miho_PositiveFlower_Pipe_High.description>Los cigarrillos solares despejan la mente. También tienen el efecto de activar el metabolismo.</Miho_PositiveFlower_Pipe_High.description>
+  <Miho_PositiveFlower_Pipe_High.labelNoun>cigarrillos solares fumados</Miho_PositiveFlower_Pipe_High.labelNoun>
+
+  <Miho_PositiveFlower_Tea_High.label>bebió té solar</Miho_PositiveFlower_Tea_High.label>
+  <Miho_PositiveFlower_Tea_High.description>El té solar repone el yang. Es bueno beber antes de acostarse ya que aumenta la eficiencia del sueño.</Miho_PositiveFlower_Tea_High.description>
+  <Miho_PositiveFlower_Tea_High.labelNoun>bebió té solar</Miho_PositiveFlower_Tea_High.labelNoun>
+
+  <Miho_PositiveFlower_High.label>comio pétalos de girasol</Miho_PositiveFlower_High.label>
+  <Miho_PositiveFlower_High.description>Los pétalos de girasol recargan tu energía.</Miho_PositiveFlower_High.description>
+  <Miho_PositiveFlower_High.labelNoun>comio pétalos de girasol</Miho_PositiveFlower_High.labelNoun>
+
+
+</LanguageData>

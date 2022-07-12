@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Butterfly.label>칼날나비</Miho_Butterfly.label>
+  <Miho_Butterfly.labelPlural>칼날나비s</Miho_Butterfly.labelPlural>
+  <Miho_Butterfly.lifeStages.0.label>칼날나비</Miho_Butterfly.lifeStages.0.label>
+  <Miho_Butterfly.lifeStages.0.labelPlural>칼날나비</Miho_Butterfly.lifeStages.0.labelPlural>
+  <Miho_Butterfly.lifeStages.0.labelMale>male 칼날나비</Miho_Butterfly.lifeStages.0.labelMale>
+  <Miho_Butterfly.lifeStages.0.labelMalePlural>male 칼날나비s</Miho_Butterfly.lifeStages.0.labelMalePlural>
+  <Miho_Butterfly.lifeStages.0.labelFemale>female 칼날나비</Miho_Butterfly.lifeStages.0.labelFemale>
+  <Miho_Butterfly.lifeStages.0.labelFemalePlural>female 칼날나비s</Miho_Butterfly.lifeStages.0.labelFemalePlural>
+  <Miho_Butterfly.lifeStages.1.label>칼날나비</Miho_Butterfly.lifeStages.1.label>
+  <Miho_Butterfly.lifeStages.1.labelPlural>칼날나비</Miho_Butterfly.lifeStages.1.labelPlural>
+  <Miho_Butterfly.lifeStages.1.labelMale>male 칼날나비</Miho_Butterfly.lifeStages.1.labelMale>
+  <Miho_Butterfly.lifeStages.1.labelMalePlural>male 칼날나비s</Miho_Butterfly.lifeStages.1.labelMalePlural>
+  <Miho_Butterfly.lifeStages.1.labelFemale>female 칼날나비</Miho_Butterfly.lifeStages.1.labelFemale>
+  <Miho_Butterfly.lifeStages.1.labelFemalePlural>female 칼날나비s</Miho_Butterfly.lifeStages.1.labelFemalePlural>
+  <Miho_Butterfly.lifeStages.2.label>칼날나비</Miho_Butterfly.lifeStages.2.label>
+  <Miho_Butterfly.lifeStages.2.labelPlural>칼날나비</Miho_Butterfly.lifeStages.2.labelPlural>
+  <Miho_Butterfly.lifeStages.2.labelMale>male 칼날나비</Miho_Butterfly.lifeStages.2.labelMale>
+  <Miho_Butterfly.lifeStages.2.labelMalePlural>male 칼날나비s</Miho_Butterfly.lifeStages.2.labelMalePlural>
+  <Miho_Butterfly.lifeStages.2.labelFemale>female 칼날나비</Miho_Butterfly.lifeStages.2.labelFemale>
+  <Miho_Butterfly.lifeStages.2.labelFemalePlural>female 칼날나비s</Miho_Butterfly.lifeStages.2.labelFemalePlural>
+  <Miho_Butterfly.labelMale>male 칼날나비</Miho_Butterfly.labelMale>
+  <Miho_Butterfly.labelMalePlural>male 칼날나비s</Miho_Butterfly.labelMalePlural>
+  <Miho_Butterfly.labelFemale>female 칼날나비</Miho_Butterfly.labelFemale>
+  <Miho_Butterfly.labelFemalePlural>female 칼날나비s</Miho_Butterfly.labelFemalePlural>
+
+  <Miho_Fox.label>미호 운반여우</Miho_Fox.label>
+  <Miho_Fox.labelPlural>미호 운반여우s</Miho_Fox.labelPlural>
+  <Miho_Fox.lifeStages.0.label>red fox puppy</Miho_Fox.lifeStages.0.label>
+  <Miho_Fox.lifeStages.0.labelPlural>red fox puppies</Miho_Fox.lifeStages.0.labelPlural>
+  <Miho_Fox.lifeStages.0.labelMale>male red fox puppy</Miho_Fox.lifeStages.0.labelMale>
+  <Miho_Fox.lifeStages.0.labelMalePlural>male red fox puppies</Miho_Fox.lifeStages.0.labelMalePlural>
+  <Miho_Fox.lifeStages.0.labelFemale>female red fox puppy</Miho_Fox.lifeStages.0.labelFemale>
+  <Miho_Fox.lifeStages.0.labelFemalePlural>female red fox puppies</Miho_Fox.lifeStages.0.labelFemalePlural>
+  <Miho_Fox.lifeStages.1.label>미호 운반여우</Miho_Fox.lifeStages.1.label>
+  <Miho_Fox.lifeStages.1.labelPlural>미호 운반여우</Miho_Fox.lifeStages.1.labelPlural>
+  <Miho_Fox.lifeStages.1.labelMale>male 미호 운반여우</Miho_Fox.lifeStages.1.labelMale>
+  <Miho_Fox.lifeStages.1.labelMalePlural>male 미호 운반여우s</Miho_Fox.lifeStages.1.labelMalePlural>
+  <Miho_Fox.lifeStages.1.labelFemale>female 미호 운반여우</Miho_Fox.lifeStages.1.labelFemale>
+  <Miho_Fox.lifeStages.1.labelFemalePlural>female 미호 운반여우s</Miho_Fox.lifeStages.1.labelFemalePlural>
+  <Miho_Fox.lifeStages.2.label>미호 운반여우</Miho_Fox.lifeStages.2.label>
+  <Miho_Fox.lifeStages.2.labelPlural>미호 운반여우</Miho_Fox.lifeStages.2.labelPlural>
+  <Miho_Fox.lifeStages.2.labelMale>male 미호 운반여우</Miho_Fox.lifeStages.2.labelMale>
+  <Miho_Fox.lifeStages.2.labelMalePlural>male 미호 운반여우s</Miho_Fox.lifeStages.2.labelMalePlural>
+  <Miho_Fox.lifeStages.2.labelFemale>female 미호 운반여우</Miho_Fox.lifeStages.2.labelFemale>
+  <Miho_Fox.lifeStages.2.labelFemalePlural>female 미호 운반여우s</Miho_Fox.lifeStages.2.labelFemalePlural>
+  <Miho_Fox.labelMale>male 미호 운반여우</Miho_Fox.labelMale>
+  <Miho_Fox.labelMalePlural>male 미호 운반여우s</Miho_Fox.labelMalePlural>
+  <Miho_Fox.labelFemale>female 미호 운반여우</Miho_Fox.labelFemale>
+  <Miho_Fox.labelFemalePlural>female 미호 운반여우s</Miho_Fox.labelFemalePlural>
+
+  <Miho_Thrumbo.label>구름트럼보</Miho_Thrumbo.label>
+  <Miho_Thrumbo.labelPlural>구름트럼보s</Miho_Thrumbo.labelPlural>
+  <Miho_Thrumbo.lifeStages.0.label>구름트럼보</Miho_Thrumbo.lifeStages.0.label>
+  <Miho_Thrumbo.lifeStages.0.labelPlural>구름트럼보</Miho_Thrumbo.lifeStages.0.labelPlural>
+  <Miho_Thrumbo.lifeStages.0.labelMale>male 구름트럼보</Miho_Thrumbo.lifeStages.0.labelMale>
+  <Miho_Thrumbo.lifeStages.0.labelMalePlural>male 구름트럼보s</Miho_Thrumbo.lifeStages.0.labelMalePlural>
+  <Miho_Thrumbo.lifeStages.0.labelFemale>female 구름트럼보</Miho_Thrumbo.lifeStages.0.labelFemale>
+  <Miho_Thrumbo.lifeStages.0.labelFemalePlural>female 구름트럼보s</Miho_Thrumbo.lifeStages.0.labelFemalePlural>
+  <Miho_Thrumbo.lifeStages.1.label>구름트럼보</Miho_Thrumbo.lifeStages.1.label>
+  <Miho_Thrumbo.lifeStages.1.labelPlural>구름트럼보</Miho_Thrumbo.lifeStages.1.labelPlural>
+  <Miho_Thrumbo.lifeStages.1.labelMale>male 구름트럼보</Miho_Thrumbo.lifeStages.1.labelMale>
+  <Miho_Thrumbo.lifeStages.1.labelMalePlural>male 구름트럼보s</Miho_Thrumbo.lifeStages.1.labelMalePlural>
+  <Miho_Thrumbo.lifeStages.1.labelFemale>female 구름트럼보</Miho_Thrumbo.lifeStages.1.labelFemale>
+  <Miho_Thrumbo.lifeStages.1.labelFemalePlural>female 구름트럼보s</Miho_Thrumbo.lifeStages.1.labelFemalePlural>
+  <Miho_Thrumbo.lifeStages.2.label>구름트럼보</Miho_Thrumbo.lifeStages.2.label>
+  <Miho_Thrumbo.lifeStages.2.labelPlural>구름트럼보</Miho_Thrumbo.lifeStages.2.labelPlural>
+  <Miho_Thrumbo.lifeStages.2.labelMale>male 구름트럼보</Miho_Thrumbo.lifeStages.2.labelMale>
+  <Miho_Thrumbo.lifeStages.2.labelMalePlural>male 구름트럼보s</Miho_Thrumbo.lifeStages.2.labelMalePlural>
+  <Miho_Thrumbo.lifeStages.2.labelFemale>female 구름트럼보</Miho_Thrumbo.lifeStages.2.labelFemale>
+  <Miho_Thrumbo.lifeStages.2.labelFemalePlural>female 구름트럼보s</Miho_Thrumbo.lifeStages.2.labelFemalePlural>
+  <Miho_Thrumbo.labelMale>male 구름트럼보</Miho_Thrumbo.labelMale>
+  <Miho_Thrumbo.labelMalePlural>male 구름트럼보s</Miho_Thrumbo.labelMalePlural>
+  <Miho_Thrumbo.labelFemale>female 구름트럼보</Miho_Thrumbo.labelFemale>
+  <Miho_Thrumbo.labelFemalePlural>female 구름트럼보s</Miho_Thrumbo.labelFemalePlural>
+
+
+</LanguageData>

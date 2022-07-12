@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <apparel>
+            <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+            <wornGraphicPath>Mincho_Apparel/Mincho_KnightlyTiara/Texture</wornGraphicPath>
+            <useWornGraphicMask>true</useWornGraphicMask>
+            <tags>
+                <li>Mincho_Knight</li>
+                <li>PrestigeCombatGear</li>
+            </tags>
+        </apparel> -->
+
+  <Miho_Tail_Thought.stages.2.label>신남</Miho_Tail_Thought.stages.2.label>
+  <Miho_Tail_Thought.stages.2.description>신나는 일 투성이야! 내 적성을 찾은거 같아. (꼬리를 흔듬)</Miho_Tail_Thought.stages.2.description>
+
+
+</LanguageData>

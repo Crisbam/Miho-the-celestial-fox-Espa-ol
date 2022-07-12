@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Laser.label>energía</Miho_Laser.label>
+  <Miho_Laser.deathMessage>{0} ha sido asesinado a tiros.</Miho_Laser.deathMessage>
+
+  <Miho_CutPlasma.label>corte de plasma</Miho_CutPlasma.label>
+  <Miho_CutPlasma.deathMessage>{0} ha sido asesinado.</Miho_CutPlasma.deathMessage>
+
+
+</LanguageData>

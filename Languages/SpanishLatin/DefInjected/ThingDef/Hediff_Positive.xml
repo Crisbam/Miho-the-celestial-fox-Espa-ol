@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_PositiveFlower_Pipe.label>Cigarrillo solar</Miho_PositiveFlower_Pipe.label>
+  <Miho_PositiveFlower_Pipe.description>Tabaco elaborado mediante el secado de girasoles. Al fumar, repone rápidamente el yang y te hace sentir mejor.</Miho_PositiveFlower_Pipe.description>
+  <Miho_PositiveFlower_Pipe.ingestible.ingestCommandString>Fumar {0}</Miho_PositiveFlower_Pipe.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_Pipe.ingestible.ingestReportString>Fumando {0}.</Miho_PositiveFlower_Pipe.ingestible.ingestReportString>
+
+  <Miho_PositiveFlower_Tea.label>Té solar</Miho_PositiveFlower_Tea.label>
+  <Miho_PositiveFlower_Tea.description>Es un té elaborado a partir de los pétalos del Girasol. Es fragante y cálido, por lo que beberlo puede cansarte un poco.</Miho_PositiveFlower_Tea.description>
+  <Miho_PositiveFlower_Tea.ingestible.ingestCommandString>Beber {0}</Miho_PositiveFlower_Tea.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_Tea.ingestible.ingestReportString>Bebiendo {0}.</Miho_PositiveFlower_Tea.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_HawkInjury_Hediff.label>halcón</Miho_HawkInjury_Hediff.label>
+  <Miho_HawkInjury_Hediff.description>halcón</Miho_HawkInjury_Hediff.description>
+  <Miho_HawkInjury_Hediff.comps.1.labelTendedWell>vendado</Miho_HawkInjury_Hediff.comps.1.labelTendedWell>
+  <Miho_HawkInjury_Hediff.comps.1.labelTendedWellInner>atendido</Miho_HawkInjury_Hediff.comps.1.labelTendedWellInner>
+  <Miho_HawkInjury_Hediff.comps.1.labelSolidTendedWell>atendido</Miho_HawkInjury_Hediff.comps.1.labelSolidTendedWell>
+  <Miho_HawkInjury_Hediff.injuryProps.destroyedLabel>Destruido</Miho_HawkInjury_Hediff.injuryProps.destroyedLabel>
+  <Miho_HawkInjury_Hediff.injuryProps.destroyedOutLabel>Destruido</Miho_HawkInjury_Hediff.injuryProps.destroyedOutLabel>
+  <Miho_HawkInjury_Hediff.labelNoun>halcón</Miho_HawkInjury_Hediff.labelNoun>
+
+  <Miho_Thunder_Hediff.label>Descarga eléctrica</Miho_Thunder_Hediff.label>
+  <Miho_Thunder_Hediff.description>Con una carga especial que usa Mecanitas, tanto los Mecanoides como los humanos se electrocutan por igual.</Miho_Thunder_Hediff.description>
+
+  <Miho_Hawk_Hediff.label>Atacar</Miho_Hawk_Hediff.label>
+  <Miho_Hawk_Hediff.description>El halcón de mecanitas interrumpe a los enemigos.</Miho_Hawk_Hediff.description>
+
+
+</LanguageData>

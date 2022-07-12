@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MihoPlasma.label>plasma</MihoPlasma.label>
+  <MihoPlasma.deathMessage>{0} has been melted.</MihoPlasma.deathMessage>
+
+  <MihoGunshot.label>gunshot</MihoGunshot.label>
+  <MihoGunshot.deathMessage>{0} has been melted.</MihoGunshot.deathMessage>
+
+  <MihoNeddle.label>gunshot</MihoNeddle.label>
+  <MihoNeddle.deathMessage>{0} has been shot to death.</MihoNeddle.deathMessage>
+
+
+</LanguageData>

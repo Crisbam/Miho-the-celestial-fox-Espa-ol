@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_MagicBombHawk.label>mecanita-arcana</Miho_MagicBombHawk.label>
+  <Miho_MagicBombHawk.deathMessage>{0} ha muerto en una explosión.</Miho_MagicBombHawk.deathMessage>
+
+  <Miho_MagicBomb.label>mecanita-arcana</Miho_MagicBomb.label>
+  <Miho_MagicBomb.deathMessage>{0} ha muerto en una explosión.</Miho_MagicBomb.deathMessage>
+
+  <Miho_MagicBombEMP.label>mmecanita-arcana</Miho_MagicBombEMP.label>
+  <Miho_MagicBombEMP.deathMessage>{0} ha muerto en una explosión.</Miho_MagicBombEMP.deathMessage>
+
+
+</LanguageData>

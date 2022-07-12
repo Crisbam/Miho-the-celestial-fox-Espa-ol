@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_ElegansDeploy_Hediff.label>초능력 증진기</Miho_ElegansDeploy_Hediff.label>
+  <Miho_ElegansDeploy_Hediff.description>초능력 증진기</Miho_ElegansDeploy_Hediff.description>
+
+  <Miho_Elegans_Hediff.label>안개꽃 기관 잠재력</Miho_Elegans_Hediff.label>
+  <Miho_Elegans_Hediff.description>안개꽃 기관, 또는 엘레강스 기관은 미호의 몸속에만 있는 기관이며 수용성 메카나이트들을 활성화 시키고 온몸으로 퍼저나가게 합니다. 안개꽃 기관이라 불리우는 이유중 하나는 온몸에 퍼져있는 관들이 안개꽃의 줄기와 같다 해서 붙혀졌습니다. \n\n안개꽃 기관을 유지시킬려면 태양화를 통해 메카나이트를 주기적으로 공급해야 합니다.</Miho_Elegans_Hediff.description>
+  <Miho_Elegans_Hediff.stages.0.label>장애</Miho_Elegans_Hediff.stages.0.label>
+  <Miho_Elegans_Hediff.stages.1.label>매우 저하됨</Miho_Elegans_Hediff.stages.1.label>
+  <Miho_Elegans_Hediff.stages.2.label>저하됨</Miho_Elegans_Hediff.stages.2.label>
+  <Miho_Elegans_Hediff.stages.3.label>정상</Miho_Elegans_Hediff.stages.3.label>
+  <Miho_Elegans_Hediff.stages.4.label>과충전</Miho_Elegans_Hediff.stages.4.label>
+
+  <Miho_PositiveFlower_Pipe_High.label>태양화 담배 흡연</Miho_PositiveFlower_Pipe_High.label>
+  <Miho_PositiveFlower_Pipe_High.description>태양화 담배는 정신을 맑게 해줍니다. 신진대사를 활발하게 하는 효과도 있습니다.</Miho_PositiveFlower_Pipe_High.description>
+  <Miho_PositiveFlower_Pipe_High.labelNoun>태양화 담배 흡연</Miho_PositiveFlower_Pipe_High.labelNoun>
+
+  <Miho_PositiveFlower_Tea_High.label>태양화 차를 마심</Miho_PositiveFlower_Tea_High.label>
+  <Miho_PositiveFlower_Tea_High.description>태양화 차는 양기를 충전시켜 줍니다. 수면효율을 증대시켜 자기 전에 마시기 좋습니다..</Miho_PositiveFlower_Tea_High.description>
+  <Miho_PositiveFlower_Tea_High.labelNoun>태양화 차를 마심</Miho_PositiveFlower_Tea_High.labelNoun>
+
+  <Miho_PositiveFlower_High.label>태양화 꽃잎을 먹음</Miho_PositiveFlower_High.label>
+  <Miho_PositiveFlower_High.description>태양화 꽃잎은 양기를 충전시켜 줍니다.</Miho_PositiveFlower_High.description>
+  <Miho_PositiveFlower_High.labelNoun>태양화 꽃잎을 먹음</Miho_PositiveFlower_High.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Miho_PlayerColony.label>Miho Settlement</Miho_PlayerColony.label>
+  <Miho_PlayerColony.description>Your own Miho Settlement.</Miho_PlayerColony.description>
+  <Miho_PlayerColony.pawnSingular>colonist</Miho_PlayerColony.pawnSingular>
+  <Miho_PlayerColony.pawnsPlural>colonists</Miho_PlayerColony.pawnsPlural>
+  <Miho_Faction_Mechanists.label>Miho Mechanists</Miho_Faction_Mechanists.label>
+  <Miho_Faction_Mechanists.description>A group of foxes who are obsessed with human goods and technology.</Miho_Faction_Mechanists.description>
+  <Miho_Faction_Mechanists.pawnSingular>Miho</Miho_Faction_Mechanists.pawnSingular>
+  <Miho_Faction_Mechanists.pawnsPlural>Mihos</Miho_Faction_Mechanists.pawnsPlural>
+  <Miho_Faction_Mechanists.leaderTitle>capitalist-daimyo</Miho_Faction_Mechanists.leaderTitle>
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Apparel_Hat_Winter.label>Gorro</Miho_Apparel_Hat_Winter.label>
+  <Miho_Apparel_Hat_Winter.description>Gorro grueso y cálido.</Miho_Apparel_Hat_Winter.description>
+
+  <Miho_Apparel_Mask_Eltex.label>Máscara Eltex</Miho_Apparel_Mask_Eltex.label>
+  <Miho_Apparel_Mask_Eltex.description>Esta es una máscara de mejora psíquica hecha de madera de ébano y jade.</Miho_Apparel_Mask_Eltex.description>
+
+  <Miho_Apparel_Hat_MilitiaAssault.label>Casco de soldado (Máscara)</Miho_Apparel_Hat_MilitiaAssault.label>
+  <Miho_Apparel_Hat_MilitiaAssault.description>Casco dado a los soldados.</Miho_Apparel_Hat_MilitiaAssault.description>
+
+  <Miho_Apparel_Hat_Militia.label>Casco de soldado</Miho_Apparel_Hat_Militia.label>
+  <Miho_Apparel_Hat_Militia.description>Casco dado a los soldados. Se centra en apuntar rápido.</Miho_Apparel_Hat_Militia.description>
+
+  <Miho_Apparel_Hat_Worker.label>Casco de seguridad</Miho_Apparel_Hat_Worker.label>
+  <Miho_Apparel_Hat_Worker.description>Un casco es esencial cuando se trabaja en un área peligrosa. Por supuesto, es más barato que la vida de un Miho.</Miho_Apparel_Hat_Worker.description>
+
+  <Miho_Apparel_Hat_PMC.label>Casco de soldado de élite</Miho_Apparel_Hat_PMC.label>
+  <Miho_Apparel_Hat_PMC.description>Este casco se entrega a los soldados PMC. Se enfoca en la protección.</Miho_Apparel_Hat_PMC.description>
+
+  <Miho_Apparel_Hat_Assassin.label>Casco de Hechicera Suprema</Miho_Apparel_Hat_Assassin.label>
+  <Miho_Apparel_Hat_Assassin.description>El Casco de hechicera suprema es un dispositivo que puede llevar el umbral psíquico del usuario al máximo.</Miho_Apparel_Hat_Assassin.description>
+
+  <Miho_Apparel_Hat_AssassinMelee.label>Activador de sinapsis de Asura</Miho_Apparel_Hat_AssassinMelee.label>
+  <Miho_Apparel_Hat_AssassinMelee.description>Activador de sinapsis de Asura es un complemento de curación que se puede conectar al usuario mientras usa el Traje de asesino Asura. \n\nEn la batalla. Aumenta enormemente la recuperación y el poder de combate, y reduce a la mitad el dolor.</Miho_Apparel_Hat_AssassinMelee.description>
+
+  <Miho_Apparel_Hat_Pariah.label>Casco de batalla Pariah</Miho_Apparel_Hat_Pariah.label>
+  <Miho_Apparel_Hat_Pariah.description>Un casco antipsíquico impulsado por las mecanitas internas del usuario. Busca aumentar la capacidad de combate a larga distancia y la protección perfecta del usuario.</Miho_Apparel_Hat_Pariah.description>
+
+  <Miho_Apparel_Hat_Marine.label>Casco tormenta </Miho_Apparel_Hat_Marine.label>
+  <Miho_Apparel_Hat_Marine.description>Casco tormenta Miho Orbital utilizado por los Marines. Promueve los instintos de combate cuerpo a cuerpo del usuario y proporciona una excelente protección.</Miho_Apparel_Hat_Marine.description>
+
+
+</LanguageData>

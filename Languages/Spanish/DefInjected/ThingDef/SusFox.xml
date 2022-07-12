@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fox red -->
+
+  <Miho_Fox_Red.label>수상한 여우</Miho_Fox_Red.label>
+  <Miho_Fox_Red.description>지나치게 영리한 수상한 여우 입니다. 이런 수상한 여우에게 인간의 간으로 만든 경단을 먹이면 미호가 된다는 소문이 있습니다.</Miho_Fox_Red.description>
+
+  <Miho_LiverDango.label>간 경단</Miho_LiverDango.label>
+  <Miho_LiverDango.description>인간의 간으로 만든 끔찍한 경단 입니다. 수상한 여우에게 먹이면 미호가 된다는 전설적인 소문이 있습니다.</Miho_LiverDango.description>
+  <Miho_LiverDango.ingestible.ingestCommandString>Eat {0}</Miho_LiverDango.ingestible.ingestCommandString>
+  <Miho_LiverDango.ingestible.ingestReportString>Eating {0}.</Miho_LiverDango.ingestible.ingestReportString>
+
+  <Miho_MihoEgg.label>초월부산물</Miho_MihoEgg.label>
+  <Miho_MihoEgg.description>초월적인 무언가의 부산물 입니다. 더 이상 알면 다쳐.</Miho_MihoEgg.description>
+
+
+</LanguageData>

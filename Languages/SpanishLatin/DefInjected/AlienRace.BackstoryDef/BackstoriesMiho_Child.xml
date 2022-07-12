@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Child_Fox.title>Miho Niña Ordinaria</Miho_Child_Fox.title>
+  <Miho_Child_Fox.titleShort>Niña Ordinaria</Miho_Child_Fox.titleShort>
+  <Miho_Child_Fox.baseDescription>[PAWN_nameDef] Era una niña mundana en la ciudad. Dejó una escuela mediocre y aprendió y adquirió conocimientos mediocres.</Miho_Child_Fox.baseDescription>
+
+  <Miho_Child_Rural.title>Miho Niña del campo</Miho_Child_Rural.title>
+  <Miho_Child_Rural.titleShort>Niña del Campo</Miho_Child_Rural.titleShort>
+  <Miho_Child_Rural.baseDescription>[PAWN_nameDef] Era una niña que tenía días felices en el campo. Cuidó animales, cultivó plantas, caminó por el bosque y tuvo días felices.</Miho_Child_Rural.baseDescription>
+
+  <Miho_Child_HuntFox.title>Miho Zorro de Caza</Miho_Child_HuntFox.title>
+  <Miho_Child_HuntFox.titleShort>Zorro de Caza</Miho_Child_HuntFox.titleShort>
+  <Miho_Child_HuntFox.baseDescription>[PAWN_nameDef] era un cazador increíble. Nadie sabe lo asombroso que era.</Miho_Child_HuntFox.baseDescription>
+
+  <Miho_Child_Orphan.title>Miho Zorro Abandonado</Miho_Child_Orphan.title>
+  <Miho_Child_Orphan.titleShort>Zorro Abandonado</Miho_Child_Orphan.titleShort>
+  <Miho_Child_Orphan.baseDescription>[PAWN_nameDef] era un zorro que fue abandonada por sus padres o perdió a sus padres, sobrevivio y todavía sigue viva.</Miho_Child_Orphan.baseDescription>
+
+  <Miho_Child_Gifted.title>Miho Genia</Miho_Child_Gifted.title>
+  <Miho_Child_Gifted.titleShort>Genia</Miho_Child_Gifted.titleShort>
+  <Miho_Child_Gifted.baseDescription>Era una niña muy inteligente. {PAWN_nameDef} a menudo estaba rodeada con adultos que  hablaban con ella, porque no le gustaba hablar con sus amigos de la misma edad.</Miho_Child_Gifted.baseDescription>
+
+  <Miho_Child_Desert.title>Miho Zorro del Desierto</Miho_Child_Desert.title>
+  <Miho_Child_Desert.titleShort>Zorro del Desierto</Miho_Child_Desert.titleShort>
+  <Miho_Child_Desert.baseDescription>{PAWN_nameDef} era literalmente un zorro del desierto. Aguanta bien el calor.</Miho_Child_Desert.baseDescription>
+
+
+</LanguageData>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 미래연구 -->
+
+  <Miho_BasicFactory.label>Fábrica básica de Miho</Miho_BasicFactory.label>
+  <Miho_BasicFactory.description>Aprende las habilidades básicas para producir cerámica.</Miho_BasicFactory.description>
+
+  <Miho_HeavyFactory.label>Industria pesada Miho</Miho_HeavyFactory.label>
+  <Miho_HeavyFactory.description>Armas, armaduras, drones de combate, cualquier cosa se puede producir en masa.</Miho_HeavyFactory.description>
+
+  <Miho_MechHack.label>Hackeo de mecanitas</Miho_MechHack.label>
+  <Miho_MechHack.description>Aprende la técnica para hackear pequeños mecanoides invisibles a simple vista. Los virus también pueden ser vistos como biomecánicos. El objetivo principal de esta tecnología es transformar el suero psíquico de Miho.</Miho_MechHack.description>
+
+  <Miho_Persona.label>Teoría Orch-OR</Miho_Persona.label>
+  <Miho_Persona.description>Te enseña la habilidad de implantar un alma cuántica en una máquina.</Miho_Persona.description>
+
+  <Miho_Celestial.label>Tejiendo Masa Trascendente</Miho_Celestial.label>
+  <Miho_Celestial.description>Es un gran centro de producción de aleaciones que cuenta con la ayuda de una Persona AI. Podrás crear "Escamas celestiales" a partir de la aleación del núcleo de una estrella de neutrones con una materia exótica.</Miho_Celestial.description>
+
+  <Miho_Drone.label>Dron Miho</Miho_Drone.label>
+  <Miho_Drone.description>Desarrollamos pequeños drones que pueden transportar y limpiar.</Miho_Drone.description>
+
+  <Miho_GuardDrone.label>Dron guardián Miho</Miho_GuardDrone.label>
+  <Miho_GuardDrone.description>Desarrollo de un dron guardián que puede proteger distancias cortas.</Miho_GuardDrone.description>
+
+  <Miho_LightWarDrone.label>Dron de batalla ligero Miho</Miho_LightWarDrone.label>
+  <Miho_LightWarDrone.description>Desarrollo de un gran dron polivalente que puede viajar a pie en distancias medias y largas.</Miho_LightWarDrone.description>
+
+  <Miho_CommandDrone.label>Dron de mando Miho</Miho_CommandDrone.label>
+  <Miho_CommandDrone.description>Desarrollo de un dron de mando que puede comandar a los Miho en el campo con la ayuda de Persona AI.</Miho_CommandDrone.description>
+
+  <Miho_HeavyWarDrone.label>Dron de batalla pesado Miho</Miho_HeavyWarDrone.label>
+  <Miho_HeavyWarDrone.description>Desarrollo de un dron de combate blindado pesado.</Miho_HeavyWarDrone.description>
+
+  <Miho_Weapon.label>Arma Miho</Miho_Weapon.label>
+  <Miho_Weapon.description>Puede fabricar las armas simples de Miho.</Miho_Weapon.description>
+
+  <Miho_HeavyWeapon.label>Arma avanzada Miho</Miho_HeavyWeapon.label>
+  <Miho_HeavyWeapon.description>puede fabricar las armas precisas de Miho.</Miho_HeavyWeapon.description>
+
+  <Miho_PlasmaWeapon.label>Arma de plasma Miho</Miho_PlasmaWeapon.label>
+  <Miho_PlasmaWeapon.description>Puede fabricar las armas de Miho utilizando elementos en estado de plasma.</Miho_PlasmaWeapon.description>
+
+  <Miho_PlasmaCannon.label>Cañon de plasma Miho</Miho_PlasmaCannon.label>
+  <Miho_PlasmaCannon.description>Puede fabricar los Cañon de plasma de Miho utilizando elementos en estado de plasma.</Miho_PlasmaCannon.description>
+
+  <Miho_ExperimentalCannon.label>Cañon Experimental</Miho_ExperimentalCannon.label>
+  <Miho_ExperimentalCannon.description>El cañón bárbaro blanco es un arma de ingeniería inversa de los cañones de riel de los imperiales.</Miho_ExperimentalCannon.description>
+
+  <Miho_ApparelBasic.label>Ropa Miho</Miho_ApparelBasic.label>
+  <Miho_ApparelBasic.description>Puede tejer ropa sencilla de Miho.</Miho_ApparelBasic.description>
+
+  <Miho_ApparelAdvanced.label>Ropa avanzada Miho</Miho_ApparelAdvanced.label>
+  <Miho_ApparelAdvanced.description>Se puede hacer ropa Miho compleja.</Miho_ApparelAdvanced.description>
+
+  <Miho_Silk.label>Seda de ébano</Miho_Silk.label>
+  <Miho_Silk.description>Puede producir seda que es suave y resistente al calor.</Miho_Silk.description>
+
+  <Miho_SynthSilk.label>Seda de ébano sintetica</Miho_SynthSilk.label>
+  <Miho_SynthSilk.description>Aunque no parece encajar a la perfección, ¡Habra momentos en los que tengas que hacerlo!</Miho_SynthSilk.description>
+
+  <Miho_ApparelEltex.label>Ropa Miho Eltex</Miho_ApparelEltex.label>
+  <Miho_ApparelEltex.description>Puedes fabricar ropa Eltex que aumente el límite de tus habilidades psíquicas.</Miho_ApparelEltex.description>
+
+  <Miho_ApparelAssassin.label>Armadura de Asesino Miho</Miho_ApparelAssassin.label>
+  <Miho_ApparelAssassin.description>Puedes fabricar ropa de asesino que puede mejorar tus habilidades físicas.</Miho_ApparelAssassin.description>
+
+  <Miho_ApparelSorcerees.label>Armadura de Hechicero Miho</Miho_ApparelSorcerees.label>
+  <Miho_ApparelSorcerees.description>Puedes fabricar ropa de mago que puede mejorar tus habilidades mágicas</Miho_ApparelSorcerees.description>
+
+
+</LanguageData>

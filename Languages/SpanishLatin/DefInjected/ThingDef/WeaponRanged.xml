@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Weapon_BowLight.label>Arco de ébano EK</Miho_Weapon_BowLight.label>
+  <Miho_Weapon_BowLight.description>El arco de ébano es uno de los artículos imprescindibles para los Mihos que abandonan la ciudad de los ermitaños. Está hecho de ébano, por lo que es más resistente y llega más lejos que un arco de madera normal.</Miho_Weapon_BowLight.description>
+  <Miho_Weapon_BowLight.tools.0.label>limb</Miho_Weapon_BowLight.tools.0.label>
+
+  <Miho_Weapon_BowLight_Proj.label>flecha arco recurvo</Miho_Weapon_BowLight_Proj.label>
+
+  <Miho_Weapon_SniperStyx.label>Arco de ultraprecisión Samdocheon</Miho_Weapon_SniperStyx.label>
+  <Miho_Weapon_SniperStyx.description>El arco de francotirador de ultrapreciso "Samdocheon" era el arma de los antepasados ​​de Miho, que se hizo para disparar con precisión a distancias de varios kilómetros o más. Desafortunadamente, esta aterradora técnica nunca se ha puesto en práctica, y los artesanos de Miho aún suministran estos arcos de francotirador a los asesinos de Miho.</Miho_Weapon_SniperStyx.description>
+  <Miho_Weapon_SniperStyx.tools.0.label>limb</Miho_Weapon_SniperStyx.tools.0.label>
+
+  <Miho_Weapon_SniperStyx_Proj.label>bala</Miho_Weapon_SniperStyx_Proj.label>
+
+  <Miho_Weapon_PosFlowermaker.label>Pistola de agujas EK</Miho_Weapon_PosFlowermaker.label>
+  <Miho_Weapon_PosFlowermaker.description>Un arma capaz de insertar una muestra solar en el cuerpo. Al alimentarte del cadáver, puedes cosechar el Girasol, que crece mucho más rápido y se desvanece mucho más rápido.</Miho_Weapon_PosFlowermaker.description>
+  <Miho_Weapon_PosFlowermaker.tools.0.label>culata</Miho_Weapon_PosFlowermaker.tools.0.label>
+  <Miho_Weapon_PosFlowermaker.tools.1.label>cañon</Miho_Weapon_PosFlowermaker.tools.1.label>
+
+  <Miho_Weapon_PosFlowermaker_Proj.label>aguja</Miho_Weapon_PosFlowermaker_Proj.label>
+
+  <Miho_Weapon_RifleCQB.label>Subfusil EK</Miho_Weapon_RifleCQB.label>
+  <Miho_Weapon_RifleCQB.description>Esta es una ametralladora multipropósito que utiliza rondas de pistola incendiarias de calibre 8 mm. No es ergonómico, y cuenta con un rendimiento chiflado.</Miho_Weapon_RifleCQB.description>
+  <Miho_Weapon_RifleCQB.tools.0.label>culata</Miho_Weapon_RifleCQB.tools.0.label>
+  <Miho_Weapon_RifleCQB.tools.1.label>cañon</Miho_Weapon_RifleCQB.tools.1.label>
+
+  <Miho_Weapon_RifleCQB_Proj.label>bala smg</Miho_Weapon_RifleCQB_Proj.label>
+
+  <Miho_Weapon_RifleDefence.label>Fusil de infantería EK</Miho_Weapon_RifleDefence.label>
+  <Miho_Weapon_RifleDefence.description>Es un fusil automático para infantería que utiliza balas incendiarias de fusil con un calibre de 6,5 mm. Tiene la ventaja de que se puede producir fácilmente incluso en fábricas pequeñas y subdesarrolladas.</Miho_Weapon_RifleDefence.description>
+  <Miho_Weapon_RifleDefence.tools.0.label>culata</Miho_Weapon_RifleDefence.tools.0.label>
+  <Miho_Weapon_RifleDefence.tools.1.label>cañon</Miho_Weapon_RifleDefence.tools.1.label>
+
+  <Miho_Weapon_RifleDefence_Proj.label>bala fusil de asalto</Miho_Weapon_RifleDefence_Proj.label>
+
+  <Miho_Weapon_RiflePrecision.label>Rifle de precisión EK</Miho_Weapon_RiflePrecision.label>
+  <Miho_Weapon_RiflePrecision.description>Es un rifle de infantería que utiliza balas de fusil incendiarias con un calibre de 7,7 mm. Tiene una tasa de recolección de munición decente y se usa principalmente como rifle de tirador designado.</Miho_Weapon_RiflePrecision.description>
+  <Miho_Weapon_RiflePrecision.tools.0.label>culata</Miho_Weapon_RiflePrecision.tools.0.label>
+  <Miho_Weapon_RiflePrecision.tools.1.label>cañon</Miho_Weapon_RiflePrecision.tools.1.label>
+
+  <Miho_Weapon_RiflePrecision_Proj.label>bala rifle</Miho_Weapon_RiflePrecision_Proj.label>
+
+  <Miho_Weapon_RifleMarksman.label>Fusil pesado EK</Miho_Weapon_RifleMarksman.label>
+  <Miho_Weapon_RifleMarksman.description>Es un tipo de rifle antitanque que utiliza balas incendiarias de ametralladora pesada calibre 13,2 mm. Tiene una potencia de fuego formidable y es muy eficaz contra oponentes individuales fuertemente armados.</Miho_Weapon_RifleMarksman.description>
+  <Miho_Weapon_RifleMarksman.tools.0.label>culata</Miho_Weapon_RifleMarksman.tools.0.label>
+  <Miho_Weapon_RifleMarksman.tools.1.label>cañon</Miho_Weapon_RifleMarksman.tools.1.label>
+
+  <Miho_Weapon_RifleMarksman_Proj.label>bala pesada</Miho_Weapon_RifleMarksman_Proj.label>
+
+  <Miho_Weapon_RiflePlasma.label>Rifle de plasma EK</Miho_Weapon_RiflePlasma.label>
+  <Miho_Weapon_RiflePlasma.description>Un rifle capaz de proyectar instantáneamente plasma comparable a la temperatura del interior del sol.</Miho_Weapon_RiflePlasma.description>
+  <Miho_Weapon_RiflePlasma.tools.0.label>culata</Miho_Weapon_RiflePlasma.tools.0.label>
+  <Miho_Weapon_RiflePlasma.tools.1.label>cañon</Miho_Weapon_RiflePlasma.tools.1.label>
+
+  <Miho_Weapon_RiflePlasma_Proj.label>bala plasma </Miho_Weapon_RiflePlasma_Proj.label>
+
+  <Miho_Weapon_HeavyPistol.label>Pistola ametralladora pesada EK</Miho_Weapon_HeavyPistol.label>
+  <Miho_Weapon_HeavyPistol.description>Una pistola ametralladora pesada que dispara balas con alta energía cinética. Muy poderoso en combate cuerpo a cuerpo.</Miho_Weapon_HeavyPistol.description>
+  <Miho_Weapon_HeavyPistol.tools.0.label>culata</Miho_Weapon_HeavyPistol.tools.0.label>
+  <Miho_Weapon_HeavyPistol.tools.1.label>cañon</Miho_Weapon_HeavyPistol.tools.1.label>
+
+  <Miho_Weapon_HeavyPistol_Proj.label>bala pistola pesada</Miho_Weapon_HeavyPistol_Proj.label>
+
+  <Miho_Weapon_RiflePlasmaSniper.label>Catapulta de plasma EK</Miho_Weapon_RiflePlasmaSniper.label>
+  <Miho_Weapon_RiflePlasmaSniper.description>Estas catapultas de plasma transmiten de forma fiable altas temperaturas hasta varios kilómetros.</Miho_Weapon_RiflePlasmaSniper.description>
+  <Miho_Weapon_RiflePlasmaSniper.tools.0.label>culata</Miho_Weapon_RiflePlasmaSniper.tools.0.label>
+  <Miho_Weapon_RiflePlasmaSniper.tools.1.label>cañon</Miho_Weapon_RiflePlasmaSniper.tools.1.label>
+
+  <Miho_Weapon_RiflePlasmaSniper_Proj.label>plasma</Miho_Weapon_RiflePlasmaSniper_Proj.label>
+
+  <Miho_Weapon_RiflePlasmaPistol.label>Pistola de plasma EK</Miho_Weapon_RiflePlasmaPistol.label>
+  <Miho_Weapon_RiflePlasmaPistol.description>Solo estas pistolas extragrandes protegen al usuario del calor del disparo de plasma.</Miho_Weapon_RiflePlasmaPistol.description>
+  <Miho_Weapon_RiflePlasmaPistol.tools.0.label>culata</Miho_Weapon_RiflePlasmaPistol.tools.0.label>
+  <Miho_Weapon_RiflePlasmaPistol.tools.1.label>cañon</Miho_Weapon_RiflePlasmaPistol.tools.1.label>
+
+  <Miho_Weapon_RiflePlasmaPistol_Proj.label>bala plasma</Miho_Weapon_RiflePlasmaPistol_Proj.label>
+
+
+</LanguageData>

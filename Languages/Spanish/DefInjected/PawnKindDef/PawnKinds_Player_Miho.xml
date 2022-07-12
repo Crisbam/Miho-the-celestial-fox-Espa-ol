@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_PlayerColonist.label>Miho colonist</Miho_PlayerColonist.label>
+  <Miho_PlayerColonist.labelPlural>Miho colonists</Miho_PlayerColonist.labelPlural>
+  <Miho_PlayerColonist.labelMale>male Miho colonist</Miho_PlayerColonist.labelMale>
+  <Miho_PlayerColonist.labelMalePlural>male Miho colonists</Miho_PlayerColonist.labelMalePlural>
+  <Miho_PlayerColonist.labelFemale>female Miho colonist</Miho_PlayerColonist.labelFemale>
+  <Miho_PlayerColonist.labelFemalePlural>female Miho colonists</Miho_PlayerColonist.labelFemalePlural>
+
+  <Miho_PlayerColonistFeral.label>야생 미호</Miho_PlayerColonistFeral.label>
+  <Miho_PlayerColonistFeral.labelPlural>야생 미호s</Miho_PlayerColonistFeral.labelPlural>
+  <Miho_PlayerColonistFeral.labelMale>male 야생 미호</Miho_PlayerColonistFeral.labelMale>
+  <Miho_PlayerColonistFeral.labelMalePlural>male 야생 미호s</Miho_PlayerColonistFeral.labelMalePlural>
+  <Miho_PlayerColonistFeral.labelFemale>female 야생 미호</Miho_PlayerColonistFeral.labelFemale>
+  <Miho_PlayerColonistFeral.labelFemalePlural>female 야생 미호s</Miho_PlayerColonistFeral.labelFemalePlural>
+
+
+</LanguageData>

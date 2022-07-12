@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Butterfly.label>Bladefly</Miho_Butterfly.label>
+  <Miho_Butterfly.labelPlural>Bladeflys</Miho_Butterfly.labelPlural>
+  <Miho_Butterfly.lifeStages.0.label>Bladefly</Miho_Butterfly.lifeStages.0.label>
+  <Miho_Butterfly.lifeStages.0.labelPlural>Bladefly</Miho_Butterfly.lifeStages.0.labelPlural>
+  <Miho_Butterfly.lifeStages.0.labelMale>Bladefly Macho</Miho_Butterfly.lifeStages.0.labelMale>
+  <Miho_Butterfly.lifeStages.0.labelMalePlural>Bladeflys Machos</Miho_Butterfly.lifeStages.0.labelMalePlural>
+  <Miho_Butterfly.lifeStages.0.labelFemale>Bladefly Femenino</Miho_Butterfly.lifeStages.0.labelFemale>
+  <Miho_Butterfly.lifeStages.0.labelFemalePlural>Bladeflys Femeninos</Miho_Butterfly.lifeStages.0.labelFemalePlural>
+  <Miho_Butterfly.lifeStages.1.label>Bladefly</Miho_Butterfly.lifeStages.1.label>
+  <Miho_Butterfly.lifeStages.1.labelPlural>Bladeflys</Miho_Butterfly.lifeStages.1.labelPlural>
+  <Miho_Butterfly.lifeStages.1.labelMale>Bladefly Macho</Miho_Butterfly.lifeStages.1.labelMale>
+  <Miho_Butterfly.lifeStages.1.labelMalePlural>Bladeflys Machos</Miho_Butterfly.lifeStages.1.labelMalePlural>
+  <Miho_Butterfly.lifeStages.1.labelFemale>Bladefly Femenino</Miho_Butterfly.lifeStages.1.labelFemale>
+  <Miho_Butterfly.lifeStages.1.labelFemalePlural>Bladeflys Femeninos</Miho_Butterfly.lifeStages.1.labelFemalePlural>
+  <Miho_Butterfly.lifeStages.2.label>Bladefly</Miho_Butterfly.lifeStages.2.label>
+  <Miho_Butterfly.lifeStages.2.labelPlural>Bladeflys</Miho_Butterfly.lifeStages.2.labelPlural>
+  <Miho_Butterfly.lifeStages.2.labelMale>Bladefly Macho</Miho_Butterfly.lifeStages.2.labelMale>
+  <Miho_Butterfly.lifeStages.2.labelMalePlural>Bladeflys Machos</Miho_Butterfly.lifeStages.2.labelMalePlural>
+  <Miho_Butterfly.lifeStages.2.labelFemale>Bladefly Femenino</Miho_Butterfly.lifeStages.2.labelFemale>
+  <Miho_Butterfly.lifeStages.2.labelFemalePlural>Bladeflys Femeninos</Miho_Butterfly.lifeStages.2.labelFemalePlural>
+  <Miho_Butterfly.labelMale>Bladefly Macho</Miho_Butterfly.labelMale>
+  <Miho_Butterfly.labelMalePlural>Bladeflys Machos</Miho_Butterfly.labelMalePlural>
+  <Miho_Butterfly.labelFemale>Bladefly Femenino</Miho_Butterfly.labelFemale>
+  <Miho_Butterfly.labelFemalePlural>Bladeflys Femeninos</Miho_Butterfly.labelFemalePlural>
+
+  <Miho_Fox.label>Zorro ayudante</Miho_Fox.label>
+  <Miho_Fox.labelPlural>Zorros ayudantes</Miho_Fox.labelPlural>
+  <Miho_Fox.lifeStages.0.label>Zorro ayudante cachorro</Miho_Fox.lifeStages.0.label>
+  <Miho_Fox.lifeStages.0.labelPlural>Zorros ayudantes cachorros</Miho_Fox.lifeStages.0.labelPlural>
+  <Miho_Fox.lifeStages.0.labelMale>Zorro ayudante cachorro Macho</Miho_Fox.lifeStages.0.labelMale>
+  <Miho_Fox.lifeStages.0.labelMalePlural>Zorros ayudantes cachorros Machos</Miho_Fox.lifeStages.0.labelMalePlural>
+  <Miho_Fox.lifeStages.0.labelFemale>Zorro ayudante cachorro Hembra</Miho_Fox.lifeStages.0.labelFemale>
+  <Miho_Fox.lifeStages.0.labelFemalePlural>Zorros ayudantes cachorros Hembras</Miho_Fox.lifeStages.0.labelFemalePlural>
+  <Miho_Fox.lifeStages.1.label>Zorro de carga Miho</Miho_Fox.lifeStages.1.label>
+  <Miho_Fox.lifeStages.1.labelPlural>Zorros de carga Miho</Miho_Fox.lifeStages.1.labelPlural>
+  <Miho_Fox.lifeStages.1.labelMale>Zorro de carga Miho Macho</Miho_Fox.lifeStages.1.labelMale>
+  <Miho_Fox.lifeStages.1.labelMalePlural>Zorros de carga Miho Machos</Miho_Fox.lifeStages.1.labelMalePlural>
+  <Miho_Fox.lifeStages.1.labelFemale>Zorro de carga Miho Femenino</Miho_Fox.lifeStages.1.labelFemale>
+  <Miho_Fox.lifeStages.1.labelFemalePlural>Zorros de carga Miho Femeninos</Miho_Fox.lifeStages.1.labelFemalePlural>
+  <Miho_Fox.lifeStages.2.label>Zorro de carga Miho</Miho_Fox.lifeStages.2.label>
+  <Miho_Fox.lifeStages.2.labelPlural>Zorros de carga Miho</Miho_Fox.lifeStages.2.labelPlural>
+  <Miho_Fox.lifeStages.2.labelMale>Zorro de carga Miho Macho</Miho_Fox.lifeStages.2.labelMale>
+  <Miho_Fox.lifeStages.2.labelMalePlural>Zorros de carga Miho Machos</Miho_Fox.lifeStages.2.labelMalePlural>
+  <Miho_Fox.lifeStages.2.labelFemale>Zorro de carga Miho Femenino</Miho_Fox.lifeStages.2.labelFemale>
+  <Miho_Fox.lifeStages.2.labelFemalePlural>Zorro de carga Miho Femeninos</Miho_Fox.lifeStages.2.labelFemalePlural>
+  <Miho_Fox.labelMale>Zorro de carga Miho Macho</Miho_Fox.labelMale>
+  <Miho_Fox.labelMalePlural>Zorros de carga Miho Machos</Miho_Fox.labelMalePlural>
+  <Miho_Fox.labelFemale>Zorro de carga Miho Femenino</Miho_Fox.labelFemale>
+  <Miho_Fox.labelFemalePlural>Zorros de carga Miho Femeninos</Miho_Fox.labelFemalePlural>
+
+  <Miho_Thrumbo.label>Thrumbo Arcano</Miho_Thrumbo.label>
+  <Miho_Thrumbo.labelPlural>Thrumbos Arcanos</Miho_Thrumbo.labelPlural>
+  <Miho_Thrumbo.lifeStages.0.label>Thrumbo Arcano</Miho_Thrumbo.lifeStages.0.label>
+  <Miho_Thrumbo.lifeStages.0.labelPlural>Thrumbos Arcanos</Miho_Thrumbo.lifeStages.0.labelPlural>
+  <Miho_Thrumbo.lifeStages.0.labelMale>Thrumbo Arcano Macho</Miho_Thrumbo.lifeStages.0.labelMale>
+  <Miho_Thrumbo.lifeStages.0.labelMalePlural>Thrumbos Arcanos Machos</Miho_Thrumbo.lifeStages.0.labelMalePlural>
+  <Miho_Thrumbo.lifeStages.0.labelFemale>Thrumbo Arcano Femenino</Miho_Thrumbo.lifeStages.0.labelFemale>
+  <Miho_Thrumbo.lifeStages.0.labelFemalePlural>Thrumbos Arcanos Femeninos</Miho_Thrumbo.lifeStages.0.labelFemalePlural>
+  <Miho_Thrumbo.lifeStages.1.label>Thrumbo Arcano</Miho_Thrumbo.lifeStages.1.label>
+  <Miho_Thrumbo.lifeStages.1.labelPlural>Thrumbos Arcanos</Miho_Thrumbo.lifeStages.1.labelPlural>
+  <Miho_Thrumbo.lifeStages.1.labelMale>Thrumbo Arcano Macho</Miho_Thrumbo.lifeStages.1.labelMale>
+  <Miho_Thrumbo.lifeStages.1.labelMalePlural>Thrumbos Arcanos Machos</Miho_Thrumbo.lifeStages.1.labelMalePlural>
+  <Miho_Thrumbo.lifeStages.1.labelFemale>Thrumbo Arcano Femenino</Miho_Thrumbo.lifeStages.1.labelFemale>
+  <Miho_Thrumbo.lifeStages.1.labelFemalePlural>Thrumbos Arcanos Femeninos</Miho_Thrumbo.lifeStages.1.labelFemalePlural>
+  <Miho_Thrumbo.lifeStages.2.label>Thrumbo Arcano</Miho_Thrumbo.lifeStages.2.label>
+  <Miho_Thrumbo.lifeStages.2.labelPlural>Thrumbos Arcanos</Miho_Thrumbo.lifeStages.2.labelPlural>
+  <Miho_Thrumbo.lifeStages.2.labelMale>Thrumbo Arcano Macho</Miho_Thrumbo.lifeStages.2.labelMale>
+  <Miho_Thrumbo.lifeStages.2.labelMalePlural>Thrumbos Arcanos Machos</Miho_Thrumbo.lifeStages.2.labelMalePlural>
+  <Miho_Thrumbo.lifeStages.2.labelFemale>Thrumbo Arcano Femenino</Miho_Thrumbo.lifeStages.2.labelFemale>
+  <Miho_Thrumbo.lifeStages.2.labelFemalePlural>Thrumbos Arcanos Femeninos</Miho_Thrumbo.lifeStages.2.labelFemalePlural>
+  <Miho_Thrumbo.labelMale>Thrumbo Arcano Macho</Miho_Thrumbo.labelMale>
+  <Miho_Thrumbo.labelMalePlural>Thrumbos Arcanos Machos</Miho_Thrumbo.labelMalePlural>
+  <Miho_Thrumbo.labelFemale>Thrumbo Arcano Femenino</Miho_Thrumbo.labelFemale>
+  <Miho_Thrumbo.labelFemalePlural>Thrumbos Arcanos Femeninos</Miho_Thrumbo.labelFemalePlural>
+
+
+</LanguageData>

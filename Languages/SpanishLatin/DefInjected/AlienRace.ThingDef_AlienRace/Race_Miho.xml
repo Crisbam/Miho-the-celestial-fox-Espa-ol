@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <apparel>
+            <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+            <wornGraphicPath>Mincho_Apparel/Mincho_KnightlyTiara/Texture</wornGraphicPath>
+            <useWornGraphicMask>true</useWornGraphicMask>
+            <tags>
+                <li>Mincho_Knight</li>
+                <li>PrestigeCombatGear</li>
+            </tags>
+        </apparel> -->
+
+  <Alien_Miho.label>Miho</Alien_Miho.label>
+  <Alien_Miho.description>Es una raza donde los zorros tomaron los poderes místicos del mundo trascendente y tomaron forma humana. Su cuerpo tiene un órgano elegante en el que la fuerza de sus superpoderes está determinada por la cantidad de luz solar entrelazada con la mecanita en su cuerpo. Gracias a este órgano, los zorros veneran el sol y la energía.</Alien_Miho.description>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>mask</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.2.name>hair</Alien_Miho.alienRace.generalSettings.alienPartGenerator.colorChannels.2.name>
+  <Alien_Miho.tools.0.label>Golpe izquierdo</Alien_Miho.tools.0.label>
+  <Alien_Miho.tools.1.label>Golpe derecho</Alien_Miho.tools.1.label>
+  <Alien_Miho.tools.2.label>Dientes</Alien_Miho.tools.2.label>
+
+
+</LanguageData>

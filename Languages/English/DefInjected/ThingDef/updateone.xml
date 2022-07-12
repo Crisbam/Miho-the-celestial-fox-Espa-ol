@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Miho_Weapon_PlasmaTachi.label>Miho Plasma Nodachi</Miho_Weapon_PlasmaTachi.label>
+  <Miho_Weapon_PlasmaTachi.description>An improved, huge single-edged sword that emits plasma. The blade's cutting power is comparable to that of the jetstream warriors of Ancient Earth.</Miho_Weapon_PlasmaTachi.description>
+  <Miho_Weapon_PlasmaTachi.tools.0.label>handle</Miho_Weapon_PlasmaTachi.tools.0.label>
+  <Miho_Weapon_PlasmaTachi.tools.1.label>blade</Miho_Weapon_PlasmaTachi.tools.1.label>
+  <Miho_Weapon_PlasmaTachi.tools.2.label>point</Miho_Weapon_PlasmaTachi.tools.2.label>
+  <Miho_Apparel_Middle_PoweredMarine.label>Miho Storm Exoskeleton</Miho_Apparel_Middle_PoweredMarine.label>
+  <Miho_Apparel_Middle_PoweredMarine.description>Miho Orbital Storm exoskeleton used by the Marines. It is specialized in close combat and can jump over short distances by burning Mechanite.</Miho_Apparel_Middle_PoweredMarine.description>
+  <Miho_Apparel_Hat_Marine.label>Miho Storm Helmet</Miho_Apparel_Hat_Marine.label>
+  <Miho_Apparel_Hat_Marine.description>Miho Orbital Storm helmet used by the Marines. It promotes the user's close combat instincts and provides excellent protection.</Miho_Apparel_Hat_Marine.description>
+   <Miho_Apparel_OnSkin_Sailor.label>Miho Space Sailor Outfit</Miho_Apparel_OnSkin_Sailor.label>
+  <Miho_Apparel_OnSkin_Sailor.description>This is the sailor suit worn by space Mihos. It also serves as a hostile environmental protection gear.</Miho_Apparel_OnSkin_Sailor.description> 
+</LanguageData>

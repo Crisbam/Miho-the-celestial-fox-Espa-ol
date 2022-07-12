@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WakeUp addiction -->
+
+  <Miho_PositiveFlower_Drug_Withdrawal.stages.1.label>deficiencia de Eleth</Miho_PositiveFlower_Drug_Withdrawal.stages.1.label>
+  <Miho_PositiveFlower_Drug_Withdrawal.stages.1.description>algo esta raro...</Miho_PositiveFlower_Drug_Withdrawal.stages.1.description>
+
+
+  <!-- Tea addiction -->
+
+  <Miho_PositiveFlower_Tea_Withdrawal.stages.1.label>falta de té</Miho_PositiveFlower_Tea_Withdrawal.stages.1.label>
+  <Miho_PositiveFlower_Tea_Withdrawal.stages.1.description>¡No tiene nada de malo querer un poco!</Miho_PositiveFlower_Tea_Withdrawal.stages.1.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_EltexMask_Hediff.label>Masked</Miho_EltexMask_Hediff.label>
+  <Miho_EltexMask_Hediff.description>Masked</Miho_EltexMask_Hediff.description>
+  <Miho_EltexMask_Hediff.labelNoun>Masked</Miho_EltexMask_Hediff.labelNoun>
+
+  <Miho_SorceressMask_Hediff.label>Masked</Miho_SorceressMask_Hediff.label>
+  <Miho_SorceressMask_Hediff.description>Masked</Miho_SorceressMask_Hediff.description>
+  <Miho_SorceressMask_Hediff.labelNoun>Masked</Miho_SorceressMask_Hediff.labelNoun>
+
+  <Miho_AssassinMelee_Hediff.label>메카나이트 자가 회복</Miho_AssassinMelee_Hediff.label>
+  <Miho_AssassinMelee_Hediff.description>메카나이트가 사용자의 신진대사를 가속화 시켜 고통을 느낄 새 도 없이 치료합니다.</Miho_AssassinMelee_Hediff.description>
+  <Miho_AssassinMelee_Hediff.labelNoun>메카나이트 자가 회복</Miho_AssassinMelee_Hediff.labelNoun>
+
+
+</LanguageData>

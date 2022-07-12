@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_DummyWeapon_DO_NOT_SPAWN.label>Habilidades psíquicas</Miho_DummyWeapon_DO_NOT_SPAWN.label>
+  <Miho_DummyWeapon_DO_NOT_SPAWN.description>Solo aquí para que el registro de batalla no se rompa cuando alguien es golpeado por una habilidad psíquica.</Miho_DummyWeapon_DO_NOT_SPAWN.description>
+
+  <Miho_Hawk_Proj.label>Halcón</Miho_Hawk_Proj.label>
+  <Miho_Fireball_Small_Proj.label>Bola de fuego</Miho_Fireball_Small_Proj.label>
+  <Miho_Fireball_Proj.label>Bola de fuego</Miho_Fireball_Proj.label>
+  <Miho_Fireball_Adept_Proj.label>Flecha de fuego</Miho_Fireball_Adept_Proj.label>
+  <Miho_Thunder_Proj.label>Relámpago</Miho_Thunder_Proj.label>
+  <Miho_FanofKnives_Proj.label>Cuchillos</Miho_FanofKnives_Proj.label>
+
+  <Miho_Butterfly_Portal_Dummy.label>Portales de mariposas</Miho_Butterfly_Portal_Dummy.label>
+  <Miho_Butterfly_Portal_Dummy.description>Un montón de portales de mariposas.</Miho_Butterfly_Portal_Dummy.description>
+
+  <Miho_Butterfly_Portal.label>Portal de mariposa</Miho_Butterfly_Portal.label>
+  <Miho_Butterfly_Portal.description>Portal de mariposa.</Miho_Butterfly_Portal.description>
+
+  <Miho_Fox_Portal.label>Portal de zorro</Miho_Fox_Portal.label>
+  <Miho_Fox_Portal.description>Portal de zorro.</Miho_Fox_Portal.description>
+
+  <Miho_Thrumbo_Portal.label>Portal de Trumbo</Miho_Thrumbo_Portal.label>
+  <Miho_Thrumbo_Portal.description>Portal de Trumbo.</Miho_Thrumbo_Portal.description>
+
+  <Miho_Turret_Flame.label>Brasero de fuego de zorro</Miho_Turret_Flame.label>
+  <Miho_Turret_Flame.description>Una torreta automática que parece un brasero.</Miho_Turret_Flame.description>
+
+  <Miho_TurretGun_Flame_Proj.label>Bola de fuego</Miho_TurretGun_Flame_Proj.label>
+
+  <Miho_TurretGun_Flame.label>Torreta pistola</Miho_TurretGun_Flame.label>
+  <Miho_TurretGun_Flame.description>.</Miho_TurretGun_Flame.description>
+
+  <Miho_Butterfly.label>Bladefly</Miho_Butterfly.label>
+  <Miho_Butterfly.description>Una criatura mecanita con alas afiladas.</Miho_Butterfly.description>
+  <Miho_Butterfly.tools.0.label>cuchillas</Miho_Butterfly.tools.0.label>
+
+  <Miho_Fox.label>Zorro ayudante</Miho_Fox.label>
+  <Miho_Fox.description>Una criatura mecanita que puede transportar vienes.</Miho_Fox.description>
+  <Miho_Fox.tools.0.label>garra izquierda</Miho_Fox.tools.0.label>
+  <Miho_Fox.tools.1.label>garra derecha</Miho_Fox.tools.1.label>
+  <Miho_Fox.tools.3.label>cabeza</Miho_Fox.tools.3.label>
+
+  <Miho_Thrumbo.label>Thrumbo Arcano</Miho_Thrumbo.label>
+  <Miho_Thrumbo.description>La criatura de mecanita definitiva.</Miho_Thrumbo.description>
+  <Miho_Thrumbo.tools.0.label>cuerno</Miho_Thrumbo.tools.0.label>
+  <Miho_Thrumbo.tools.2.label>pie izquierdo</Miho_Thrumbo.tools.2.label>
+  <Miho_Thrumbo.tools.3.label>pie derecho</Miho_Thrumbo.tools.3.label>
+  <Miho_Thrumbo.tools.4.label>cabeza</Miho_Thrumbo.tools.4.label>
+
+
+</LanguageData>

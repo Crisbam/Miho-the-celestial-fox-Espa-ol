@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plant_PosFlower.label>태양화</Plant_PosFlower.label>
+  <Plant_PosFlower.description>유전자 조작된 식물입니다. 주로 미호들의 초능력을 증진시켜주는 물질을 모으는 신호기 역할을 합니다.</Plant_PosFlower.description>
+
+  <RawPosFlower.label>태양화 꽃잎</RawPosFlower.label>
+  <RawPosFlower.description>미호의 초능력을 발현할수있게 도와주는 물질이 응집된 꽃잎입니다.</RawPosFlower.description>
+
+
+</LanguageData>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Weapon_BowLight.label>미호 흑단궁</Miho_Weapon_BowLight.label>
+  <Miho_Weapon_BowLight.description>은자의 도시 외부로 떠나는 미호들의 필수품목중 하나인 흑단궁 입니다. 흑단으로 만들어져 일반 목궁보다 더욱 탄력있고 멀리 나갑니다.</Miho_Weapon_BowLight.description>
+  <Miho_Weapon_BowLight.tools.0.label>limb</Miho_Weapon_BowLight.tools.0.label>
+
+  <Miho_Weapon_BowLight_Proj.label>recurve bow arrow</Miho_Weapon_BowLight_Proj.label>
+
+  <Miho_Weapon_SniperStyx.label>미호 초정밀 저격궁</Miho_Weapon_SniperStyx.label>
+  <Miho_Weapon_SniperStyx.description>초정밀 저격궁 "삼도천"은 수킬로미터 이상의 거리를 정밀 저격하기 위해 만들어진 미호의 선조들의 무기였습니다. 안타깝게도 이 무시무시한 기술은 실전되지 않았고 여전히 미호 장인들은 미호 암살자들에게 이 저격궁을 공급중 입니다.</Miho_Weapon_SniperStyx.description>
+  <Miho_Weapon_SniperStyx.tools.0.label>limb</Miho_Weapon_SniperStyx.tools.0.label>
+
+  <Miho_Weapon_SniperStyx_Proj.label>bullet</Miho_Weapon_SniperStyx_Proj.label>
+
+  <Miho_Weapon_PosFlowermaker.label>미호 바늘총</Miho_Weapon_PosFlowermaker.label>
+  <Miho_Weapon_PosFlowermaker.description>몸 속에 태양화 샘플을 삽입시킬 수 있는 총 입니다. 시체를 양분으로 삼아 훨씬 빠르게 자라고 훨씬 빠르게 지는 태양화를 수확할 수 있습니다.</Miho_Weapon_PosFlowermaker.description>
+  <Miho_Weapon_PosFlowermaker.tools.0.label>stock</Miho_Weapon_PosFlowermaker.tools.0.label>
+  <Miho_Weapon_PosFlowermaker.tools.1.label>barrel</Miho_Weapon_PosFlowermaker.tools.1.label>
+
+  <Miho_Weapon_PosFlowermaker_Proj.label>neddle</Miho_Weapon_PosFlowermaker_Proj.label>
+
+  <Miho_Weapon_RifleCQB.label>미호 단총</Miho_Weapon_RifleCQB.label>
+  <Miho_Weapon_RifleCQB.description>8mm구경의 소이 권총탄을 사용하는 다용도 기관단총입니다. 인체공학적이지 않고 뭔가 나사빠진 성능을 자랑하지만. 근접교전시 이만한 무기가 없다는게 미호들의 중론입니다.</Miho_Weapon_RifleCQB.description>
+  <Miho_Weapon_RifleCQB.tools.0.label>stock</Miho_Weapon_RifleCQB.tools.0.label>
+  <Miho_Weapon_RifleCQB.tools.1.label>barrel</Miho_Weapon_RifleCQB.tools.1.label>
+
+  <Miho_Weapon_RifleCQB_Proj.label>smg bullet</Miho_Weapon_RifleCQB_Proj.label>
+
+  <Miho_Weapon_RifleDefence.label>미호 보총</Miho_Weapon_RifleDefence.label>
+  <Miho_Weapon_RifleDefence.description>6.5mm구경의 소이 소총탄을 사용하는 보병용 자동소총입니다. 소규모의 저개발 공장에서도 쉽게 생산 가능한 이점이 있습니다.</Miho_Weapon_RifleDefence.description>
+  <Miho_Weapon_RifleDefence.tools.0.label>stock</Miho_Weapon_RifleDefence.tools.0.label>
+  <Miho_Weapon_RifleDefence.tools.1.label>barrel</Miho_Weapon_RifleDefence.tools.1.label>
+
+  <Miho_Weapon_RifleDefence_Proj.label>assault rifle bullet</Miho_Weapon_RifleDefence_Proj.label>
+
+  <Miho_Weapon_RiflePrecision.label>미호 정밀 보총</Miho_Weapon_RiflePrecision.label>
+  <Miho_Weapon_RiflePrecision.description>7.7mm구경의 소이 소총탄을 사용하는 보병용 소총입니다. 괜찮은 집탄률를 지녀 주로 지정사수 소총으로 사용됩니다.</Miho_Weapon_RiflePrecision.description>
+  <Miho_Weapon_RiflePrecision.tools.0.label>stock</Miho_Weapon_RiflePrecision.tools.0.label>
+  <Miho_Weapon_RiflePrecision.tools.1.label>barrel</Miho_Weapon_RiflePrecision.tools.1.label>
+
+  <Miho_Weapon_RiflePrecision_Proj.label>rifle bullet</Miho_Weapon_RiflePrecision_Proj.label>
+
+  <Miho_Weapon_RifleMarksman.label>미호 중형총</Miho_Weapon_RifleMarksman.label>
+  <Miho_Weapon_RifleMarksman.description>13.2mm구경의 소이 중기관총 탄환을 쓰는 일종의 대전차 소총 입니다. 가공할만한 화력을 자랑하며, 중무장한 단일 상대에게 매우 효과적 입니다.</Miho_Weapon_RifleMarksman.description>
+  <Miho_Weapon_RifleMarksman.tools.0.label>stock</Miho_Weapon_RifleMarksman.tools.0.label>
+  <Miho_Weapon_RifleMarksman.tools.1.label>barrel</Miho_Weapon_RifleMarksman.tools.1.label>
+
+  <Miho_Weapon_RifleMarksman_Proj.label>heavy bullet</Miho_Weapon_RifleMarksman_Proj.label>
+
+  <Miho_Weapon_RiflePlasma.label>미호 플라즈마 소총</Miho_Weapon_RiflePlasma.label>
+  <Miho_Weapon_RiflePlasma.description>순간적으로 태양 내부의 온도에 필적하는 플라즈마를 투사시킬 수 있는 소총입니다.</Miho_Weapon_RiflePlasma.description>
+  <Miho_Weapon_RiflePlasma.tools.0.label>stock</Miho_Weapon_RiflePlasma.tools.0.label>
+  <Miho_Weapon_RiflePlasma.tools.1.label>barrel</Miho_Weapon_RiflePlasma.tools.1.label>
+
+  <Miho_Weapon_RiflePlasma_Proj.label>plasma bullet</Miho_Weapon_RiflePlasma_Proj.label>
+
+  <Miho_Weapon_HeavyPistol.label>미호 중기관권총</Miho_Weapon_HeavyPistol.label>
+  <Miho_Weapon_HeavyPistol.description>높은 운동에너지를 가진 탄을 발사하는 중기관권총입니다. 근거리 전투시 매우 강력합니다.</Miho_Weapon_HeavyPistol.description>
+  <Miho_Weapon_HeavyPistol.tools.0.label>stock</Miho_Weapon_HeavyPistol.tools.0.label>
+  <Miho_Weapon_HeavyPistol.tools.1.label>barrel</Miho_Weapon_HeavyPistol.tools.1.label>
+
+  <Miho_Weapon_HeavyPistol_Proj.label>heavy pistol bullet</Miho_Weapon_HeavyPistol_Proj.label>
+
+  <Miho_Weapon_RiflePlasmaSniper.label>미호 플라즈마 캐터펄트</Miho_Weapon_RiflePlasmaSniper.label>
+  <Miho_Weapon_RiflePlasmaSniper.description>이 플라즈마 캐터펄트는 뜨거운 온도를 수 킬로미터까지 확실히 전달해 줍니다.</Miho_Weapon_RiflePlasmaSniper.description>
+  <Miho_Weapon_RiflePlasmaSniper.tools.0.label>stock</Miho_Weapon_RiflePlasmaSniper.tools.0.label>
+  <Miho_Weapon_RiflePlasmaSniper.tools.1.label>barrel</Miho_Weapon_RiflePlasmaSniper.tools.1.label>
+
+  <Miho_Weapon_RiflePlasmaSniper_Proj.label>plasma</Miho_Weapon_RiflePlasmaSniper_Proj.label>
+
+  <Miho_Weapon_RiflePlasmaPistol.label>미호 플라즈마 권총</Miho_Weapon_RiflePlasmaPistol.label>
+  <Miho_Weapon_RiflePlasmaPistol.description>오직 이런 초대형 권총만이 이 플라즈마 산탄의 열기로부터 사용자를 보호해 줍니다.</Miho_Weapon_RiflePlasmaPistol.description>
+  <Miho_Weapon_RiflePlasmaPistol.tools.0.label>stock</Miho_Weapon_RiflePlasmaPistol.tools.0.label>
+  <Miho_Weapon_RiflePlasmaPistol.tools.1.label>barrel</Miho_Weapon_RiflePlasmaPistol.tools.1.label>
+
+  <Miho_Weapon_RiflePlasmaPistol_Proj.label>plasma bullet</Miho_Weapon_RiflePlasmaPistol_Proj.label>
+
+
+</LanguageData>

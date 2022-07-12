@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_HawkInjury_Hediff.label>매</Miho_HawkInjury_Hediff.label>
+  <Miho_HawkInjury_Hediff.description>매</Miho_HawkInjury_Hediff.description>
+  <Miho_HawkInjury_Hediff.comps.1.labelTendedWell>bandaged</Miho_HawkInjury_Hediff.comps.1.labelTendedWell>
+  <Miho_HawkInjury_Hediff.comps.1.labelTendedWellInner>tended</Miho_HawkInjury_Hediff.comps.1.labelTendedWellInner>
+  <Miho_HawkInjury_Hediff.comps.1.labelSolidTendedWell>tended</Miho_HawkInjury_Hediff.comps.1.labelSolidTendedWell>
+  <Miho_HawkInjury_Hediff.injuryProps.destroyedLabel>Destroyed</Miho_HawkInjury_Hediff.injuryProps.destroyedLabel>
+  <Miho_HawkInjury_Hediff.injuryProps.destroyedOutLabel>Destroyed</Miho_HawkInjury_Hediff.injuryProps.destroyedOutLabel>
+  <Miho_HawkInjury_Hediff.labelNoun>매</Miho_HawkInjury_Hediff.labelNoun>
+
+  <Miho_Thunder_Hediff.label>감전</Miho_Thunder_Hediff.label>
+  <Miho_Thunder_Hediff.description>메카나이트들을 이용한 특수 전하로 메카노이드든 사람이든 공평하게 감전시킵니다.</Miho_Thunder_Hediff.description>
+
+  <Miho_Hawk_Hediff.label>사냥감 포착</Miho_Hawk_Hediff.label>
+  <Miho_Hawk_Hediff.description>메카나이트 사냥매가 적을 방해합니다.</Miho_Hawk_Hediff.description>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Weapon_PowerClaw.label>미호 파워클로</Miho_Weapon_PowerClaw.label>
+  <Miho_Weapon_PowerClaw.description>3개의 날과 1개의 송곳으로 이루어진 파워클로 입니다.</Miho_Weapon_PowerClaw.description>
+  <Miho_Weapon_PowerClaw.tools.0.label>blade</Miho_Weapon_PowerClaw.tools.0.label>
+  <Miho_Weapon_PowerClaw.tools.1.label>point</Miho_Weapon_PowerClaw.tools.1.label>
+
+  <Miho_Weapon_RingedBlade.label>미호 환도</Miho_Weapon_RingedBlade.label>
+  <Miho_Weapon_RingedBlade.description>적을 다져버리는데 좋은 큰 환도 입니다.</Miho_Weapon_RingedBlade.description>
+  <Miho_Weapon_RingedBlade.tools.0.label>handle</Miho_Weapon_RingedBlade.tools.0.label>
+  <Miho_Weapon_RingedBlade.tools.1.label>blade</Miho_Weapon_RingedBlade.tools.1.label>
+  <Miho_Weapon_RingedBlade.tools.2.label>point</Miho_Weapon_RingedBlade.tools.2.label>
+
+  <Miho_Weapon_Tachi.label>미호 대태도</Miho_Weapon_Tachi.label>
+  <Miho_Weapon_Tachi.description>거대한 외날검 입니다. 고대 지구의 무사들이 즐겨 썼다 합니다.</Miho_Weapon_Tachi.description>
+  <Miho_Weapon_Tachi.tools.0.label>handle</Miho_Weapon_Tachi.tools.0.label>
+  <Miho_Weapon_Tachi.tools.1.label>blade</Miho_Weapon_Tachi.tools.1.label>
+  <Miho_Weapon_Tachi.tools.2.label>point</Miho_Weapon_Tachi.tools.2.label>
+
+  <Miho_Weapon_Sappertool.label>미호 공병 망치</Miho_Weapon_Sappertool.label>
+  <Miho_Weapon_Sappertool.description>A combined blade and tool-head attached to a sturdy haft. While slightly less effective than other weapons against human enemies, it excels at tearing down walls, doors, and other structures thanks to its integrated tool-head.</Miho_Weapon_Sappertool.description>
+  <Miho_Weapon_Sappertool.tools.0.label>handle</Miho_Weapon_Sappertool.tools.0.label>
+  <Miho_Weapon_Sappertool.tools.1.label>head</Miho_Weapon_Sappertool.tools.1.label>
+
+  <Miho_Weapon_PlasmaTachi.label>미호 플라스마 대태도</Miho_Weapon_PlasmaTachi.label>
+  <Miho_Weapon_PlasmaTachi.description>플라즈마가 방출되는 개량된 거대한 외날검 입니다. 이 검의 절단력은 고대 지구의 제트스트림 전사의 검의 절단력과 맞먹습니다.</Miho_Weapon_PlasmaTachi.description>
+  <Miho_Weapon_PlasmaTachi.tools.0.label>handle</Miho_Weapon_PlasmaTachi.tools.0.label>
+  <Miho_Weapon_PlasmaTachi.tools.1.label>blade</Miho_Weapon_PlasmaTachi.tools.1.label>
+  <Miho_Weapon_PlasmaTachi.tools.2.label>point</Miho_Weapon_PlasmaTachi.tools.2.label>
+
+  <Miho_Weapon_Flag.label>노보리</Miho_Weapon_Flag.label>
+  <Miho_Weapon_Flag.description>돌격대 깃발 입니다.</Miho_Weapon_Flag.description>
+  <Miho_Weapon_Flag.tools.0.label>handle</Miho_Weapon_Flag.tools.0.label>
+
+  <Miho_Weapon_Flag_Shogitai.label>노보리 (창의대)</Miho_Weapon_Flag_Shogitai.label>
+  <Miho_Weapon_Flag_Shogitai.description>창의대 깃발 입니다.</Miho_Weapon_Flag_Shogitai.description>
+  <Miho_Weapon_Flag_Shogitai.tools.0.label>handle</Miho_Weapon_Flag_Shogitai.tools.0.label>
+
+
+</LanguageData>
